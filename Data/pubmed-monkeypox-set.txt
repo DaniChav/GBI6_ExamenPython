@@ -1,0 +1,937 @@
+PMID- 34158533
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211108
+LR  - 20220711
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2021 Jun 22
+TI  - Genomic history of human monkey pox infections in the Central African Republic 
+      between 2001 and 2018.
+PG  - 13085
+LID - 10.1038/s41598-021-92315-8 [doi]
+LID - 13085
+AB  - Monkeypox is an emerging infectious disease, which has a clinical presentation 
+      similar to smallpox. In the two past decades, Central Africa has seen an increase 
+      in the frequency of cases, with many monkeypox virus (MPXV) isolates detected in 
+      the Democratic Republic of Congo (DRC) and the Central African Republic (CAR). To 
+      date, no complete MPXV viral genome has been published from the human cases 
+      identified in the CAR. The objective of this study was to sequence the full 
+      genome of 10 MPXV isolates collected during the CAR epidemics between 2001 and 
+      2018 in order to determine their phylogenetic relationships among MPXV lineages 
+      previously described in Central Africa and West Africa. Our phylogenetic results 
+      indicate that the 10 CAR isolates belong to three lineages closely related to 
+      those found in DRC. The phylogenetic pattern shows that all of them emerged in 
+      the rainforest block of the Congo Basin. Since most human index cases in CAR 
+      occurred at the northern edge of western and eastern rainforests, transmissions 
+      from wild animals living in the rainforest is the most probable hypothesis. In 
+      addition, molecular dating estimates suggest that periods of intense political 
+      instability resulting in population movements within the country often associated 
+      also with increased poverty may have led to more frequent contact with host wild 
+      animals. The CAR socio-economic situation, armed conflicts and ecological 
+      disturbances will likely incite populations to interact more and more with wild 
+      animals and thus increase the risk of zoonotic spillover.
+FAU - Berthet, Nicolas
+AU  - Berthet N
+AD  - The Center for Microbes, Development and Health, CAS Key Laboratory of Molecular 
+      Virology and Immunology, Institut Pasteur of Shanghai-Chinese Academy of 
+      Sciences, Discovery and Molecular Characterization of Pathogens, No. 320 Yueyang 
+      Road, XuHui District, Shanghai, 200031, China. nicolas.berthet@pasteur.fr.
+AD  - Institut Pasteur, Unité Environnement et Risque Infectieux, Cellule 
+      d'Intervention Biologique d'Urgence, Paris, France. nicolas.berthet@pasteur.fr.
+AD  - Centre International de Recherches Médicales de Franceville (CIRMF), Franceville, 
+      Gabon. nicolas.berthet@pasteur.fr.
+FAU - Descorps-Declère, Stéphane
+AU  - Descorps-Declère S
+AD  - Institut Pasteur, Centre of Bioinformatics, Biostatistics and Integrative Biology 
+      (C3BI), Paris, France.
+FAU - Besombes, Camille
+AU  - Besombes C
+AD  - Institut Pasteur, Emerging Diseases Epidemiology Unit, Paris, France.
+FAU - Curaudeau, Manon
+AU  - Curaudeau M
+AD  - Institut de Systématique, Évolution, Biodiversité (ISYEB), Sorbonne Université, 
+      MNHN, CNRS, EPHE, UA, Paris, France.
+FAU - Nkili Meyong, Andriniaina Andy
+AU  - Nkili Meyong AA
+AD  - Centre International de Recherches Médicales de Franceville (CIRMF), Franceville, 
+      Gabon.
+FAU - Selekon, Benjamin
+AU  - Selekon B
+AD  - Institut Pasteur de Bangui, Bangui, Central African Republic.
+FAU - Labouba, Ingrid
+AU  - Labouba I
+AD  - Centre International de Recherches Médicales de Franceville (CIRMF), Franceville, 
+      Gabon.
+FAU - Gonofio, Ella Cyrielle
+AU  - Gonofio EC
+AD  - Institut Pasteur de Bangui, Bangui, Central African Republic.
+FAU - Ouilibona, Rita Sem
+AU  - Ouilibona RS
+AD  - Institut Pasteur de Bangui, Bangui, Central African Republic.
+FAU - Simo Tchetgna, Huguette Dorine
+AU  - Simo Tchetgna HD
+AD  - Centre International de Recherches Médicales de Franceville (CIRMF), Franceville, 
+      Gabon.
+FAU - Feher, Maxence
+AU  - Feher M
+AD  - Institut Pasteur, Unité Environnement et Risque Infectieux, Cellule 
+      d'Intervention Biologique d'Urgence, Paris, France.
+FAU - Fontanet, Arnaud
+AU  - Fontanet A
+AD  - Institut Pasteur, Emerging Diseases Epidemiology Unit, Paris, France.
+AD  - Unité Pasteur-CNAM Risques Infectieux et Emergents (PACRI), Conservatoire 
+      National des Arts et Métiers, Paris, France.
+FAU - Kazanji, Mirdad
+AU  - Kazanji M
+AD  - Institut Pasteur de Bangui, Bangui, Central African Republic.
+FAU - Manuguerra, Jean-Claude
+AU  - Manuguerra JC
+AD  - Institut Pasteur, Unité Environnement et Risque Infectieux, Cellule 
+      d'Intervention Biologique d'Urgence, Paris, France.
+FAU - Hassanin, Alexandre
+AU  - Hassanin A
+AD  - Institut Pasteur, Emerging Diseases Epidemiology Unit, Paris, France.
+FAU - Gessain, Antoine
+AU  - Gessain A
+AD  - Institut Pasteur, Unité d'Epidémiologie et Physiopathologie des Virus Oncogènes, 
+      Département de Virologie, Paris, France.
+AD  - Centre National de Recherche Scientifique (CNRS) UMR3569, Paris, France.
+FAU - Nakoune, Emmanuel
+AU  - Nakoune E
+AD  - Institut Pasteur de Bangui, Bangui, Central African Republic.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210622
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Biological Evolution
+MH  - Central African Republic/epidemiology
+MH  - Evolution, Molecular
+MH  - Genomics
+MH  - Humans
+MH  - Monkeypox/epidemiology/*genetics
+MH  - Monkeypox virus/*genetics/isolation & purification/pathogenicity
+MH  - Phylogeny
+PMC - PMC8219716
+COIS- The authors declare no competing interests.
+EDAT- 2021/06/24 06:00
+MHDA- 2021/11/09 06:00
+CRDT- 2021/06/23 06:58
+PHST- 2021/03/18 00:00 [received]
+PHST- 2021/06/02 00:00 [accepted]
+PHST- 2021/06/23 06:58 [entrez]
+PHST- 2021/06/24 06:00 [pubmed]
+PHST- 2021/11/09 06:00 [medline]
+AID - 10.1038/s41598-021-92315-8 [pii]
+AID - 92315 [pii]
+AID - 10.1038/s41598-021-92315-8 [doi]
+PST - epublish
+SO  - Sci Rep. 2021 Jun 22;11(1):13085. doi: 10.1038/s41598-021-92315-8.
+
+PMID- 15617321
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050310
+LR  - 20191109
+IS  - 0399-077X (Print)
+IS  - 0399-077X (Linking)
+VI  - 34
+IP  - 1
+DP  - 2004 Jan
+TI  - [Monkey-pox, a model of emergent then reemergent disease].
+PG  - 12-9
+AB  - The recent emergence of monkey pox in the United States of America highlights the 
+      problem (known for other infectious agents) of dissemination of pathogens outside 
+      their endemic area, and of subsequent global threats of variable gravity 
+      according to agents. It is a real emergency since monkey pox had been confined to 
+      Africa for several decades, where small epidemics occurred from time to time, 
+      monkey pox is a "miniature smallpox" which, in Africa, evolves on an endemic 
+      (zoonotic) mode with, as reservoirs, several species of wild rodents (mainly 
+      squirrels) and some monkey species. It can be accidentally transmitted to man 
+      then develops as epidemics, sometimes leading to death. The virus was imported in 
+      2003 in the United States of America, via Gambia rats and wild squirrels (all 
+      African species), and infected prairie dogs (which are now in fashion as pets), 
+      then crossed the species barrier to man. In the United States of America, 
+      screening campaigns, epidemiological investigations, and subsequent treatments 
+      led to a rapid control of the epidemic, which is a model of emergent disease for 
+      this country. Therapeutic and preventive measures directly applicable to monkey 
+      pox are discussed. They can also be applied against other pox virus infections 
+      (including smallpox). The risk of criminal introduction of pox viruses is 
+      discussed since it is, more than ever, a real worldwide threat.
+FAU - Georges, A J
+AU  - Georges AJ
+AD  - Hôpital des armées Legouest, Metz, France.
+FAU - Matton, T
+AU  - Matton T
+FAU - Courbot-Georges, M C
+AU  - Courbot-Georges MC
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Le monkey-pox, un paradigme de maladie émergente puis réémergente.
+PL  - France
+TA  - Med Mal Infect
+JT  - Medecine et maladies infectieuses
+JID - 0311416
+SB  - IM
+MH  - Animals
+MH  - Disease Reservoirs
+MH  - Global Health
+MH  - Humans
+MH  - Monkeypox/*epidemiology/transmission/veterinary
+MH  - Rodentia/virology
+MH  - United States/epidemiology
+MH  - Zoonoses
+RF  - 64
+EDAT- 2004/12/25 09:00
+MHDA- 2005/03/11 09:00
+CRDT- 2004/12/25 09:00
+PHST- 2004/12/25 09:00 [pubmed]
+PHST- 2005/03/11 09:00 [medline]
+PHST- 2004/12/25 09:00 [entrez]
+AID - S0399-077X(03)00350-0 [pii]
+AID - 10.1016/j.medmal.2003.09.008 [doi]
+PST - ppublish
+SO  - Med Mal Infect. 2004 Jan;34(1):12-9. doi: 10.1016/j.medmal.2003.09.008.
+
+PMID- 30981594
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200323
+LR  - 20200323
+IS  - 1557-9824 (Electronic)
+IS  - 0891-5520 (Linking)
+VI  - 33
+IP  - 4
+DP  - 2019 Dec
+TI  - Human Monkeypox: Epidemiologic and Clinical Characteristics, Diagnosis, and 
+      Prevention.
+PG  - 1027-1043
+LID - S0891-5520(19)30017-0 [pii]
+LID - 10.1016/j.idc.2019.03.001 [doi]
+AB  - Recently, concern has been raised about the emergence of human monkeypox virus 
+      and the occasionally severe clinical presentation bearing resemblance to that of 
+      smallpox. In 2018 3 patients in the UK were diagnosed with monkeypox, and the 
+      frequency and geographic distribution of cases across West and Central Africa 
+      have increased in recent years. In Nigeria, most monkeypox patients are aged 
+      <40 years and lack cross-protective immunity because they were born after 
+      discontinuation of the smallpox eradication campaign. This article reviews the 
+      epidemiology, clinical features, and management of monkeypox and discusses its 
+      growing public health threat in this context.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Petersen, Eskild
+AU  - Petersen E
+AD  - Institute of Clinical Medicine, University of Aarhus, Palle Juul-Jensens 
+      Boulevard 82, Aarhus N DK-8200, Denmark; The Royal Hospital, Muscat, Oman; 
+      European Society for Clinical Microbiology and Infectious Diseases, Task Force 
+      for Emerging Infections, Basel, Switzerland. Electronic address: 
+      eskild.petersen@gmail.com.
+FAU - Kantele, Anu
+AU  - Kantele A
+AD  - Inflammation Center, Helsinki University Hospital and Helsinki University, 
+      Stenbäckinkatu 9, PO BOX 100, Helsinki FI-00029 HUS, Finland.
+FAU - Koopmans, Marion
+AU  - Koopmans M
+AD  - Viroscience Department, Erasmus Medical Centre, Postbus 2040, Rotterdam 3000 CA, 
+      the Netherlands.
+FAU - Asogun, Danny
+AU  - Asogun D
+AD  - Department of Public Health, College of Medicine, Ambrose Alli University, 
+      Ekpoma, Nigeria; Department of Public Health, and Institute of Lassa Fever 
+      Research and Control, Irrua Specialist Teaching Hospital, Irrua, Nigeria.
+FAU - Yinka-Ogunleye, Adesola
+AU  - Yinka-Ogunleye A
+AD  - Nigeria Centre for Disease Control, Plot 801, Ebitu Ukiwe Street, Jabi, Abuja, 
+      Nigeria.
+FAU - Ihekweazu, Chikwe
+AU  - Ihekweazu C
+AD  - Nigeria Centre for Disease Control, Plot 801, Ebitu Ukiwe Street, Jabi, Abuja, 
+      Nigeria.
+FAU - Zumla, Alimuddin
+AU  - Zumla A
+AD  - Division of Infection and Immunity, Center for Clinical Microbiology, University 
+      College London, The National Institute of Health Research Biomedical Research 
+      Centre at UCL Hospitals, Gower Street, London WC1E 6BT, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20190411
+PL  - United States
+TA  - Infect Dis Clin North Am
+JT  - Infectious disease clinics of North America
+JID - 8804508
+SB  - IM
+MH  - Africa/epidemiology
+MH  - Animals
+MH  - Humans
+MH  - Monkeypox/*epidemiology/pathology/*virology
+MH  - Monkeypox virus/*physiology
+MH  - Risk Factors
+MH  - Zoonoses
+OTO - NOTNLM
+OT  - *Epidemic
+OT  - *Monkeypox
+OT  - *Smallpox
+OT  - *West Africa
+EDAT- 2019/04/15 06:00
+MHDA- 2020/03/24 06:00
+CRDT- 2019/04/15 06:00
+PHST- 2019/04/15 06:00 [pubmed]
+PHST- 2020/03/24 06:00 [medline]
+PHST- 2019/04/15 06:00 [entrez]
+AID - S0891-5520(19)30017-0 [pii]
+AID - 10.1016/j.idc.2019.03.001 [doi]
+PST - ppublish
+SO  - Infect Dis Clin North Am. 2019 Dec;33(4):1027-1043. doi: 
+      10.1016/j.idc.2019.03.001. Epub 2019 Apr 11.
+
+PMID- 35148313
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220311
+LR  - 20220711
+IS  - 1935-2735 (Electronic)
+IS  - 1935-2727 (Print)
+IS  - 1935-2727 (Linking)
+VI  - 16
+IP  - 2
+DP  - 2022 Feb
+TI  - The changing epidemiology of human monkeypox-A potential threat? A systematic 
+      review.
+PG  - e0010141
+LID - 10.1371/journal.pntd.0010141 [doi]
+LID - e0010141
+AB  - Monkeypox, a zoonotic disease caused by an orthopoxvirus, results in a 
+      smallpox-like disease in humans. Since monkeypox in humans was initially 
+      diagnosed in 1970 in the Democratic Republic of the Congo (DRC), it has spread to 
+      other regions of Africa (primarily West and Central), and cases outside Africa 
+      have emerged in recent years. We conducted a systematic review of peer-reviewed 
+      and grey literature on how monkeypox epidemiology has evolved, with particular 
+      emphasis on the number of confirmed, probable, and/or possible cases, age at 
+      presentation, mortality, and geographical spread. The review is registered with 
+      PROSPERO (CRD42020208269). We identified 48 peer-reviewed articles and 18 grey 
+      literature sources for data extraction. The number of human monkeypox cases has 
+      been on the rise since the 1970s, with the most dramatic increases occurring in 
+      the DRC. The median age at presentation has increased from 4 (1970s) to 21 years 
+      (2010-2019). There was an overall case fatality rate of 8.7%, with a significant 
+      difference between clades-Central African 10.6% (95% CI: 8.4%- 13.3%) vs. West 
+      African 3.6% (95% CI: 1.7%- 6.8%). Since 2003, import- and travel-related spread 
+      outside of Africa has occasionally resulted in outbreaks. Interactions/activities 
+      with infected animals or individuals are risk behaviors associated with acquiring 
+      monkeypox. Our review shows an escalation of monkeypox cases, especially in the 
+      highly endemic DRC, a spread to other countries, and a growing median age from 
+      young children to young adults. These findings may be related to the cessation of 
+      smallpox vaccination, which provided some cross-protection against monkeypox, 
+      leading to increased human-to-human transmission. The appearance of outbreaks 
+      beyond Africa highlights the global relevance of the disease. Increased 
+      surveillance and detection of monkeypox cases are essential tools for 
+      understanding the continuously changing epidemiology of this resurging disease.
+FAU - Bunge, Eveline M
+AU  - Bunge EM
+AUID- ORCID: 0000-0001-7988-909X
+AD  - Pallas Health Research and Consultancy, Rotterdam, The Netherlands.
+FAU - Hoet, Bernard
+AU  - Hoet B
+AUID- ORCID: 0000-0002-5345-3236
+AD  - Bavarian Nordic AG, Zug, Switzerland.
+FAU - Chen, Liddy
+AU  - Chen L
+AD  - Bavarian Nordic, Inc., Morrisville, North Carolina, United States of America.
+FAU - Lienert, Florian
+AU  - Lienert F
+AUID- ORCID: 0000-0002-9161-7107
+AD  - Bavarian Nordic AG, Zug, Switzerland.
+FAU - Weidenthaler, Heinz
+AU  - Weidenthaler H
+AUID- ORCID: 0000-0002-6866-4028
+AD  - Bavarian Nordic GmbH, Martinsried, Germany.
+FAU - Baer, Lorraine R
+AU  - Baer LR
+AD  - Baer PharMed Consulting, Ltd., Skokie, Illinois, United States of America.
+FAU - Steffen, Robert
+AU  - Steffen R
+AUID- ORCID: 0000-0001-7917-1141
+AD  - Epidemiology, Biostatistics and Prevention Institute, WHO Collaborating Center on 
+      Travelers' Health, University of Zurich, Zurich, Switzerland.
+AD  - Department of Epidemiology, Human Genetics and Environmental Sciences, University 
+      of Texas School of Public Health, Houston, Texas, United States of America.
+LA  - eng
+PT  - Historical Article
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20220211
+TA  - PLoS Negl Trop Dis
+JT  - PLoS neglected tropical diseases
+JID - 101291488
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Child
+MH  - Child, Preschool
+MH  - Democratic Republic of the Congo
+MH  - Female
+MH  - History, 20th Century
+MH  - History, 21st Century
+MH  - Humans
+MH  - Male
+MH  - Monkeypox/*epidemiology/history/mortality/virology
+MH  - Monkeypox virus/genetics/*physiology
+MH  - Travel-Related Illness
+MH  - Young Adult
+PMC - PMC8870502
+COIS- I have read the journal’s policy and the authors of this manuscript have the 
+      following competing interests: Bernard Hoet, Liddy Chen, Florian Lienert, and 
+      Heinz Weidenthaler are employees of Bavarian Nordic. Eveline M. Bunge is an 
+      employee of Pallas Health Research Consultancy. Lorraine R. Baer is an employee 
+      of Baer PharMed Consulting, Ltd., which received funding for the preparation of 
+      the manuscript. Robert Steffen has been paid for lectures and participation in 
+      advisory boards by various vaccine manufacturers, including Bavarian Nordic. 
+      Please note that the study was fully funded by Bavarian Nordic with two 
+      contracts, first with Pallas Health Research and Consultancy to perform the 
+      systematic review, second with Baer PharMed Consulting, Ltd to support manuscript 
+      development. It is only after reviewing the data acknowledging the public health 
+      importance that the authors decided to submit a manuscript on the subject. The 
+      following authors received salary from the funder (BH, LC, FL, HW). The funder 
+      had a role in study design, data collection and analysis, decision to publish, 
+      and preparation of the manuscript.
+EDAT- 2022/02/12 06:00
+MHDA- 2022/03/12 06:00
+CRDT- 2022/02/11 17:11
+PHST- 2021/06/22 00:00 [received]
+PHST- 2022/01/04 00:00 [accepted]
+PHST- 2022/02/24 00:00 [revised]
+PHST- 2022/02/12 06:00 [pubmed]
+PHST- 2022/03/12 06:00 [medline]
+PHST- 2022/02/11 17:11 [entrez]
+AID - PNTD-D-21-00919 [pii]
+AID - 10.1371/journal.pntd.0010141 [doi]
+PST - epublish
+SO  - PLoS Negl Trop Dis. 2022 Feb 11;16(2):e0010141. doi: 
+      10.1371/journal.pntd.0010141. eCollection 2022 Feb.
+
+PMID- 33167496
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210305
+LR  - 20210305
+IS  - 1999-4915 (Electronic)
+IS  - 1999-4915 (Linking)
+VI  - 12
+IP  - 11
+DP  - 2020 Nov 5
+TI  - Monkeypox Virus in Nigeria: Infection Biology, Epidemiology, and Evolution.
+LID - 10.3390/v12111257 [doi]
+LID - 1257
+AB  - Monkeypox is a zoonotic disease caused by monkeypox virus (MPXV), which is a 
+      member of orthopoxvirus genus. The reemergence of MPXV in 2017 (at Bayelsa state) 
+      after 39 years of no reported case in Nigeria, and the export of travelers' 
+      monkeypox (MPX) from Nigeria to other parts of the world, in 2018 and 2019, 
+      respectively, have raised concern that MPXV may have emerged to occupy the 
+      ecological and immunological niche vacated by smallpox virus. This review X-rays 
+      the current state of knowledge pertaining the infection biology, epidemiology, 
+      and evolution of MPXV in Nigeria and worldwide, especially with regard to the 
+      human, cellular, and viral factors that modulate the virus transmission dynamics, 
+      infection, and its maintenance in nature. This paper also elucidates the role of 
+      recombination, gene loss and gene gain in MPXV evolution, chronicles the role of 
+      signaling in MPXV infection, and reviews the current therapeutic options 
+      available for the treatment and prevention of MPX. Additionally, genome-wide 
+      phylogenetic analysis was undertaken, and we show that MPXV isolates from recent 
+      2017 outbreak in Nigeria were monophyletic with the isolate exported to Israel 
+      from Nigeria but do not share the most recent common ancestor with isolates 
+      obtained from earlier outbreaks, in 1971 and 1978, respectively. Finally, the 
+      review highlighted gaps in knowledge particularly the non-identification of a 
+      definitive reservoir host animal for MPXV and proposed future research endeavors 
+      to address the unresolved questions.
+FAU - Alakunle, Emmanuel
+AU  - Alakunle E
+AUID- ORCID: 0000-0003-1960-6152
+AD  - Department of Natural and Environmental Sciences, Biomedical Science 
+      Concentration, School of Arts and Sciences, American University of Nigeria, 98 
+      Lamido Zubairu Way, PMB 2250 Yola, Nigeria.
+FAU - Moens, Ugo
+AU  - Moens U
+AD  - Molecular Inflammation Research Group, Institute of Medical Biology, University i 
+      Tromsø (UIT)-The Arctic University of Norway, N-9037 Tromsø, Norway.
+FAU - Nchinda, Godwin
+AU  - Nchinda G
+AD  - Laboratory of Vaccinology and Immunology, The Chantal Biya International 
+      Reference Center for Research on the Prevention and Management HIV/AIDS (CIRCB), 
+      P.O Box 3077 Yaoundé-Messa, Cameroon.
+AD  - Department of Pharmaceutical Microbiology & Biotechnology, Faculty of 
+      Pharmaceutical Sciences, Nnamdi Azikiwe University, P.O Box 420110 Awka, Nigeria.
+FAU - Okeke, Malachy Ifeanyi
+AU  - Okeke MI
+AUID- ORCID: 0000-0002-7137-9551
+AD  - Department of Natural and Environmental Sciences, Biomedical Science 
+      Concentration, School of Arts and Sciences, American University of Nigeria, 98 
+      Lamido Zubairu Way, PMB 2250 Yola, Nigeria.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20201105
+TA  - Viruses
+JT  - Viruses
+JID - 101509722
+RN  - 0 (DNA, Viral)
+SB  - IM
+MH  - Animals
+MH  - DNA, Viral/genetics
+MH  - *Evolution, Molecular
+MH  - Humans
+MH  - Mice
+MH  - Monkeypox/*epidemiology/transmission
+MH  - Monkeypox virus/*genetics/pathogenicity
+MH  - Nigeria/epidemiology
+MH  - Phylogeny
+MH  - Recombination, Genetic
+MH  - Viral Zoonoses/*epidemiology/transmission
+PMC - PMC7694534
+OTO - NOTNLM
+OT  - *Nigeria
+OT  - *Poxviridae
+OT  - *antiviral drugs
+OT  - *epidemiology
+OT  - *gene loss
+OT  - *monkeypox viruses
+OT  - *orthopoxviruses
+OT  - *phylogeny
+OT  - *recombination
+OT  - *signaling
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/11/11 06:00
+MHDA- 2021/03/06 06:00
+CRDT- 2020/11/10 01:05
+PHST- 2020/09/30 00:00 [received]
+PHST- 2020/10/22 00:00 [revised]
+PHST- 2020/10/30 00:00 [accepted]
+PHST- 2020/11/10 01:05 [entrez]
+PHST- 2020/11/11 06:00 [pubmed]
+PHST- 2021/03/06 06:00 [medline]
+AID - v12111257 [pii]
+AID - viruses-12-01257 [pii]
+AID - 10.3390/v12111257 [doi]
+PST - epublish
+SO  - Viruses. 2020 Nov 5;12(11):1257. doi: 10.3390/v12111257.
+
+PMID- 24158414
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140820
+LR  - 20220316
+IS  - 1537-6591 (Electronic)
+IS  - 1058-4838 (Linking)
+VI  - 58
+IP  - 2
+DP  - 2014 Jan
+TI  - Human monkeypox.
+PG  - 260-7
+LID - 10.1093/cid/cit703 [doi]
+AB  - Human monkeypox is a zoonotic Orthopoxvirus with a presentation similar to 
+      smallpox. Clinical differentiation of the disease from smallpox and varicella is 
+      difficult. Laboratory diagnostics are principal components to identification and 
+      surveillance of disease, and new tests are needed for a more precise and rapid 
+      diagnosis. The majority of human infections occur in Central Africa, where 
+      surveillance in rural areas with poor infrastructure is difficult but can be 
+      accomplished with evidence-guided tools and educational materials to inform 
+      public health workers of important principles. Contemporary epidemiological 
+      studies are needed now that populations do not receive routine smallpox 
+      vaccination. New therapeutics and vaccines offer hope for the treatment and 
+      prevention of monkeypox; however, more research must be done before they are 
+      ready to be deployed in an endemic setting. There is a need for more research in 
+      the epidemiology, ecology, and biology of the virus in endemic areas to better 
+      understand and prevent human infections.
+FAU - McCollum, Andrea M
+AU  - McCollum AM
+AD  - Poxvirus and Rabies Branch, Division of High-Consequence Pathogens and Pathology, 
+      National Center for Emerging and Zoonotic Infectious Diseases, Centers for 
+      Disease Control and Prevention, Atlanta, Georgia.
+FAU - Damon, Inger K
+AU  - Damon IK
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+DEP - 20131024
+PL  - United States
+TA  - Clin Infect Dis
+JT  - Clinical infectious diseases : an official publication of the Infectious Diseases 
+      Society of America
+JID - 9203213
+SB  - IM
+EIN - Clin Infect Dis. 2014 Jun;58(12):1792
+MH  - Africa, Central/epidemiology
+MH  - Animals
+MH  - Communicable Diseases, Emerging/diagnosis/*epidemiology/virology
+MH  - Endemic Diseases
+MH  - Humans
+MH  - Monkeypox/diagnosis/*epidemiology/virology
+MH  - Orthopoxvirus/*isolation & purification
+MH  - Rural Population
+MH  - Zoonoses/diagnosis/*epidemiology/virology
+OTO - NOTNLM
+OT  - Orthopoxvirus
+OT  - monkeypox
+OT  - smallpox
+EDAT- 2013/10/26 06:00
+MHDA- 2014/08/21 06:00
+CRDT- 2013/10/26 06:00
+PHST- 2013/10/26 06:00 [entrez]
+PHST- 2013/10/26 06:00 [pubmed]
+PHST- 2014/08/21 06:00 [medline]
+AID - cit703 [pii]
+AID - 10.1093/cid/cit703 [doi]
+PST - ppublish
+SO  - Clin Infect Dis. 2014 Jan;58(2):260-7. doi: 10.1093/cid/cit703. Epub 2013 Oct 24.
+
+PMID- 35038257
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220119
+LR  - 20220430
+IS  - 0189-160X (Print)
+IS  - 0189-160X (Linking)
+VI  - 38
+IP  - 12
+DP  - 2021 Dec 30
+TI  - Human Monkey Pox Virus Infection in Plateau State, North Central Nigeria: A 
+      Report of Two Cases.
+PG  - 1242-1246
+AB  - BACKGROUND: Human Monkey Pox Virus (HMPV) infection is a zoonotic infection that 
+      is endemic in the Congo basin and West Africa. Its similarity to smallpox 
+      infection, increased susceptibility infection in human populations, lack of a 
+      definitive therapy and its potential for use as a bioterrorism tool underscores 
+      its public health importance. OBJECTIVE: To describe the characteristics of HMPV 
+      infection in Plateau State, North Central Nigeria. METHODS: This was a case study 
+      of HMPV infection occurring in two Nigerian adults, seen in 2018, at Bingham 
+      University Teaching Hospital in Jos, Plateau State, Nigeria. The cases involved 
+      two siblings, and these were the first reported cases in Plateau State of 
+      Nigeria, which has an estimated population of 3.5 million persons. The diagnosis 
+      was based on a combination of clinical features and positive PCR tests on samples 
+      from the skin lesions and blood. RESULTS: The first case, a 20-year-old male, 
+      presented with a one week history of fever, headache, pain on swallowing and 
+      micturition, and generalised skin lesions. The second case is a 20 year old step 
+      brother of the first case, and the primary care provider to first case when he 
+      took ill. He also presented with a one-week history of fever, headache, pain on 
+      swallowing, and skin lesions which were less intense than in the first case. PCR 
+      assays of samples from the skin lesions and blood were positive in both cases. 
+      The other comorbidity in both cases was pharyngotonsillitis. Blood, throat, 
+      stool, and urine cultures for suspected sepsis and urinary tract infection were 
+      all negative. Both cases were admitted and discharged after receiving a course of 
+      antibiotics, antihistamine, Non-Steroidal Anti-Inflammatory Drugs, and 
+      multivitamins. Universal precautions were observed. CONCLUSION: HMPV infection in 
+      our environment underscores the need to strengthen preventive health strategies 
+      against this infection.
+CI  - Copyright © 2021 by West African Journal of Medicine.
+FAU - Eseigbe, E E
+AU  - Eseigbe EE
+AD  - Pinneo Centre for Infectious Diseases, Bingham University Teaching Hospital, Jos, 
+      Nigeria.
+AD  - Department of Paediatrics, Bingham University Teaching Hospital, Jos, Nigeria.
+AD  - Department of Paediatrics, Benue State University, Makurdi, Nigeria.
+FAU - Akude, C
+AU  - Akude C
+AD  - Pinneo Centre for Infectious Diseases, Bingham University Teaching Hospital, Jos, 
+      Nigeria.
+AD  - Department of Family Medicine, Bingham University Teaching Hospital, Jos, 
+      Nigeria.
+FAU - Osagie, I A
+AU  - Osagie IA
+AD  - Department of Community Medicine, Bingham University Teaching Hospital, Jos, 
+      Nigeria.
+FAU - Eseigbe, P
+AU  - Eseigbe P
+AD  - Department of Family Medicine, Bingham University Teaching Hospital, Jos, 
+      Nigeria.
+LA  - eng
+PT  - Case Reports
+PL  - Nigeria
+TA  - West Afr J Med
+JT  - West African journal of medicine
+JID - 8301891
+SB  - IM
+MH  - Health Personnel
+MH  - *Hospitals, Teaching
+MH  - Hospitals, University
+MH  - Humans
+MH  - Male
+MH  - *Monkeypox virus
+MH  - Nigeria
+OTO - NOTNLM
+OT  - Clinical presentation
+OT  - Human Monkey Pox Virus
+OT  - Nigeria
+COIS- The Authors declare that no competing interest exists
+EDAT- 2022/01/18 06:00
+MHDA- 2022/01/20 06:00
+CRDT- 2022/01/17 12:47
+PHST- 2022/01/17 12:47 [entrez]
+PHST- 2022/01/18 06:00 [pubmed]
+PHST- 2022/01/20 06:00 [medline]
+AID - West Afr J Med. 2021 December; 38 (12): 1242-1246 [pii]
+PST - ppublish
+SO  - West Afr J Med. 2021 Dec 30;38(12):1242-1246.
+
+PMID- 30445121
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200210
+LR  - 20200309
+IS  - 1872-9096 (Electronic)
+IS  - 0166-3542 (Print)
+IS  - 0166-3542 (Linking)
+VI  - 162
+DP  - 2019 Feb
+TI  - Vaccinating against monkeypox in the Democratic Republic of the Congo.
+PG  - 171-177
+LID - S0166-3542(18)30596-5 [pii]
+LID - 10.1016/j.antiviral.2018.11.004 [doi]
+AB  - Healthcare-associated transmission of monkeypox has been observed on multiple 
+      occasions in areas where the disease is endemic. Data collected by the US Centers 
+      for Disease Control and Prevention (CDC) from an ongoing CDC-supported program of 
+      enhanced surveillance in the Tshuapa Province of the Democratic Republic of the 
+      Congo, where the annual incidence of human monkeypox is estimated to be 
+      3.5-5/10,000, suggests that there is approximately one healthcare worker 
+      infection for every 100 confirmed monkeypox cases. Herein, we describe a study 
+      that commenced in February 2017, the intent of which is to evaluate the 
+      effectiveness, immunogenicity, and safety of a third-generation smallpox vaccine, 
+      IMVAMUNE(®), in healthcare personnel at risk of monkeypox virus (MPXV) infection. 
+      We describe procedures for documenting exposures to monkeypox virus infection in 
+      study participants, and outline lessons learned that may be of relevance for 
+      studies of other investigational medical countermeasures in hard to reach, 
+      under-resourced populations.
+CI  - Copyright © 2018. Published by Elsevier B.V.
+FAU - Petersen, Brett W
+AU  - Petersen BW
+AD  - U.S. Centers for Disease Control and Prevention, Atlanta, USA. Electronic 
+      address: bpetersen@cdc.gov.
+FAU - Kabamba, Joelle
+AU  - Kabamba J
+AD  - U.S. Centers for Disease Control and Prevention, Kinshasa, Democratic Republic of 
+      the Congo.
+FAU - McCollum, Andrea M
+AU  - McCollum AM
+AD  - U.S. Centers for Disease Control and Prevention, Atlanta, USA.
+FAU - Lushima, Robert Shongo
+AU  - Lushima RS
+AD  - Hemorrhagic Fever and Monkeypox Program, Ministry of Health, Kinshasa, Democratic 
+      Republic of the Congo.
+FAU - Wemakoy, Emile Okitolonda
+AU  - Wemakoy EO
+AD  - Kinshasa School of Public Health, Kinshasa, Democratic Republic of the Congo.
+FAU - Muyembe Tamfum, Jean-Jacques
+AU  - Muyembe Tamfum JJ
+AD  - National Institute for Biomedical Research, Kinshasa, Democratic Republic of the 
+      Congo.
+FAU - Nguete, Beatrice
+AU  - Nguete B
+AD  - Kinshasa School of Public Health, Kinshasa, Democratic Republic of the Congo.
+FAU - Hughes, Christine M
+AU  - Hughes CM
+AD  - U.S. Centers for Disease Control and Prevention, Atlanta, USA.
+FAU - Monroe, Benjamin P
+AU  - Monroe BP
+AD  - U.S. Centers for Disease Control and Prevention, Atlanta, USA.
+FAU - Reynolds, Mary G
+AU  - Reynolds MG
+AD  - U.S. Centers for Disease Control and Prevention, Atlanta, USA.
+LA  - eng
+GR  - CC999999/Intramural CDC HHS/United States
+GR  - U01 CK000539/CK/NCEZID CDC HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+DEP - 20181114
+TA  - Antiviral Res
+JT  - Antiviral research
+JID - 8109699
+RN  - 0 (Smallpox Vaccine)
+RN  - 0 (Vaccines, Attenuated)
+RN  - TU8J357395 (imvamune)
+SB  - IM
+MH  - Animals
+MH  - Clinical Trials as Topic
+MH  - Democratic Republic of the Congo/epidemiology
+MH  - *Health Personnel
+MH  - Health Resources
+MH  - Humans
+MH  - Immunogenicity, Vaccine
+MH  - Monkeypox/epidemiology/*prevention & control
+MH  - Monkeypox virus
+MH  - Occupational Diseases/epidemiology/*prevention & control/virology
+MH  - Risk Factors
+MH  - Rural Population
+MH  - Smallpox Vaccine/*administration & dosage/immunology
+MH  - Vaccination
+MH  - Vaccines, Attenuated/administration & dosage/immunology
+PMC - PMC6438175
+MID - NIHMS1009764
+OTO - NOTNLM
+OT  - *Clinical trial
+OT  - *Democratic Republic of the Congo
+OT  - *IMVAMUNE
+OT  - *Monkeypox
+OT  - *Smallpox vaccine
+EDAT- 2018/11/18 06:00
+MHDA- 2020/02/11 06:00
+CRDT- 2018/11/17 06:00
+PHST- 2018/10/03 00:00 [received]
+PHST- 2018/11/09 00:00 [revised]
+PHST- 2018/11/12 00:00 [accepted]
+PHST- 2018/11/18 06:00 [pubmed]
+PHST- 2020/02/11 06:00 [medline]
+PHST- 2018/11/17 06:00 [entrez]
+AID - S0166-3542(18)30596-5 [pii]
+AID - 10.1016/j.antiviral.2018.11.004 [doi]
+PST - ppublish
+SO  - Antiviral Res. 2019 Feb;162:171-177. doi: 10.1016/j.antiviral.2018.11.004. Epub 
+      2018 Nov 14.
+
+PMID- 16111257
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20051027
+LR  - 20110727
+IS  - 0047-1852 (Print)
+IS  - 0047-1852 (Linking)
+VI  - 63 Suppl 7
+DP  - 2005 Jul
+TI  - [Diagnostic tests: Monkey pox].
+PG  - 304-6
+FAU - Yoshikawa, Yasuhiro
+AU  - Yoshikawa Y
+AD  - Graduate School of Agricultural andLife Sciences, University of Tokyo.
+LA  - jpn
+PT  - Journal Article
+PT  - Review
+PL  - Japan
+TA  - Nihon Rinsho
+JT  - Nihon rinsho. Japanese journal of clinical medicine
+JID - 0420546
+RN  - 0 (DNA, Viral)
+SB  - IM
+MH  - Animals
+MH  - DNA, Viral/isolation & purification
+MH  - Haplorhini
+MH  - Humans
+MH  - Monkey Diseases/*diagnosis/transmission/virology
+MH  - Monkeypox/*diagnosis/transmission/*veterinary/virology
+MH  - Monkeypox virus/genetics/*isolation & purification
+MH  - Polymerase Chain Reaction
+MH  - Rodent Diseases/diagnosis/transmission/virology
+MH  - Rodentia
+MH  - *Zoonoses
+RF  - 8
+EDAT- 2005/08/23 09:00
+MHDA- 2005/10/28 09:00
+CRDT- 2005/08/23 09:00
+PHST- 2005/08/23 09:00 [pubmed]
+PHST- 2005/10/28 09:00 [medline]
+PHST- 2005/08/23 09:00 [entrez]
+PST - ppublish
+SO  - Nihon Rinsho. 2005 Jul;63 Suppl 7:304-6.
+
+PMID- 16731033
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060816
+LR  - 20220316
+IS  - 1386-6532 (Print)
+IS  - 1386-6532 (Linking)
+VI  - 36
+IP  - 3
+DP  - 2006 Jul
+TI  - Detection of monkeypox virus with real-time PCR assays.
+PG  - 194-203
+AB  - BACKGROUND: Human monkeypox, a zoonotic disease, was first reported outside of 
+      Africa during the 2003 US outbreak. OBJECTIVES: We present two real-time PCR 
+      assays critical for laboratory diagnosis of monkeypox during the 2003 US 
+      outbreak. STUDY DESIGN: A TaqMan-based assay (E9L-NVAR) targets the orthopoxvirus 
+      DNA polymerase gene and detects Eurasian orthopoxviruses other than Variola. A 
+      hybridization assay, utilizing a MGB Eclipsetrade mark (Epoch Biosciences) probe, 
+      targets an envelope protein gene (B6R) and specifically detects monkeypox virus 
+      (MPXV). Assays were validated using coded orthopoxvirus DNA samples and used to 
+      evaluate lesion samples from five confirmed US monkeypox cases. RESULTS: E9L-NVAR 
+      did not detect variola (48 strains), North American orthopoxviruses (2), or DNA 
+      derived from non-poxviral rash illnesses. The assay reproducibly identified 
+      various concentrations of 13 Eurasian orthopoxvirus strains and was sensitive to 
+      12.5 vaccinia genomes. The B6R assay recognized 15 different MPXV strains, while 
+      other orthopoxvirus (9) and bacteria (15) strains did not cross-react. Of the 13 
+      human samples tested from confirmed cases, both assays identified 100% as 
+      containing MPXV DNA. CONCLUSIONS: E9L-NVAR and B6R assays demonstrate 100% 
+      specificity for non-variola Eurasian orthopoxvirus and MPXV, respectively. Using 
+      two discrete viral gene targets, these assays together provide a reliable and 
+      sensitive method for quickly confirming monkeypox infections.
+FAU - Li, Yu
+AU  - Li Y
+AD  - Poxvirus Program, Division of Viral and Rickettsial Diseases, National Centers of 
+      Infectious Diseases, Centers for Disease Control and Prevention, Mail Stop G-43, 
+      1600 Clifton Road, NE, Atlanta, GA 30333, USA.
+FAU - Olson, Victoria A
+AU  - Olson VA
+FAU - Laue, Thomas
+AU  - Laue T
+FAU - Laker, Miriam T
+AU  - Laker MT
+FAU - Damon, Inger K
+AU  - Damon IK
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+DEP - 20060530
+PL  - Netherlands
+TA  - J Clin Virol
+JT  - Journal of clinical virology : the official publication of the Pan American 
+      Society for Clinical Virology
+JID - 9815671
+RN  - 0 (DNA, Viral)
+RN  - 0 (Reagent Kits, Diagnostic)
+RN  - 0 (Viral Envelope Proteins)
+RN  - EC 2.7.7.- (Taq Polymerase)
+RN  - EC 2.7.7.7 (DNA-Directed DNA Polymerase)
+SB  - IM
+MH  - Adult
+MH  - Animals
+MH  - Base Sequence
+MH  - Child
+MH  - Child, Preschool
+MH  - DNA, Viral/analysis/isolation & purification
+MH  - DNA-Directed DNA Polymerase/genetics
+MH  - *Disease Outbreaks
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - Molecular Sequence Data
+MH  - Monkeypox/*diagnosis/*epidemiology/virology
+MH  - Monkeypox virus/genetics/*isolation & purification
+MH  - Polymerase Chain Reaction/*methods
+MH  - Reagent Kits, Diagnostic
+MH  - Sensitivity and Specificity
+MH  - Taq Polymerase
+MH  - United States/epidemiology
+MH  - Viral Envelope Proteins/genetics
+EDAT- 2006/05/30 09:00
+MHDA- 2006/08/17 09:00
+CRDT- 2006/05/30 09:00
+PHST- 2005/09/07 00:00 [received]
+PHST- 2006/03/13 00:00 [revised]
+PHST- 2006/03/17 00:00 [accepted]
+PHST- 2006/05/30 09:00 [pubmed]
+PHST- 2006/08/17 09:00 [medline]
+PHST- 2006/05/30 09:00 [entrez]
+AID - S1386-6532(06)00122-3 [pii]
+AID - 10.1016/j.jcv.2006.03.012 [doi]
+PST - ppublish
+SO  - J Clin Virol. 2006 Jul;36(3):194-203. doi: 10.1016/j.jcv.2006.03.012. Epub 2006 
+      May 30.
