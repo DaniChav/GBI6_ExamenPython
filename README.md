@@ -20,6 +20,8 @@ Examen Parcial 2 G01
 ## PROGRAMAS UTILIZADOS
 - Gitbash V2360
 - Github Desktop 3.0.0
+- Python 3.10.6
+- Anaconda 1.9.0
 
 
 Repositorio del curso de Bioinformática Semestre 2022I
