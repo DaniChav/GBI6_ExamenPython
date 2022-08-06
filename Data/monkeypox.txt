@@ -1,4 +1,311 @@
 
+PMID- 35931354
+OWN - NLM
+STAT- Publisher
+LR  - 20220805
+IS  - 1743-9159 (Electronic)
+IS  - 1743-9159 (Linking)
+DP  - 2022 Aug 2
+TI  - Monkeypox outbreak, will it affect surgery services? - Correspondence.
+PG  - 106809
+LID - S1743-9191(22)00586-6 [pii]
+LID - 10.1016/j.ijsu.2022.106809 [doi]
+FAU - Dominguez Alvarado, Gonzalo Andres
+AU  - Dominguez Alvarado GA
+AD  - Medico, Especialista Epidemiologia, Docente, Universidad Autonoma de Bucaramanga,Grupo de innovacion e investigacion Quirurgica (GIIQ), Floridablanca, Santander, Colombia. Electronic address: gdominguez@unab.edu.co.
+FAU - Rativa Hernandez, Jorge Andres
+AU  - Rativa Hernandez JA
+AD  - Medico General, Universidad Industrial de Santander, Bucaramanga, Santander,Colombia.
+FAU - Hortua Moreno, Andres Felipe
+AU  - Hortua Moreno AF
+AD  - Medico General, Universidad Industrial de Santander, Bucaramanga, Santander,Colombia.
+FAU - Eljaiek Orozco, Jesus Manuel
+AU  - Eljaiek Orozco JM
+AD  - Medico General, Universidad de Santander, Bucaramanga, Santander, Colombia.
+FAU - Rodriguez Cotamo, Jessica Johana
+AU  - Rodriguez Cotamo JJ
+AD  - Medica General, Universidad Autonoma de Bucaramanga, Floridablanca, Santander,Colombia.
+FAU - Lopez Gomez, Luis Ernesto
+AU  - Lopez Gomez LE
+AD  - Cirugia General, Oncologica, Fellow Cirugia Minimamente invasiva y Bariatrica,presidente Asociacion Colombiana de Obesidad y Cirugia Bariatrica, FoscalInternacional, Bucaramanga, Santander Colombia.
+FAU - Gomez, Sergio Serrano
+AU  - Gomez SS
+AD  - Medico, Magister en Epidemiologia, Director centro de Investigacion, Universidad Autonoma de Bucaramanga, Floridablanca, Santander, Colombia.
+LA  - eng
+PT  - Letter
+DEP - 20220802
+PL  - England
+TA  - Int J Surg
+JT  - International journal of surgery (London, England)
+JID - 101228232
+SB  - IM
+COIS- Declaration of competing interest None.
+EDAT- 2022/08/06 06:00
+MHDA- 2022/08/06 06:00
+CRDT- 2022/08/05 19:27
+PHST- 2022/07/09 00:00 [received]
+PHST- 2022/07/28 00:00 [accepted]
+PHST- 2022/08/05 19:27 [entrez]
+PHST- 2022/08/06 06:00 [pubmed]
+PHST- 2022/08/06 06:00 [medline]
+AID - S1743-9191(22)00586-6 [pii]
+AID - 10.1016/j.ijsu.2022.106809 [doi]
+PST - aheadofprint
+SO  - Int J Surg. 2022 Aug 2:106809. doi: 10.1016/j.ijsu.2022.106809.
+
+PMID- 35931096
+OWN - NLM
+STAT- Publisher
+LR  - 20220805
+IS  - 1474-4457 (Electronic)
+IS  - 1473-3099 (Linking)
+DP  - 2022 Aug 2
+TI  - Monkeypox: how will we know if the treatments work?
+LID - S1473-3099(22)00514-X [pii]
+LID - 10.1016/S1473-3099(22)00514-X [doi]
+FAU - Rojek, Amanda
+AU  - Rojek A
+AD  - International Severe Acute Respiratory and Emerging Infections Consortium,Pandemic Sciences Institute, University of Oxford, Oxford OX3 7DQ, UK; Emergency Department, Royal Melbourne Hospital, Melbourne, VIC, Australia. Electronicaddress: amanda.rojek@ndm.ox.ac.uk.
+FAU - Dunning, Jake
+AU  - Dunning J
+AD  - International Severe Acute Respiratory and Emerging Infections Consortium,Pandemic Sciences Institute, University of Oxford, Oxford OX3 7DQ, UK; Departmentof Infectious Diseases, Royal Free London NHS Foundation Trust, London, UK.
+FAU - Olliaro, Piero
+AU  - Olliaro P
+AD  - International Severe Acute Respiratory and Emerging Infections Consortium,Pandemic Sciences Institute, University of Oxford, Oxford OX3 7DQ, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20220802
+PL  - United States
+TA  - Lancet Infect Dis
+JT  - The Lancet. Infectious diseases
+JID - 101130150
+SB  - IM
+COIS- All authors are investigators on the MOSAIC cohort study for monkeypox and theExpanded Access Programme of tecovirimat in the Central African Republic. JD isan investigator on the PALM 007 trial.
+EDAT- 2022/08/06 06:00
+MHDA- 2022/08/06 06:00
+CRDT- 2022/08/05 19:02
+PHST- 2022/07/21 00:00 [received]
+PHST- 2022/07/25 00:00 [revised]
+PHST- 2022/07/25 00:00 [accepted]
+PHST- 2022/08/05 19:02 [entrez]
+PHST- 2022/08/06 06:00 [pubmed]
+PHST- 2022/08/06 06:00 [medline]
+AID - S1473-3099(22)00514-X [pii]
+AID - 10.1016/S1473-3099(22)00514-X [doi]
+PST - aheadofprint
+SO  - Lancet Infect Dis. 2022 Aug 2. pii: S1473-3099(22)00514-X. doi:10.1016/S1473-3099(22)00514-X.
+
+PMID- 35931095
+OWN - NLM
+STAT- Publisher
+LR  - 20220805
+IS  - 1474-4457 (Electronic)
+IS  - 1473-3099 (Linking)
+DP  - 2022 Aug 2
+TI  - Monkeypox virus isolation from a semen sample collected in the early phase ofinfection in a patient with prolonged seminal viral shedding.
+LID - S1473-3099(22)00513-8 [pii]
+LID - 10.1016/S1473-3099(22)00513-8 [doi]
+FAU - Lapa, Daniele
+AU  - Lapa D
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Carletti, Fabrizio
+AU  - Carletti F
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Mazzotta, Valentina
+AU  - Mazzotta V
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Matusali, Giulia
+AU  - Matusali G
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Pinnetti, Carmela
+AU  - Pinnetti C
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Meschi, Silvia
+AU  - Meschi S
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Gagliardini, Roberta
+AU  - Gagliardini R
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Colavita, Francesca
+AU  - Colavita F
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy. Electronic address:francesca.colavita@inmi.it.
+FAU - Mondi, Annalisa
+AU  - Mondi A
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Minosse, Claudia
+AU  - Minosse C
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Scorzolini, Laura
+AU  - Scorzolini L
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Cicalini, Stefania
+AU  - Cicalini S
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Maffongelli, Gaetano
+AU  - Maffongelli G
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Specchiarello, Eliana
+AU  - Specchiarello E
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Camici, Marta
+AU  - Camici M
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Bettini, Aurora
+AU  - Bettini A
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Baldini, Francesco
+AU  - Baldini F
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Francalancia, Massimo
+AU  - Francalancia M
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Mizzoni, Klizia
+AU  - Mizzoni K
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Garbuglia, Anna Rosa
+AU  - Garbuglia AR
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Nicastri, Emanuele
+AU  - Nicastri E
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Girardi, Enrico
+AU  - Girardi E
+AD  - Scientific Direction, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Antinori, Andrea
+AU  - Antinori A
+AD  - Clinical and Research Department, National Institute for Infectious Diseases'Lazzaro Spallanzani' (IRCCS), Rome, Italy.
+FAU - Vaia, Francesco
+AU  - Vaia F
+AD  - General Direction, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+FAU - Maggi, Fabrizio
+AU  - Maggi F
+AD  - Laboratory of Virology, National Institute for Infectious Diseases 'LazzaroSpallanzani' (IRCCS), Rome, Italy.
+CN  - INMI Monkeypox Study Group
+LA  - eng
+PT  - Journal Article
+DEP - 20220802
+PL  - United States
+TA  - Lancet Infect Dis
+JT  - The Lancet. Infectious diseases
+JID - 101130150
+SB  - IM
+COIS- We declare no competing interests. DL and FC contributed equally to this work. AAand FM contributed equally to this work. The patient provided written informedconsent to the use of their data and clinical samples for the research purposesof the present study, for which we thank them. We thank the nursing andlaboratory staff for their crucial contributions in collecting and processingsamples. This work was supported by the Italian Ministry of Health (RicercaCorrente-line 1 and 2) and the European Commission Horizon 2020(European-Virus-Archive-GLOBAL-871029). The INMI Monkeypox Study Group includesIsabella Abbate, Alessandro Agresta, Alessandra Amendola, Andrea Antinori,Francesco Baldini, Tommaso Ascoli Bartoli, Alessia Beccacece, Rita Bellagamba,Giulia Berno, Aurora Bettini, Nazario Bevilacqua, Licia Bordi, Marta Camici,Fabrizio Carletti, Angela Corpolongo, Stefania Cicalini, Francesca Colavita,Alessandra D'Abramo, Gabriella De Carli, Federico De Zottis, Lavinia Fabeni,Francesca Faraglia, Federica Forbici, Concetta Maria Fusco, Roberta Gagliardini, Anna Rosa Garbuglia, Saba Gebremeskel, Maria Letizia Giancola, Emanuela Giombini,Enrico Girardi, Giulia Gramigna, Elisabetta Grilli, Susanna Grisetti, CesareErnesto Maria Gruber, Eleonora Lalle, Simone Lanini, Daniele Lapa, GaetanoMaffongelli, Fabrizio Maggi, Alessandra Marani, Andrea Mariano, IlariaMastrorosa, Giulia Matusali, Silvia Meschi, Valentina Mazzotta, Claudia Minosse, Klizia Mizzoni, Martina Moccione, Annalisa Mondi, Vanessa Mondillo, NicolettaOrchi, Sandrine Ottou, Carmela Pinnetti, Silvia Pittalis, Vincenzo Puro, SilviaRosati, Gabriella Rozera, Martina Rueca, Laura Scorzolini, Eliana Specchiarello, Francesco Vaia, Francesco Vairo, Beatrice Valli, Alessandra Vergori, and SerenaVita.
+EDAT- 2022/08/06 06:00
+MHDA- 2022/08/06 06:00
+CRDT- 2022/08/05 19:02
+PHST- 2022/07/06 00:00 [received]
+PHST- 2022/07/22 00:00 [revised]
+PHST- 2022/07/25 00:00 [accepted]
+PHST- 2022/08/05 19:02 [entrez]
+PHST- 2022/08/06 06:00 [pubmed]
+PHST- 2022/08/06 06:00 [medline]
+AID - S1473-3099(22)00513-8 [pii]
+AID - 10.1016/S1473-3099(22)00513-8 [doi]
+PST - aheadofprint
+SO  - Lancet Infect Dis. 2022 Aug 2. pii: S1473-3099(22)00513-8. doi:10.1016/S1473-3099(22)00513-8.
+
+PMID- 35928519
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220805
+IS  - 2052-2975 (Print)
+IS  - 2052-2975 (Linking)
+VI  - 48
+DP  - 2022 Jul
+TI  - Monkeypox virus outbreak: a brief timeline.
+PG  - 101004
+LID - 10.1016/j.nmni.2022.101004 [doi]
+FAU - Anwar, F
+AU  - Anwar F
+AD  - Department of Biotechnology and Genetic Engineering, Hazara University, Mansehra,21300, KP, Pakistan.
+FAU - Waris, A
+AU  - Waris A
+AD  - Department of Biomedical Sciences, City University of Hong Kong, SAR, Hong Kong.
+LA  - eng
+PT  - Journal Article
+DEP - 20220701
+PL  - England
+TA  - New Microbes New Infect
+JT  - New microbes and new infections
+JID - 101624750
+PMC - PMC9344352
+OTO - NOTNLM
+OT  - Infection
+OT  - Monkeypox
+OT  - Pakistan
+OT  - re-emerging virus
+OT  - timeline
+COIS- None.
+EDAT- 2022/08/06 06:00
+MHDA- 2022/08/06 06:01
+CRDT- 2022/08/05 02:12
+PHST- 2022/06/07 00:00 [received]
+PHST- 2022/06/14 00:00 [revised]
+PHST- 2022/06/24 00:00 [accepted]
+PHST- 2022/08/05 02:12 [entrez]
+PHST- 2022/08/06 06:00 [pubmed]
+PHST- 2022/08/06 06:01 [medline]
+AID - 10.1016/j.nmni.2022.101004 [doi]
+AID - S2052-2975(22)00056-7 [pii]
+PST - epublish
+SO  - New Microbes New Infect. 2022 Jul 1;48:101004. doi: 10.1016/j.nmni.2022.101004.eCollection 2022 Jul.
+
+PMID- 35928395
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220805
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Linking)
+VI  - 14
+IP  - 7
+DP  - 2022 Jul
+TI  - Monkeypox: A Comprehensive Review of Transmission, Pathogenesis, andManifestation.
+PG  - e26531
+LID - 10.7759/cureus.26531 [doi]
+AB  - As the fear of the coronavirus disease 2019 (COVID-19) pandemic subsides,countries around the globe are now dealing with a fear of the epidemicsurrounding the prevalence of monkeypox cases in various regions. Previouslyendemic to regions of Africa, the majority of monkeypox cases associated with the2022 outbreak are being noted in countries around Europe and in the westernhemisphere. While contact-tracing projects are being conducted by variousorganizations, it is unknown how this outbreak began. Monkeypox virus is one ofthe many zoonotic viruses that belong to the Orthopoxvirus genus of thePoxviridae family. Monkeypox cases received global attention during the 1970s,after the global eradication of smallpox. The smallpox vaccine providedcross-immunity to the monkeypox virus. Upon the cessation of smallpox vaccineadministration, monkeypox cases became more prevalent. It was not until the 2003 US outbreak that monkeypox truly gained global attention. Despite the virus beingnamed monkeypox, monkeys are not the origin of the virus. Several rodents andsmall mammals have been attributed as the source of the virus; however, it isunknown what the true origin of monkeypox is. The name monkeypox is due to theviral infection being first witnessed in macaque monkeys. Though human-to-humantransmission of monkeypox is very rare, it is commonly attributed to respiratory droplets or direct contact with mucocutaneous lesions of an infected individual. Currently, there is no treatment allocated for infected individuals, however,supportive treatments can be administered to provide symptom relief toindividuals; Medications such as tecovirimat may be administered in very severecases. These treatments are subjective, as there are no exact guidelines forsymptom relief.
+CI  - Copyright (c) 2022, Kaler et al.
+FAU - Kaler, Jasndeep
+AU  - Kaler J
+AD  - Medicine, Xavier University School of Medicine, Oranjestad, ABW.
+FAU - Hussain, Azhar
+AU  - Hussain A
+AD  - Healthcare Administration, Franklin University, Columbus, USA.
+FAU - Flores, Gina
+AU  - Flores G
+AD  - Medicine, Rutgers University, New York, USA.
+FAU - Kheiri, Shehreen
+AU  - Kheiri S
+AD  - Pharmacology, Touro College of Pharmacy, New York, USA.
+FAU - Desrosiers, Dara
+AU  - Desrosiers D
+AD  - Cardiology, St. Joseph's College, New York, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220703
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC9345383
+OTO - NOTNLM
+OT  - chordopoxvirinae
+OT  - monkeypox
+OT  - orthopoxvirus
+OT  - poxviridae
+OT  - poxvirus
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2022/08/06 06:00
+MHDA- 2022/08/06 06:01
+CRDT- 2022/08/05 02:10
+PHST- 2022/07/03 00:00 [accepted]
+PHST- 2022/08/05 02:10 [entrez]
+PHST- 2022/08/06 06:00 [pubmed]
+PHST- 2022/08/06 06:01 [medline]
+AID - 10.7759/cureus.26531 [doi]
+PST - epublish
+SO  - Cureus. 2022 Jul 3;14(7):e26531. doi: 10.7759/cureus.26531. eCollection 2022 Jul.
+
 PMID- 35926767
 OWN - NLM
 STAT- Publisher
@@ -271,11 +578,11 @@ OT  - Outbreak
 OT  - Zoonotic disease
 OT  - Monkeypox
 EDAT- 2022/08/05 06:00
-MHDA- 2022/08/05 06:00
+MHDA- 2022/08/06 06:00
 CRDT- 2022/08/04 04:43
 PHST- 2022/08/04 04:43 [entrez]
 PHST- 2022/08/05 06:00 [pubmed]
-PHST- 2022/08/05 06:00 [medline]
+PHST- 2022/08/06 06:00 [medline]
 PST - ppublish
 SO  - Rev Med Liege. 2022 Jul;77(7-8):452-455.
 
@@ -372,11 +679,11 @@ MH  - Disease Outbreaks
 MH  - Humans
 MH  - *Monkeypox/epidemiology
 EDAT- 2022/08/04 06:00
-MHDA- 2022/08/04 06:00
+MHDA- 2022/08/06 06:00
 CRDT- 2022/08/03 21:44
 PHST- 2022/08/03 21:44 [entrez]
 PHST- 2022/08/04 06:00 [pubmed]
-PHST- 2022/08/04 06:00 [medline]
+PHST- 2022/08/06 06:00 [medline]
 AID - 10.3760/cma.j.cn112140-20220607-00520 [doi]
 PST - ppublish
 SO  - Zhonghua Er Ke Za Zhi. 2022 Aug 2;60(8):836-839. doi:10.3760/cma.j.cn112140-20220607-00520.
@@ -451,11 +758,11 @@ MH  - *Monkeypox/epidemiology
 MH  - Monkeypox virus
 COIS- The Authors declare that no competing interest exists.
 EDAT- 2022/08/04 06:00
-MHDA- 2022/08/04 06:00
+MHDA- 2022/08/06 06:00
 CRDT- 2022/08/03 17:32
 PHST- 2022/08/03 17:32 [entrez]
 PHST- 2022/08/04 06:00 [pubmed]
-PHST- 2022/08/04 06:00 [medline]
+PHST- 2022/08/06 06:00 [medline]
 AID - West Afr J Med. 2022 July; 39 (7): 653-654 [pii]
 PST - ppublish
 SO  - West Afr J Med. 2022 Jul 31;39(7):653-654.
@@ -495,11 +802,11 @@ MH  - Humans
 MH  - *Monkeypox
 MH  - *Viral Vaccines
 EDAT- 2022/08/04 06:00
-MHDA- 2022/08/04 06:00
+MHDA- 2022/08/06 06:00
 CRDT- 2022/08/03 14:04
 PHST- 2022/08/03 14:04 [entrez]
 PHST- 2022/08/04 06:00 [pubmed]
-PHST- 2022/08/04 06:00 [medline]
+PHST- 2022/08/06 06:00 [medline]
 AID - 10.1056/NEJMe2210394 [doi]
 PST - ppublish
 SO  - N Engl J Med. 2022 Aug 4;387(5):e16. doi: 10.1056/NEJMe2210394.
@@ -9799,10 +10106,10 @@ OT  - Monkeypox
 OT  - Pathology
 OT  - Testing
 EDAT- 2022/06/26 06:00
-MHDA- 2022/06/26 06:00
+MHDA- 2022/08/06 06:00
 CRDT- 2022/06/25 10:02
 PHST- 2022/06/26 06:00 [pubmed]
-PHST- 2022/06/26 06:00 [medline]
+PHST- 2022/08/06 06:00 [medline]
 PHST- 2022/06/25 10:02 [entrez]
 AID - 6617956 [pii]
 AID - 10.1093/ajcp/aqac091 [doi]
@@ -36693,299 +37000,3 @@ AID - S0042-6822(13)00310-3 [pii]
 AID - 10.1016/j.virol.2013.05.029 [doi]
 PST - ppublish
 SO  - Virology. 2013 Sep 1;443(2):358-62. doi: 10.1016/j.virol.2013.05.029. Epub 2013Jun 27.
-
-PMID- 23798698
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20140203
-LR  - 20211021
-IS  - 1471-2970 (Electronic)
-IS  - 0962-8436 (Linking)
-VI  - 368
-IP  - 1623
-DP  - 2013 Aug 5
-TI  - Vacated niches, competitive release and the community ecology of pathogeneradication.
-PG  - 20120150
-LID - 10.1098/rstb.2012.0150 [doi]
-AB  - A recurring theme in the epidemiological literature on disease eradication isthat each pathogen occupies an ecological niche, and eradication of one pathogen leaves a vacant niche that favours the emergence of new pathogens to replace it. However, eminent figures have rejected this view unequivocally, stating thatthere is no basis to fear pathogen replacement and even that pathogen niches donot exist. After exploring the roots of this controversy, I propose resolutionsto disputed issues by drawing on broader ecological theory, and advance a newconsensus based on robust mechanistic principles. I argue that pathogeneradication (and cessation of vaccination) leads to a 'vacated niche', whichcould be re-invaded by the original pathogen if introduced. Consequences forother pathogens will vary, with the crucial mechanisms being competitive release,whereby the decline of one species allows its competitors to perform better, and evolutionary adaptation. Hence, eradication can cause a quantitative rise in the incidence of another infection, but whether this leads to emergence as an endemicpathogen depends on additional factors. I focus on the case study of humanmonkeypox and its rise following smallpox eradication, but also survey how these ideas apply to other pathogens and discuss implications for eradication policy.
-FAU - Lloyd-Smith, James O
-AU  - Lloyd-Smith JO
-AD  - Department of Ecology and Evolutionary Biology, University of California, LosAngeles, 610 Charles E. Young Drive South, Los Angeles, CA 90095, USA.jlloydsmith@ucla.edu
-LA  - eng
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-PT  - Research Support, U.S. Gov't, Non-P.H.S.
-DEP - 20130624
-PL  - England
-TA  - Philos Trans R Soc Lond B Biol Sci
-JT  - Philosophical transactions of the Royal Society of London. Series B, Biologicalsciences
-JID - 7503623
-SB  - IM
-MH  - Adaptation, Biological/*physiology
-MH  - Animals
-MH  - Disease Eradication/*methods
-MH  - Ecology/*methods
-MH  - Humans
-MH  - *Models, Biological
-MH  - Monkeypox/epidemiology
-MH  - Population Dynamics
-MH  - Smallpox/epidemiology
-MH  - Species Specificity
-MH  - Zoonoses/*transmission
-PMC - PMC3720048
-OTO - NOTNLM
-OT  - competitive release
-OT  - ecological niche
-OT  - emerging infectious disease
-OT  - monkeypox
-OT  - pathogen eradication
-OT  - zoonosis
-EDAT- 2013/06/27 06:00
-MHDA- 2014/02/04 06:00
-CRDT- 2013/06/27 06:00
-PHST- 2013/06/27 06:00 [entrez]
-PHST- 2013/06/27 06:00 [pubmed]
-PHST- 2014/02/04 06:00 [medline]
-AID - rstb.2012.0150 [pii]
-AID - 10.1098/rstb.2012.0150 [doi]
-PST - epublish
-SO  - Philos Trans R Soc Lond B Biol Sci. 2013 Jun 24;368(1623):20120150. doi:10.1098/rstb.2012.0150. Print 2013 Aug 5.
-
-PMID- 23760373
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20131231
-LR  - 20220409
-IS  - 0971-5916 (Print)
-IS  - 0971-5916 (Linking)
-VI  - 137
-IP  - 5
-DP  - 2013 May
-TI  - Smallpox: can we still learn from the journey to eradication?
-PG  - 895-9
-AB  - One of the most celebrated achievements of immunology and modern medicine is the eradication of the dreaded plague smallpox. From the introduction of smallpoxvaccination by Edward Jenner, to its popularization by Louis Pasteur, to theeradication effort led by Donald Henderson, this story has many lessons for ustoday, including the characteristics of the disease and vaccine that permittedits eradication, and the obviousness of the vaccine as a vector for otherintractable Infectious diseases. The disease itself, interpreted in the light of modern molecular immunology, is an obvious immunopathological disease, whichoccurs after a latent interval of 1-2 weeks, and manifests as a systemiccell-mediated delayed type hypersensitivity (DTH) syndrome. The vaccine thatslayed this dragon was given the name vaccinia, and was thought to have evolvedfrom cowpox virus, but is now known to be most closely related to a poxvirusisolated from a horse. Of interest is the fact that of the various isolates oforthopox viruses, only variola, vaccinia and monkeypox viruses can infect humans.In contrast to the systemic disease of variola, vaccinia only replicates locally at the site of inoculation, and causes a localized DTH response that usuallypeaks after 7-10 days. This difference in the pathogenicity of variola vs.vaccinia is thought to be due to the capacity of variola to circumvent innateimmunity, which allows it to disseminate widely before the adaptive immuneresponse occurs. Thus, the fact that vaccinia virus is attenuated compared tovariola, but is still replication competent, makes for its remarkable efficacy asa vaccine, as the localized infection activates all of the cells and molecules ofboth innate and adaptive immunity. Accordingly vaccinia itself, and not modified replication incompetent vaccina, is the hope for use as a vector in theeradication of additional pathogenic microbes from the globe.
-FAU - Smith, Kendall A
-AU  - Smith KA
-AD  - The Division of Immunology, Department of Medicine, Weill Medical College,Cornell University, New York, USA. kasmith@med.cornell.edu
-LA  - eng
-PT  - Historical Article
-PT  - Journal Article
-PT  - Review
-PL  - India
-TA  - Indian J Med Res
-JT  - The Indian journal of medical research
-JID - 0374701
-SB  - IM
-MH  - Adaptive Immunity
-MH  - Animals
-MH  - *Disease Eradication
-MH  - History, 19th Century
-MH  - History, 20th Century
-MH  - Humans
-MH  - Monkeypox virus
-MH  - Smallpox/*epidemiology/history/*pathology
-MH  - Vaccination
-MH  - Variola virus/genetics/*pathogenicity
-PMC - PMC3734679
-EDAT- 2013/06/14 06:00
-MHDA- 2014/01/01 06:00
-CRDT- 2013/06/14 06:00
-PHST- 2013/06/14 06:00 [entrez]
-PHST- 2013/06/14 06:00 [pubmed]
-PHST- 2014/01/01 06:00 [medline]
-AID - IndianJMedRes_2013_137_5_895_113002 [pii]
-PST - ppublish
-SO  - Indian J Med Res. 2013 May;137(5):895-9.
-
-PMID- 23658504
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20140311
-LR  - 20211021
-IS  - 1553-7358 (Electronic)
-IS  - 1553-734X (Linking)
-VI  - 9
-IP  - 5
-DP  - 2013
-TI  - Inference of R(0) and transmission heterogeneity from the size distribution ofstuttering chains.
-PG  - e1002993
-LID - 10.1371/journal.pcbi.1002993 [doi]
-AB  - For many infectious disease processes such as emerging zoonoses andvaccine-preventable diseases, [Formula: see text] and infections occur asself-limited stuttering transmission chains. A mechanistic understanding oftransmission is essential for characterizing the risk of emerging diseases andmonitoring spatio-temporal dynamics. Thus methods for inferring [Formula: seetext] and the degree of heterogeneity in transmission from stuttering chain data have important applications in disease surveillance and management. Previousresearchers have used chain size distributions to infer [Formula: see text], but estimation of the degree of individual-level variation in infectiousness (asquantified by the dispersion parameter, [Formula: see text]) has typicallyrequired contact tracing data. Utilizing branching process theory along with anegative binomial offspring distribution, we demonstrate how maximum likelihoodestimation can be applied to chain size data to infer both [Formula: see text]and the dispersion parameter that characterizes heterogeneity. While the maximum likelihood value for [Formula: see text] is a simple function of the averagechain size, the associated confidence intervals are dependent on the inferreddegree of transmission heterogeneity. As demonstrated for monkeypox data from theDemocratic Republic of Congo, this impacts when a statistically significantchange in [Formula: see text] is detectable. In addition, by allowing forsuperspreading events, inference of [Formula: see text] shifts the thresholdabove which a transmission chain should be considered anomalously large for agiven value of [Formula: see text] (thus reducing the probability of false alarmsabout pathogen adaptation). Our analysis of monkeypox also clarifies the various ways that imperfect observation can impact inference of transmission parameters, and highlights the need to quantitatively evaluate whether observation is likely to significantly bias results.
-FAU - Blumberg, Seth
-AU  - Blumberg S
-AD  - Fogarty International Center, National Institute of Health, Bethesda, Maryland,USA. seth.blumberg@ucsf.edu
-FAU - Lloyd-Smith, James O
-AU  - Lloyd-Smith JO
-LA  - eng
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Research Support, U.S. Gov't, Non-P.H.S.
-DEP - 20130502
-PL  - United States
-TA  - PLoS Comput Biol
-JT  - PLoS computational biology
-JID - 101238922
-SB  - IM
-MH  - Animals
-MH  - Cluster Analysis
-MH  - Computer Simulation
-MH  - *Contact Tracing
-MH  - Democratic Republic of the Congo
-MH  - *Disease Transmission, Infectious
-MH  - Humans
-MH  - *Models, Biological
-MH  - *Models, Statistical
-MH  - Monkeypox/transmission
-MH  - Zoonoses/transmission
-PMC - PMC3642075
-EDAT- 2013/05/10 06:00
-MHDA- 2014/03/13 06:00
-CRDT- 2013/05/10 06:00
-PHST- 2012/08/21 00:00 [received]
-PHST- 2013/02/04 00:00 [accepted]
-PHST- 2013/05/10 06:00 [entrez]
-PHST- 2013/05/10 06:00 [pubmed]
-PHST- 2014/03/13 06:00 [medline]
-AID - 10.1371/journal.pcbi.1002993 [doi]
-AID - PCOMPBIOL-D-12-01328 [pii]
-PST - ppublish
-SO  - PLoS Comput Biol. 2013;9(5):e1002993. doi: 10.1371/journal.pcbi.1002993. Epub2013 May 2.
-
-PMID- 23658452
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20130904
-LR  - 20211021
-IS  - 1098-5514 (Electronic)
-IS  - 0022-538X (Linking)
-VI  - 87
-IP  - 14
-DP  - 2013 Jul
-TI  - Assessment of the protective effect of Imvamune and Acam2000 vaccines againstaerosolized monkeypox virus in cynomolgus macaques.
-PG  - 7805-15
-LID - 10.1128/JVI.03481-12 [doi]
-AB  - To support the licensure of a new and safer vaccine to protect people againstsmallpox, a monkeypox model of infection in cynomolgus macaques, which simulates smallpox in humans, was used to evaluate two vaccines, Acam2000 and Imvamune, forprotection against disease. Animals vaccinated with a single immunization ofImvamune were not protected completely from severe and/or lethal infection,whereas those receiving either a prime and boost of Imvamune or a singleimmunization with Acam2000 were protected completely. Additional parameters,including clinical observations, radiographs, viral load in blood, throat swabs, and selected tissues, vaccinia virus-specific antibody responses,immunophenotyping, extracellular cytokine levels, and histopathology wereassessed. There was no significant difference (P > 0.05) between the levels ofneutralizing antibody in animals vaccinated with a single immunization ofAcam2000 (132 U/ml) and the prime-boost Imvamune regime (69 U/ml) prior tochallenge with monkeypox virus. After challenge, there was evidence of viralexcretion from the throats of 2 of 6 animals in the prime-boost Imvamune group,whereas there was no confirmation of excreted live virus in the Acam2000 group.This evaluation of different human smallpox vaccines in cynomolgus macaques helpsto provide information about optimal vaccine strategies in the absence of humanchallenge studies.
-FAU - Hatch, Graham J
-AU  - Hatch GJ
-AD  - Microbiological Services, Public Health England, Salisbury, Wiltshire, UnitedKingdom. graham.hatch@phe.gov.uk
-FAU - Graham, Victoria A
-AU  - Graham VA
-FAU - Bewley, Kevin R
-AU  - Bewley KR
-FAU - Tree, Julia A
-AU  - Tree JA
-FAU - Dennis, Mike
-AU  - Dennis M
-FAU - Taylor, Irene
-AU  - Taylor I
-FAU - Funnell, Simon G P
-AU  - Funnell SG
-FAU - Bate, Simon R
-AU  - Bate SR
-FAU - Steeds, Kimberley
-AU  - Steeds K
-FAU - Tipton, Thomas
-AU  - Tipton T
-FAU - Bean, Thomas
-AU  - Bean T
-FAU - Hudson, Laura
-AU  - Hudson L
-FAU - Atkinson, Deborah J
-AU  - Atkinson DJ
-FAU - McLuckie, Gemma
-AU  - McLuckie G
-FAU - Charlwood, Melanie
-AU  - Charlwood M
-FAU - Roberts, Allen D G
-AU  - Roberts AD
-FAU - Vipond, Julia
-AU  - Vipond J
-LA  - eng
-PT  - Comparative Study
-PT  - Evaluation Study
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-DEP - 20130508
-PL  - United States
-TA  - J Virol
-JT  - Journal of virology
-JID - 0113724
-RN  - 0 (Antibodies, Neutralizing)
-RN  - 0 (Smallpox Vaccine)
-RN  - 0 (Vaccines, Attenuated)
-RN  - TU8J357395 (imvamune)
-SB  - IM
-MH  - Animals
-MH  - Antibodies, Neutralizing/immunology
-MH  - Enzyme-Linked Immunosorbent Assay
-MH  - Female
-MH  - Flow Cytometry
-MH  - Immunization/*methods
-MH  - Macaca fascicularis
-MH  - Male
-MH  - Orthopoxvirus/*immunology
-MH  - Poxviridae Infections/*prevention & control
-MH  - Real-Time Polymerase Chain Reaction
-MH  - Smallpox Vaccine/*pharmacology
-MH  - Vaccines, Attenuated/pharmacology
-MH  - Virus Shedding/immunology
-PMC - PMC3700201
-EDAT- 2013/05/10 06:00
-MHDA- 2013/09/05 06:00
-CRDT- 2013/05/10 06:00
-PHST- 2013/05/10 06:00 [entrez]
-PHST- 2013/05/10 06:00 [pubmed]
-PHST- 2013/09/05 06:00 [medline]
-AID - JVI.03481-12 [pii]
-AID - 10.1128/JVI.03481-12 [doi]
-PST - ppublish
-SO  - J Virol. 2013 Jul;87(14):7805-15. doi: 10.1128/JVI.03481-12. Epub 2013 May 8.
-
-PMID- 23626656
-OWN - NLM
-STAT- PubMed-not-MEDLINE
-LR  - 20211021
-IS  - 1746-0794 (Print)
-IS  - 1746-0794 (Linking)
-VI  - 8
-IP  - 2
-DP  - 2013 Feb 1
-TI  - A review of experimental and natural infections of animals with monkeypox virusbetween 1958 and 2012.
-PG  - 129-157
-AB  - Monkeypox virus (MPXV) was discovered in 1958 during an outbreak in an animalfacility in Copenhagen, Denmark. Since its discovery, MPXV has revealed apropensity to infect and induce disease in a large number of animals within themammalia class from pan-geographical locations. This finding has impeded theelucidation of the natural host, although the strongest candidates are Africansquirrels and/or other rodents. Experimentally, MPXV can infect animals via avariety of multiple different inoculation routes; however, the natural route oftransmission is unknown and is likely to be somewhat species specific. In thisreview we have attempted to compile and discuss all published articles thatdescribe experimental or natural infections with MPXV, dating from the initialdiscovery of the virus through to the year 2012. We further discuss thecomparative disease courses and pathologies of the host species.
-FAU - Parker, Scott
-AU  - Parker S
-AD  - Department of Molecular Microbiology & Immunology, Saint Louis University School of Medicine, 1100 S. Grand Blvd, Saint Louis, MO 63104, USA.
-FAU - Buller, R Mark
-AU  - Buller RM
-LA  - eng
-GR  - N01 AI015436/AI/NIAID NIH HHS/United States
-PT  - Journal Article
-PL  - England
-TA  - Future Virol
-JT  - Future virology
-JID - 101278124
-PMC - PMC3635111
-MID - NIHMS456531
-OTO - NOTNLM
-OT  - aerosol
-OT  - animals
-OT  - infection
-OT  - intrabronchial
-OT  - intradermal
-OT  - intramuscular
-OT  - intranasal
-OT  - intratracheal
-OT  - intravenous
-OT  - outbreak
-OT  - primates
-OT  - subcutaneous
-EDAT- 2013/04/30 06:00
-MHDA- 2013/04/30 06:01
-CRDT- 2013/04/30 06:00
-PHST- 2013/04/30 06:00 [entrez]
-PHST- 2013/04/30 06:00 [pubmed]
-PHST- 2013/04/30 06:01 [medline]
-AID - 10.2217/fvl.12.130 [doi]
-PST - ppublish
-SO  - Future Virol. 2013 Feb 1;8(2):129-157. doi: 10.2217/fvl.12.130.
