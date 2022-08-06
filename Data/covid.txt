@@ -64,7 +64,7 @@ SO  - Occup Environ Med. 2022 Aug 4. pii: oemed-2022-108276. doi:10.1136/oemed-2
 
 PMID- 35926987
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 2044-6055 (Electronic)
 IS  - 2044-6055 (Linking)
@@ -128,7 +128,7 @@ SO  - BMJ Open. 2022 Aug 4;12(8):e060767. doi: 10.1136/bmjopen-2022-060767.
 
 PMID- 35926985
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 2044-6055 (Electronic)
 IS  - 2044-6055 (Linking)
@@ -187,7 +187,7 @@ SO  - BMJ Open. 2022 Aug 4;12(8):e059477. doi: 10.1136/bmjopen-2021-059477.
 
 PMID- 35926967
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1268-6034 (Print)
 IS  - 1268-6034 (Linking)
@@ -235,7 +235,7 @@ SO  - Soins Gerontol. 2022 Jul-Aug;27(156):10-12. doi: 10.1016/j.sger.2022.05.00
 
 PMID- 35926948
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1347-8648 (Electronic)
 IS  - 1347-8613 (Linking)
@@ -283,7 +283,7 @@ SO  - J Pharmacol Sci. 2022 Sep;150(1):9-20. doi: 10.1016/j.jphs.2022.06.001. Ep
 
 PMID- 35926945
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1347-8648 (Electronic)
 IS  - 1347-8613 (Linking)
@@ -359,7 +359,7 @@ SO  - J Pharmacol Sci. 2022 Sep;150(1):21-30. doi: 10.1016/j.jphs.2022.06.002. E
 
 PMID- 35926937
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1558-3597 (Electronic)
 IS  - 0735-1097 (Linking)
@@ -505,7 +505,7 @@ SO  - BJGP Open. 2022 Aug 4. pii: BJGPO.2022.0039. doi: 10.3399/BJGPO.2022.0039.
 
 PMID- 35926883
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1488-2310 (Electronic)
 IS  - 0008-428X (Linking)
@@ -555,7 +555,7 @@ SO  - Can J Surg. 2022 Aug 4;65(4):E496-E503. doi: 10.1503/cjs.016721. Print 202
 
 PMID- 35926879
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1756-1833 (Electronic)
 IS  - 0959-8138 (Linking)
@@ -588,7 +588,7 @@ SO  - BMJ. 2022 Aug 4;378:o1941. doi: 10.1136/bmj.o1941.
 
 PMID- 35926873
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 2575-1077 (Electronic)
 IS  - 2575-1077 (Linking)
@@ -683,7 +683,7 @@ SO  - Life Sci Alliance. 2022 Aug 4;5(12). pii: 5/12/e202201432. doi:10.26508/ls
 
 PMID- 35926861
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1756-1833 (Electronic)
 IS  - 0959-8138 (Linking)
@@ -715,7 +715,7 @@ SO  - BMJ. 2022 Aug 4;378:o1946. doi: 10.1136/bmj.o1946.
 
 PMID- 35926858
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 2155-7780 (Electronic)
 IS  - 2155-7780 (Linking)
@@ -1420,7 +1420,7 @@ SO  - Arch Phys Med Rehabil. 2022 Aug 1. pii: S0003-9993(22)00538-X. doi:10.1016
 
 PMID- 35926561
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1545-1151 (Electronic)
 IS  - 1545-1151 (Linking)
@@ -2008,7 +2008,7 @@ SO  - Curr Opin Psychol. 2022 Jul 4;47:101414. doi: 10.1016/j.copsyc.2022.101414
 PMID- 35926387
 OWN - NLM
 STAT- Publisher
-LR  - 20220804
+LR  - 20220805
 IS  - 1095-8630 (Electronic)
 IS  - 0301-4797 (Linking)
 VI  - 320
@@ -2058,9 +2058,9 @@ CRDT- 2022/08/04 18:26
 PHST- 2022/05/17 00:00 [received]
 PHST- 2022/07/15 00:00 [revised]
 PHST- 2022/07/18 00:00 [accepted]
-PHST- 2022/08/04 18:26 [entrez]
 PHST- 2022/08/05 06:00 [pubmed]
 PHST- 2022/08/05 06:00 [medline]
+PHST- 2022/08/04 18:26 [entrez]
 AID - S0301-4797(22)01379-2 [pii]
 AID - 10.1016/j.jenvman.2022.115806 [doi]
 PST - aheadofprint
@@ -3193,7 +3193,7 @@ SO  - Sci Immunol. 2022 Aug 4:eabp9962. doi: 10.1126/sciimmunol.abp9962.
 
 PMID- 35926013
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
@@ -3245,7 +3245,7 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0269421. doi: 10.1371/journal.pone.0269421.eCo
 
 PMID- 35926006
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
@@ -3291,7 +3291,7 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0270843. doi: 10.1371/journal.pone.0270843.eCo
 
 PMID- 35926004
 OWN - NLM
-STAT- Publisher
+STAT- In-Process
 LR  - 20220804
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
@@ -3357,8 +3357,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0271802. doi: 10.1371/journal.pone.0271802.eCo
 
 PMID- 35925973
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3422,8 +3422,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0267505. doi: 10.1371/journal.pone.0267505.eCo
 
 PMID- 35925962
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3473,8 +3473,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0271157. doi: 10.1371/journal.pone.0271157.eCo
 
 PMID- 35925948
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3528,8 +3528,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0272537. doi: 10.1371/journal.pone.0272537.eCo
 
 PMID- 35925930
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3613,8 +3613,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0270195. doi: 10.1371/journal.pone.0270195.eCo
 
 PMID- 35925915
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3674,8 +3674,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0270824. doi: 10.1371/journal.pone.0270824.eCo
 
 PMID- 35925914
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3805,8 +3805,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0269065. doi: 10.1371/journal.pone.0269065.eCo
 
 PMID- 35925907
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3863,8 +3863,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0272089. doi: 10.1371/journal.pone.0272089.eCo
 
 PMID- 35925905
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3915,8 +3915,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0269962. doi: 10.1371/journal.pone.0269962.eCo
 
 PMID- 35925904
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -3998,8 +3998,8 @@ SO  - PLoS One. 2022 Aug 4;17(8):e0271310. doi: 10.1371/journal.pone.0271310.eCo
 
 PMID- 35925876
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1935-2735 (Electronic)
 IS  - 1935-2727 (Linking)
 VI  - 16
@@ -4048,8 +4048,8 @@ SO  - PLoS Negl Trop Dis. 2022 Aug 4;16(8):e0010586. doi: 10.1371/journal.pntd.0
 
 PMID- 35925874
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1545-7885 (Electronic)
 IS  - 1544-9173 (Linking)
 VI  - 20
@@ -4191,8 +4191,8 @@ SO  - Histopathology. 2022 Aug 4. doi: 10.1111/his.14734.
 
 PMID- 35925822
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1545-861X (Electronic)
 IS  - 0149-2195 (Linking)
 VI  - 71
@@ -4232,8 +4232,8 @@ SO  - MMWR Morb Mortal Wkly Rep. 2022 Aug 5;71(31):1000-1001. doi:10.15585/mmwr.
 
 PMID- 35925807
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1545-861X (Electronic)
 IS  - 0149-2195 (Linking)
 VI  - 71
@@ -4304,8 +4304,8 @@ SO  - MMWR Morb Mortal Wkly Rep. 2022 Aug 5;71(31):988-992. doi:10.15585/mmwr.mm
 
 PMID- 35925799
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1545-861X (Electronic)
 IS  - 0149-2195 (Linking)
 VI  - 71
@@ -4789,8 +4789,8 @@ SO  - Psychol Trauma. 2022 Aug 4. pii: 2022-88055-001. doi: 10.1037/tra0001326.
 
 PMID- 35925649
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- PubMed-not-MEDLINE
+LR  - 20220805
 IS  - 2561-326X (Electronic)
 IS  - 2561-326X (Linking)
 VI  - 6
@@ -4925,8 +4925,8 @@ SO  - Clin Infect Dis. 2022 Aug 4. pii: 6655744. doi: 10.1093/cid/ciac642.
 
 PMID- 35925645
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1528-0020 (Electronic)
 IS  - 0006-4971 (Linking)
 VI  - 140
@@ -4965,8 +4965,8 @@ SO  - Blood. 2022 Aug 4;140(5):407-409. doi: 10.1182/blood.2022017071.
 
 PMID- 35925640
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1528-0020 (Electronic)
 IS  - 0006-4971 (Linking)
 VI  - 140
@@ -5101,8 +5101,8 @@ SO  - Clin Infect Dis. 2022 Aug 4. pii: 6655792. doi: 10.1093/cid/ciac640.
 
 PMID- 35925607
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 2574-3805 (Electronic)
 IS  - 2574-3805 (Linking)
 VI  - 5
@@ -5389,8 +5389,8 @@ SO  - Infection. 2022 Aug 4. pii: 10.1007/s15010-022-01898-5. doi:10.1007/s15010
 
 PMID- 35925472
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- PubMed-not-MEDLINE
+LR  - 20220805
 IS  - 2150-5551 (Electronic)
 IS  - 2150-5551 (Linking)
 VI  - 14
@@ -5834,8 +5834,8 @@ SO  - Chirurgie (Heidelb). 2022 May 20. pii: 10.1007/s00104-022-01650-7. doi:10.
 
 PMID- 35925075
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 2731-7099 (Electronic)
 IS  - 2731-7080 (Linking)
 VI  - 63
@@ -5873,8 +5873,8 @@ SO  - Inn Med (Heidelb). 2022 Aug;63(8):811-812. doi: 10.1007/s00108-022-01376-y
 
 PMID- 35925074
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 2731-7099 (Electronic)
 IS  - 2731-7080 (Linking)
 VI  - 63
@@ -5922,8 +5922,8 @@ SO  - Inn Med (Heidelb). 2022 Aug;63(8):830-839. doi: 10.1007/s00108-022-01369-x
 
 PMID- 35925073
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 2731-7099 (Electronic)
 IS  - 2731-7080 (Linking)
 VI  - 63
@@ -5972,8 +5972,8 @@ SO  - Inn Med (Heidelb). 2022 Aug;63(8):819-829. doi: 10.1007/s00108-022-01371-3
 
 PMID- 35925072
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 2731-7099 (Electronic)
 IS  - 2731-7080 (Linking)
 VI  - 63
@@ -6021,8 +6021,8 @@ SO  - Inn Med (Heidelb). 2022 Aug;63(8):840-850. doi: 10.1007/s00108-022-01368-y
 
 PMID- 35925071
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 2731-7099 (Electronic)
 IS  - 2731-7080 (Linking)
 VI  - 63
@@ -6070,8 +6070,8 @@ SO  - Inn Med (Heidelb). 2022 Aug;63(8):813-818. doi: 10.1007/s00108-022-01370-4
 
 PMID- 35925069
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 2731-7099 (Electronic)
 IS  - 2731-7080 (Linking)
 VI  - 63
@@ -6322,8 +6322,8 @@ SO  - Kardiol Pol. 2022 Aug 4. pii: VM/OJS/J/91057. doi: 10.33963/KP.a2022.0183.
 
 PMID- 35924987
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 0189-160X (Print)
 IS  - 0189-160X (Linking)
 VI  - 39
@@ -6417,8 +6417,8 @@ SO  - Healthc Manage Forum. 2022 Aug 4:8404704221112286. doi:10.1177/08404704221
 
 PMID- 35924940
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 0189-160X (Print)
 IS  - 0189-160X (Linking)
 VI  - 39
@@ -6709,8 +6709,8 @@ SO  - J Virol. 2022 Aug 4:e0048022. doi: 10.1128/jvi.00480-22.
 
 PMID- 35924903
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1462-4753 (Print)
 IS  - 1462-4753 (Linking)
 VI  - 27
@@ -6740,8 +6740,8 @@ SO  - Br J Community Nurs. 2022 Aug 2;27(8):372-373. doi: 10.12968/bjcn.2022.27.
 
 PMID- 35924900
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1462-4753 (Print)
 IS  - 1462-4753 (Linking)
 VI  - 27
@@ -6879,8 +6879,9 @@ SO  - mBio. 2022 Aug 4:e0199622. doi: 10.1128/mbio.01996-22.
 
 PMID- 35924838
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2150-5608 (Electronic)
 IS  - 2150-5594 (Linking)
 VI  - 13
@@ -6935,6 +6936,12 @@ TA  - Virulence
 JT  - Virulence
 JID - 101531386
 SB  - IM
+MH  - *Acute Kidney Injury
+MH  - *COVID-19/complications
+MH  - Humans
+MH  - Kidney/physiology
+MH  - SARS-CoV-2
+MH  - *Virus Diseases
 OTO - NOTNLM
 OT  - SARS-CoV-2
 OT  - asymptomatic
@@ -6953,8 +6960,9 @@ SO  - Virulence. 2022 Dec;13(1):1349-1357. doi: 10.1080/21505594.2022.2107602.
 
 PMID- 35924831
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 0189-160X (Print)
 IS  - 0189-160X (Linking)
 VI  - 39
@@ -6982,6 +6990,15 @@ TA  - West Afr J Med
 JT  - West African journal of medicine
 JID - 8301891
 SB  - IM
+MH  - *COVID-19
+MH  - Child
+MH  - Humans
+MH  - Internal Medicine/education
+MH  - *Internship and Residency
+MH  - Pandemics
+MH  - Perception
+MH  - Personal Satisfaction
+MH  - Surveys and Questionnaires
 OTO - NOTNLM
 OT  - Africa
 OT  - Internal medicine
@@ -7372,8 +7389,9 @@ SO  - J Am Heart Assoc. 2022 Aug 4:e025198. doi: 10.1161/JAHA.122.025198.
 
 PMID- 35924772
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 0869-2084 (Print)
 IS  - 0869-2084 (Linking)
 VI  - 67
@@ -7414,6 +7432,12 @@ TA  - Klin Lab Diagn
 JT  - Klinicheskaia laboratornaia diagnostika
 JID - 9432021
 SB  - IM
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - Containment of Biohazards
+MH  - Humans
+MH  - Laboratories
+MH  - *Laboratory Infection/epidemiology/prevention & control
+MH  - Pandemics
 OTO - NOTNLM
 OT  - Federal Law numero sign 492 dated December 30, 2020
 OT  - biological safety
@@ -7572,8 +7596,9 @@ SO  - Transpl Infect Dis. 2022 Aug 4. doi: 10.1111/tid.13921.
 
 PMID- 35924721
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1477-1128 (Electronic)
 IS  - 1463-4236 (Linking)
 VI  - 23
@@ -7606,6 +7631,13 @@ TA  - Prim Health Care Res Dev
 JT  - Primary health care research & development
 JID - 100897390
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - *General Practice
+MH  - Humans
+MH  - Pandemics
+MH  - Qualitative Research
+MH  - United Kingdom
+MH  - Workforce
 OTO - NOTNLM
 OT  - COVID-19
 OT  - patients
@@ -7880,7 +7912,7 @@ SO  - Allergy. 2022 Aug 4. doi: 10.1111/all.15467.
 PMID- 35924655
 OWN - NLM
 STAT- Publisher
-LR  - 20220804
+LR  - 20220805
 IS  - 0301-0430 (Print)
 IS  - 0301-0430 (Linking)
 DP  - 2022 Aug 4
@@ -7912,15 +7944,15 @@ PHST- 2022/08/04 00:00 [accepted]
 PHST- 2022/08/04 05:43 [entrez]
 PHST- 2022/08/05 06:00 [pubmed]
 PHST- 2022/08/05 06:00 [medline]
-AID - CN110899 [pii]
+AID - 189622 [pii]
 AID - 10.5414/CN110899 [doi]
 PST - aheadofprint
-SO  - Clin Nephrol. 2022 Aug 4. pii: CN110899. doi: 10.5414/CN110899.
+SO  - Clin Nephrol. 2022 Aug 4. pii: 189622. doi: 10.5414/CN110899.
 
 PMID- 35924654
 OWN - NLM
 STAT- Publisher
-LR  - 20220804
+LR  - 20220805
 IS  - 0301-0430 (Print)
 IS  - 0301-0430 (Linking)
 DP  - 2022 Aug 4
@@ -7952,10 +7984,10 @@ PHST- 2022/08/04 00:00 [accepted]
 PHST- 2022/08/04 05:43 [entrez]
 PHST- 2022/08/05 06:00 [pubmed]
 PHST- 2022/08/05 06:00 [medline]
-AID - CN110793 [pii]
+AID - 189621 [pii]
 AID - 10.5414/CN110793 [doi]
 PST - aheadofprint
-SO  - Clin Nephrol. 2022 Aug 4. pii: CN110793. doi: 10.5414/CN110793.
+SO  - Clin Nephrol. 2022 Aug 4. pii: 189621. doi: 10.5414/CN110793.
 
 PMID- 35924645
 OWN - NLM
@@ -8011,8 +8043,9 @@ SO  - Ann Work Expo Health. 2022 Aug 4. pii: 6655609. doi: 10.1093/annweh/wxac05
 
 PMID- 35924625
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2071-2936 (Electronic)
 IS  - 2071-2928 (Linking)
 VI  - 14
@@ -8036,7 +8069,16 @@ PL  - South Africa
 TA  - Afr J Prim Health Care Fam Med
 JT  - African journal of primary health care & family medicine
 JID - 101520860
+RN  - 0 (COVID-19 Vaccines)
 SB  - IM
+MH  - Adult
+MH  - *COVID-19/prevention & control
+MH  - *COVID-19 Vaccines/therapeutic use
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - South Africa
+MH  - Vaccination
 OTO - NOTNLM
 OT  - COVID-19
 OT  - South Africa
@@ -8058,8 +8100,9 @@ SO  - Afr J Prim Health Care Fam Med. 2022 Jul 28;14(1):e1-e7. doi:10.4102/phcfm
 
 PMID- 35924610
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2225-4765 (Electronic)
 IS  - 0379-8046 (Linking)
 VI  - 69
@@ -8080,6 +8123,12 @@ TA  - S Afr J Commun Disord
 JT  - The South African journal of communication disorders = Die Suid-Afrikaansetydskrif vir Kommunikasieafwykings
 JID - 7805099
 SB  - IM
+MH  - *Audiologists
+MH  - *COVID-19/epidemiology
+MH  - Humans
+MH  - Pandemics
+MH  - South Africa/epidemiology
+MH  - Unemployment
 OTO - NOTNLM
 OT  - audiology
 OT  - employment
@@ -8101,8 +8150,9 @@ SO  - S Afr J Commun Disord. 2022 Aug 1;69(2):e1-e8. doi: 10.4102/sajcd.v69i2.90
 
 PMID- 35924609
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2225-4765 (Electronic)
 IS  - 0379-8046 (Linking)
 VI  - 69
@@ -8125,6 +8175,14 @@ TA  - S Afr J Commun Disord
 JT  - The South African journal of communication disorders = Die Suid-Afrikaansetydskrif vir Kommunikasieafwykings
 JID - 7805099
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - *Education, Distance
+MH  - Humans
+MH  - Pandemics
+MH  - South Africa
+MH  - *Speech-Language Pathology/education
+MH  - Students
+MH  - Universities
 OTO - NOTNLM
 OT  - COVID-19
 OT  - Johannesburg
@@ -8149,8 +8207,9 @@ SO  - S Afr J Commun Disord. 2022 Jul 29;69(2):e1-e9. doi: 10.4102/sajcd.v69i2.9
 
 PMID- 35924608
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2225-4765 (Electronic)
 IS  - 0379-8046 (Linking)
 VI  - 69
@@ -8179,6 +8238,14 @@ TA  - S Afr J Commun Disord
 JT  - The South African journal of communication disorders = Die Suid-Afrikaansetydskrif vir Kommunikasieafwykings
 JID - 7805099
 SB  - IM
+MH  - *COVID-19
+MH  - Communication
+MH  - Humans
+MH  - Pandemics
+MH  - Perception
+MH  - South Africa
+MH  - Students
+MH  - Universities
 OTO - NOTNLM
 OT  - COVID-19 pandemic
 OT  - challenges
@@ -8200,8 +8267,9 @@ SO  - S Afr J Commun Disord. 2022 Jul 27;69(2):e1-e14. doi: 10.4102/sajcd.v69i2.
 
 PMID- 35924607
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2225-4765 (Electronic)
 IS  - 0379-8046 (Linking)
 VI  - 69
@@ -8218,12 +8286,20 @@ FAU - Khoza-Shangase, Katijah
 AU  - Khoza-Shangase K
 LA  - eng
 PT  - Journal Article
+PT  - Review
 DEP - 20220725
 PL  - South Africa
 TA  - S Afr J Commun Disord
 JT  - The South African journal of communication disorders = Die Suid-Afrikaansetydskrif vir Kommunikasieafwykings
 JID - 7805099
 SB  - IM
+MH  - *Audiology/methods
+MH  - *COVID-19/epidemiology
+MH  - Ear, Middle/pathology
+MH  - *Hearing Loss/diagnosis
+MH  - Hearing Tests/methods
+MH  - Humans
+MH  - *Otitis Media
 OTO - NOTNLM
 OT  - COVID-19
 OT  - middle ear function
@@ -8245,8 +8321,9 @@ SO  - S Afr J Commun Disord. 2022 Jul 25;69(2):e1-e7. doi: 10.4102/sajcd.v69i2.9
 
 PMID- 35924606
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2225-4765 (Electronic)
 IS  - 0379-8046 (Linking)
 VI  - 69
@@ -8271,6 +8348,17 @@ TA  - S Afr J Commun Disord
 JT  - The South African journal of communication disorders = Die Suid-Afrikaansetydskrif vir Kommunikasieafwykings
 JID - 7805099
 SB  - IM
+MH  - Adult
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - Child
+MH  - Communicable Disease Control
+MH  - Hospitals, Public
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - *Intensive Care Units, Neonatal
+MH  - Pandemics/prevention & control
+MH  - South Africa/epidemiology
 OTO - NOTNLM
 OT  - COVID-19
 OT  - Gauteng
@@ -8292,8 +8380,9 @@ SO  - S Afr J Commun Disord. 2022 Jul 22;69(2):e1-e8. doi: 10.4102/sajcd.v69i2.9
 
 PMID- 35924605
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2225-4765 (Electronic)
 IS  - 0379-8046 (Linking)
 VI  - 69
@@ -8314,6 +8403,12 @@ TA  - S Afr J Commun Disord
 JT  - The South African journal of communication disorders = Die Suid-Afrikaansetydskrif vir Kommunikasieafwykings
 JID - 7805099
 SB  - IM
+MH  - *Audiology/methods
+MH  - *COVID-19
+MH  - Humans
+MH  - Pandemics/prevention & control
+MH  - South Africa
+MH  - *Telemedicine/methods
 OTO - NOTNLM
 OT  - COVID-19
 OT  - South Africa
@@ -8337,8 +8432,9 @@ SO  - S Afr J Commun Disord. 2022 Jul 20;69(2):e1-e10. doi: 10.4102/sajcd.v69i2.
 
 PMID- 35924604
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2225-4765 (Electronic)
 IS  - 0379-8046 (Linking)
 VI  - 69
@@ -8357,12 +8453,19 @@ FAU - Sebothoma, Ben
 AU  - Sebothoma B
 LA  - eng
 PT  - Journal Article
+PT  - Review
 DEP - 20220718
 PL  - South Africa
 TA  - S Afr J Commun Disord
 JT  - The South African journal of communication disorders = Die Suid-Afrikaansetydskrif vir Kommunikasieafwykings
 JID - 7805099
 SB  - IM
+MH  - *Audiology/education
+MH  - *COVID-19/epidemiology
+MH  - Humans
+MH  - Pandemics
+MH  - *Speech-Language Pathology/education
+MH  - Students
 OTO - NOTNLM
 OT  - COVID-19
 OT  - South Africa
@@ -8584,8 +8687,9 @@ SO  - J Chest Surg. 2022 Aug 5;55(4):357-360. doi: 10.5090/jcs.22.053.
 
 PMID- 35924511
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2095-4352 (Print)
 VI  - 34
 IP  - 6
@@ -8606,13 +8710,26 @@ AU  - Wang W
 FAU - Wang, Yu
 AU  - Wang Y
 LA  - chi
-PT  - English Abstract
 PT  - Journal Article
+PT  - Observational Study
 PL  - China
 TA  - Zhonghua Wei Zhong Bing Ji Jiu Yi Xue
 JT  - Zhonghua wei zhong bing ji jiu yi xue
 JID - 101604552
+RN  - 0 (Interleukin-6)
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - *COVID-19
+MH  - Humans
+MH  - *Hypertension
+MH  - Interleukin-6
+MH  - Middle Aged
+MH  - Prognosis
+MH  - ROC Curve
+MH  - Retrospective Studies
+MH  - SARS-CoV-2
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
 CRDT- 2022/08/04 04:43
@@ -8625,8 +8742,9 @@ SO  - Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2022 Jun;34(6):581-585. doi:10.3760
 
 PMID- 35924510
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2095-4352 (Print)
 VI  - 34
 IP  - 6
@@ -8651,13 +8769,30 @@ FAU - Xu, Lei
 AU  - Xu L
 AD  - Department of Critical Care Medicine, Tianjin Third Central Hospital, Tianjin KeyLaboratory of Artificial Cell, Artificial Cell Engineering Technology ResearchCenter of Public Health Ministry, Tianjin 300170, China.
 LA  - chi
-PT  - English Abstract
 PT  - Journal Article
 PL  - China
 TA  - Zhonghua Wei Zhong Bing Ji Jiu Yi Xue
 JT  - Zhonghua wei zhong bing ji jiu yi xue
 JID - 101604552
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Nucleic Acids)
+RN  - 9007-41-4 (C-Reactive Protein)
+RN  - S88TT14065 (Oxygen)
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - C-Reactive Protein
+MH  - *COVID-19
+MH  - COVID-19 Vaccines
+MH  - Disease Progression
+MH  - Humans
+MH  - Interleukin-6
+MH  - *Nucleic Acids
+MH  - Oxygen
+MH  - Prone Position
+MH  - Retrospective Studies
+MH  - SARS-CoV-2
+MH  - Wakefulness
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
 CRDT- 2022/08/04 04:43
@@ -8670,8 +8805,9 @@ SO  - Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2022 Jun;34(6):576-580. doi:10.3760
 
 PMID- 35924485
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1473-0790 (Electronic)
 IS  - 1368-5538 (Linking)
 VI  - 25
@@ -8700,11 +8836,20 @@ AD  - Reproductive Biology and Toxicology Research Laboratory, Oasis of Grace Ho
 AD  - Department of Physiology, Ladoke Akintola University of Technology, Ogbomoso,Nigeria.
 LA  - eng
 PT  - Journal Article
+PT  - Review
 PL  - England
 TA  - Aging Male
 JT  - The aging male : the official journal of the International Society for the Study of the Aging Male
 JID - 9808210
+RN  - 3XMK78S47O (Testosterone)
 SB  - IM
+MH  - *COVID-19/complications
+MH  - *Cardiovascular Diseases/etiology
+MH  - *Erectile Dysfunction/epidemiology
+MH  - Humans
+MH  - Male
+MH  - Penile Erection
+MH  - Testosterone
 OTO - NOTNLM
 OT  - COVID-19
 OT  - Coronavirus
@@ -9233,8 +9378,9 @@ SO  - Anat Sci Educ. 2022 Aug 4. doi: 10.1002/ase.2214.
 
 PMID- 35924413
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1938-2723 (Electronic)
 IS  - 1076-0296 (Linking)
 VI  - 28
@@ -9271,11 +9417,22 @@ AD  - 24091Saint Luke's Hospital of Kansas City, Kansas City, MO, USA.
 AD  - 12272University of Missouri-Kansas City, School of Medicine, Kansas City, MO,USA.
 LA  - eng
 PT  - Journal Article
+PT  - Multicenter Study
 PL  - United States
 TA  - Clin Appl Thromb Hemost
 JT  - Clinical and applied thrombosis/hemostasis : official journal of theInternational Academy of Clinical and Applied Thrombosis/Hemostasis
 JID - 9508125
+RN  - 0 (Anticoagulants)
+RN  - 0 (Heparin, Low-Molecular-Weight)
 SB  - IM
+MH  - Anticoagulants
+MH  - *COVID-19
+MH  - Critical Illness
+MH  - Hemorrhage/chemically induced
+MH  - Heparin, Low-Molecular-Weight/therapeutic use
+MH  - Humans
+MH  - Retrospective Studies
+MH  - *Venous Thromboembolism/drug therapy/etiology/prevention & control
 OTO - NOTNLM
 OT  - COVID-19
 OT  - anticoagulation
@@ -9518,7 +9675,7 @@ SO  - Nurse Res. 2022 Aug 3. pii: e1849. doi: 10.7748/nr.2022.e1849.
 PMID- 35924388
 OWN - NLM
 STAT- Publisher
-LR  - 20220804
+LR  - 20220805
 IS  - 2222-1751 (Electronic)
 IS  - 2222-1751 (Linking)
 DP  - 2022 Aug 4
@@ -9585,9 +9742,9 @@ OT  - vaccination
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
 CRDT- 2022/08/04 03:42
-PHST- 2022/08/04 03:42 [entrez]
 PHST- 2022/08/05 06:00 [pubmed]
 PHST- 2022/08/05 06:00 [medline]
+PHST- 2022/08/04 03:42 [entrez]
 AID - 10.1080/22221751.2022.2109517 [doi]
 PST - aheadofprint
 SO  - Emerg Microbes Infect. 2022 Aug 4:1-22. doi: 10.1080/22221751.2022.2109517.
@@ -9877,7 +10034,7 @@ SO  - Turk J Gastroenterol. 2022 Aug 4. doi: 10.5152/tjg.2022.22059.
 PMID- 35924275
 OWN - NLM
 STAT- Publisher
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 DP  - 2022 Apr 23
@@ -9919,8 +10076,9 @@ SO  - Schweiz Z Polit. 2022 Apr 23. pii: SPSR12516. doi: 10.1111/spsr.12516.
 
 PMID- 35924252
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1664-3224 (Electronic)
 IS  - 1664-3224 (Linking)
 VI  - 13
@@ -9993,7 +10151,17 @@ PL  - Switzerland
 TA  - Front Immunol
 JT  - Frontiers in immunology
 JID - 101560960
+RN  - 0 (Antibodies, Neutralizing)
+RN  - 0 (Antibodies, Viral)
 SB  - IM
+MH  - Adaptive Immunity
+MH  - Antibodies, Neutralizing
+MH  - Antibodies, Viral
+MH  - *Asthma
+MH  - *COVID-19
+MH  - Humans
+MH  - SARS-CoV-2
+MH  - Survivors
 PMC - PMC9339657
 OTO - NOTNLM
 OT  - COVID-19
@@ -10016,8 +10184,9 @@ SO  - Front Immunol. 2022 Jul 18;13:947724. doi: 10.3389/fimmu.2022.947724. eCol
 
 PMID- 35924246
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1664-3224 (Electronic)
 IS  - 1664-3224 (Linking)
 VI  - 13
@@ -10063,6 +10232,14 @@ TA  - Front Immunol
 JT  - Frontiers in immunology
 JID - 101560960
 SB  - IM
+MH  - *COVID-19
+MH  - Chromatography, High Pressure Liquid/methods
+MH  - Chromatography, Liquid/methods
+MH  - *Community-Acquired Infections
+MH  - Humans
+MH  - Metabolomics/methods
+MH  - *Pneumonia
+MH  - Tandem Mass Spectrometry/methods
 PMC - PMC9339702
 OTO - NOTNLM
 OT  - COVID-19
@@ -10085,8 +10262,9 @@ SO  - Front Immunol. 2022 Jul 18;13:894170. doi: 10.3389/fimmu.2022.894170. eCol
 
 PMID- 35924236
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1664-3224 (Electronic)
 IS  - 1664-3224 (Linking)
 VI  - 13
@@ -10149,7 +10327,23 @@ PL  - Switzerland
 TA  - Front Immunol
 JT  - Frontiers in immunology
 JID - 101560960
+RN  - 0 (Autoantibodies)
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Gangliosides)
+RN  - 0 (Immunoglobulin M)
+RN  - 0 (Immunoglobulins, Intravenous)
 SB  - IM
+MH  - Autoantibodies
+MH  - *COVID-19/complications
+MH  - COVID-19 Vaccines/adverse effects
+MH  - Gangliosides
+MH  - *Guillain-Barre Syndrome/diagnosis/etiology
+MH  - Humans
+MH  - Immunoglobulin M/therapeutic use
+MH  - Immunoglobulins, Intravenous/therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - SARS-CoV-2
 PMC - PMC9339669
 OTO - NOTNLM
 OT  - COVID-19 vaccine
@@ -10173,7 +10367,7 @@ SO  - Front Immunol. 2022 Jul 18;13:894872. doi: 10.3389/fimmu.2022.894872. eCol
 PMID- 35924222
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-4548 (Print)
 IS  - 1662-453X (Linking)
 VI  - 16
@@ -10219,7 +10413,7 @@ SO  - Front Neurosci. 2022 Jul 18;16:915927. doi: 10.3389/fnins.2022.915927.eCol
 PMID- 35924205
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2690-7097 (Electronic)
 IS  - 2690-7097 (Linking)
 VI  - 3
@@ -10284,7 +10478,7 @@ SO  - ATS Sch. 2022 May 15;3(2):188-196. doi: 10.34197/ats-scholar.2022-0021PS.e
 PMID- 35924203
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2690-7097 (Electronic)
 IS  - 2690-7097 (Linking)
 VI  - 3
@@ -10340,7 +10534,7 @@ SO  - ATS Sch. 2022 Jun 30;3(2):180-187. doi: 10.34197/ats-scholar.2021-0126PS.e
 PMID- 35924195
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2690-7097 (Electronic)
 IS  - 2690-7097 (Linking)
 VI  - 3
@@ -10408,7 +10602,7 @@ SO  - ATS Sch. 2022 Jun 30;3(2):270-284. doi: 10.34197/ats-scholar.2021-0102OC.e
 PMID- 35924178
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1178-7074 (Print)
 IS  - 1178-7074 (Linking)
 VI  - 15
@@ -10470,7 +10664,7 @@ SO  - Int J Gen Med. 2022 Jul 27;15:6301-6307. doi: 10.2147/IJGM.S374246. eColle
 PMID- 35924138
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2673-253X (Electronic)
 IS  - 2673-253X (Linking)
 VI  - 4
@@ -10529,7 +10723,7 @@ SO  - Front Digit Health. 2022 Jul 18;4:897250. doi: 10.3389/fdgth.2022.897250.e
 PMID- 35924134
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 0971-3026 (Print)
 IS  - 0970-2016 (Linking)
 VI  - 32
@@ -10587,7 +10781,7 @@ SO  - Indian J Radiol Imaging. 2022 Jul 13;32(2):224-234. doi: 10.1055/s-0042-17
 PMID- 35924123
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 0971-3026 (Print)
 IS  - 0970-2016 (Linking)
 VI  - 32
@@ -10635,7 +10829,7 @@ SO  - Indian J Radiol Imaging. 2022 Jul 13;32(2):256-259. doi: 10.1055/s-0042-17
 PMID- 35924120
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 0971-3026 (Print)
 IS  - 0970-2016 (Linking)
 VI  - 32
@@ -10730,7 +10924,7 @@ SO  - Eur J Law Econ. 2022;54(1):1-4. doi: 10.1007/s10657-022-09746-5. Epub 2022
 PMID- 35924088
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1572-9990 (Electronic)
 IS  - 0929-1261 (Linking)
 VI  - 54
@@ -10786,7 +10980,7 @@ SO  - Eur J Law Econ. 2022;54(1):5-36. doi: 10.1007/s10657-022-09732-x. Epub 202
 PMID- 35924087
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1572-9990 (Electronic)
 IS  - 0929-1261 (Linking)
 VI  - 54
@@ -10837,7 +11031,7 @@ SO  - Eur J Law Econ. 2022;54(1):37-61. doi: 10.1007/s10657-021-09704-7. Epub 20
 PMID- 35924086
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1572-9990 (Electronic)
 IS  - 0929-1261 (Linking)
 VI  - 54
@@ -10894,7 +11088,7 @@ SO  - Eur J Law Econ. 2022;54(1):83-105. doi: 10.1007/s10657-021-09712-7. Epub 2
 PMID- 35924085
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1572-9990 (Electronic)
 IS  - 0929-1261 (Linking)
 VI  - 54
@@ -10941,7 +11135,7 @@ SO  - Eur J Law Econ. 2022;54(1):63-81. doi: 10.1007/s10657-021-09706-5. Epub 20
 PMID- 35924084
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1572-9990 (Electronic)
 IS  - 0929-1261 (Linking)
 VI  - 54
@@ -10998,7 +11192,7 @@ SO  - Eur J Law Econ. 2022;54(1):107-125. doi: 10.1007/s10657-022-09741-w. Epub 
 PMID- 35924083
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 28
@@ -11042,7 +11236,7 @@ SO  - Schweiz Z Polit. 2022 Mar;28(1):105-115. doi: 10.1111/spsr.12482. Epub 202
 PMID- 35924077
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 0278-6826 (Print)
 IS  - 0278-6826 (Linking)
 VI  - 55
@@ -11073,12 +11267,14 @@ AU  - Noti JD
 AUID- ORCID: 0000-0002-2927-9530
 AD  - Health Effects Laboratory Division, National Institute for Occupational Safetyand Health, Centers for Disease Control and Prevention, Morgantown, WestVirginia, USA.
 LA  - eng
+GR  - CC999999/ImCDC/Intramural CDC HHS/United States
 PT  - Journal Article
 PL  - United States
 TA  - Aerosol Sci Technol
 JT  - Aerosol science and technology : the journal of the American Association forAerosol Research
 JID - 9886760
 PMC - PMC9345365
+MID - NIHMS1781352
 OTO - NOTNLM
 OT  - Airborne transmission
 OT  - Face masks
@@ -11145,7 +11341,7 @@ SO  - Front Med (Lausanne). 2022 Jul 18;9:979535. doi: 10.3389/fmed.2022.979535.
 PMID- 35924028
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 0278-6826 (Print)
 IS  - 0278-6826 (Linking)
 VI  - 54
@@ -11185,12 +11381,14 @@ FAU - Seaton, Melissa
 AU  - Seaton M
 AD  - Division of Science Integration, National Institute for Occupational Safety andHealth, Centers for Disease Control and Prevention, Cincinnati, Ohio, USA.
 LA  - eng
+GR  - CC999999/ImCDC/Intramural CDC HHS/United States
 PT  - Journal Article
 PL  - United States
 TA  - Aerosol Sci Technol
 JT  - Aerosol science and technology : the journal of the American Association forAerosol Research
 JID - 9886760
 PMC - PMC9345404
+MID - NIHMS1778729
 OTO - NOTNLM
 OT  - COVID-19
 OT  - SARS-CoV-2
@@ -11213,7 +11411,7 @@ SO  - Aerosol Sci Technol. 2020 Jul 31;54(10):1117-1123. doi:10.1080/02786826.20
 PMID- 35924015
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1178-6973 (Print)
 IS  - 1178-6973 (Linking)
 VI  - 15
@@ -11267,7 +11465,7 @@ SO  - Infect Drug Resist. 2022 Jul 27;15:4037-4046. doi: 10.2147/IDR.S370837.eCo
 PMID- 35924002
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2169-7574 (Print)
 IS  - 2169-7574 (Linking)
 VI  - 10
@@ -11309,8 +11507,9 @@ SO  - Plast Reconstr Surg Glob Open. 2022 Jul 20;10(7):e4448. doi:10.1097/GOX.00
 
 PMID- 35923976
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11352,6 +11551,12 @@ TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - Cross-Sectional Studies
+MH  - Ethiopia/epidemiology
+MH  - Health Knowledge, Attitudes, Practice
+MH  - Health Personnel
+MH  - Humans
 PMC - PMC9341290
 OTO - NOTNLM
 OT  - COVID-19
@@ -11374,8 +11579,9 @@ SO  - Front Public Health. 2022 Jul 18;10:899808. doi: 10.3389/fpubh.2022.899808
 
 PMID- 35923975
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11425,12 +11631,21 @@ AD  - Chongqing Key Laboratory of Oral Diseases and Biomedical Sciences, Chongqi
 AD  - Chongqing Municipal Key Laboratory of Oral Biomedical Engineering of HigherEducation, Chongqing, China.
 LA  - eng
 PT  - Journal Article
+PT  - Multicenter Study
 DEP - 20220718
 PL  - Switzerland
 TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
 SB  - IM
+MH  - *COVID-19
+MH  - Dental Anxiety
+MH  - Dentists
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - *Pandemics
+MH  - Smartphone
 PMC - PMC9342676
 OTO - NOTNLM
 OT  - WeChat applet
@@ -11452,8 +11667,9 @@ SO  - Front Public Health. 2022 Jul 18;10:900899. doi: 10.3389/fpubh.2022.900899
 
 PMID- 35923971
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11482,7 +11698,15 @@ PL  - Switzerland
 TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Vaccines)
 SB  - IM
+MH  - *COVID-19/prevention & control
+MH  - COVID-19 Vaccines
+MH  - Humans
+MH  - Immunization Programs
+MH  - Switzerland
+MH  - *Vaccines
 PMC - PMC9340070
 OTO - NOTNLM
 OT  - COVID-19
@@ -11505,8 +11729,9 @@ SO  - Front Public Health. 2022 Jul 18;10:935400. doi: 10.3389/fpubh.2022.935400
 
 PMID- 35923970
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11527,6 +11752,17 @@ TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - China/epidemiology
+MH  - Cohort Studies
+MH  - Female
+MH  - Fetal Macrosomia
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Pandemics
+MH  - *Premature Birth/epidemiology
+MH  - Retrospective Studies
 PMC - PMC9339802
 OTO - NOTNLM
 OT  - COVID-19 pandemic
@@ -11548,8 +11784,9 @@ SO  - Front Public Health. 2022 Jul 18;10:923324. doi: 10.3389/fpubh.2022.923324
 
 PMID- 35923967
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11577,14 +11814,25 @@ PL  - Switzerland
 TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
+RN  - 0 (Alcohols)
+RN  - 0 (Irritants)
 SB  - IM
+MH  - Alcohols
+MH  - *COVID-19
+MH  - *Dermatitis, Irritant/epidemiology/etiology
+MH  - *Dermatitis, Occupational/diagnosis/epidemiology/etiology
+MH  - Health Personnel
+MH  - Humans
+MH  - Irritants
+MH  - Pandemics
+MH  - Workplace
 PMC - PMC9340064
 OTO - NOTNLM
-OT  - COVID-19
-OT  - healthcare workers
-OT  - occupational dermatitis
-OT  - quality improvement
-OT  - workplace intervention
+OT  - *COVID-19
+OT  - *healthcare workers
+OT  - *occupational dermatitis
+OT  - *quality improvement
+OT  - *workplace intervention
 COIS- The authors declare that the research was conducted in the absence of anycommercial or financial relationships that could be construed as a potentialconflict of interest.
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
@@ -11600,8 +11848,8 @@ SO  - Front Public Health. 2022 Jul 18;10:844269. doi: 10.3389/fpubh.2022.844269
 
 PMID- 35923958
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11643,19 +11891,27 @@ AU  - Ismail R
 AD  - Environmental Health Research Centre, Institute for Medical Research, Ministry ofHealth Malaysia, Shah Alam, Malaysia.
 LA  - eng
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
 DEP - 20220718
 PL  - Switzerland
 TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
 SB  - IM
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - Cross-Sectional Studies
+MH  - Health Personnel
+MH  - Humans
+MH  - Malaysia/epidemiology
+MH  - *Pandemics/prevention & control
 PMC - PMC9340217
 OTO - NOTNLM
-OT  - COVID-19
-OT  - healthcare workers
-OT  - infection control practices
-OT  - pandemic
-OT  - risk
+OT  - *COVID-19
+OT  - *healthcare workers
+OT  - *infection control practices
+OT  - *pandemic
+OT  - *risk
 COIS- The authors declare that the research was conducted in the absence of anycommercial or financial relationships that could be construed as a potentialconflict of interest.
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
@@ -11671,8 +11927,9 @@ SO  - Front Public Health. 2022 Jul 18;10:878396. doi: 10.3389/fpubh.2022.878396
 
 PMID- 35923956
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11720,6 +11977,12 @@ TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
 SB  - IM
+MH  - *Artificial Intelligence
+MH  - *COVID-19/diagnosis/epidemiology
+MH  - Humans
+MH  - Pandemics
+MH  - Reproducibility of Results
+MH  - Research
 PMC - PMC9339778
 OTO - NOTNLM
 OT  - COVID-19
@@ -11741,8 +12004,9 @@ SO  - Front Public Health. 2022 Jul 18;10:945181. doi: 10.3389/fpubh.2022.945181
 
 PMID- 35923954
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11788,6 +12052,12 @@ TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
 SB  - IM
+MH  - *Career Choice
+MH  - China
+MH  - *Choice Behavior
+MH  - Humans
+MH  - Medical Staff
+MH  - Pandemics
 PMC - PMC9340264
 OTO - NOTNLM
 OT  - COVID-19 pandemic
@@ -11810,8 +12080,9 @@ SO  - Front Public Health. 2022 Jul 18;10:911868. doi: 10.3389/fpubh.2022.911868
 
 PMID- 35923953
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11841,6 +12112,12 @@ TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
 SB  - IM
+MH  - Bibliometrics
+MH  - *COVID-19/epidemiology
+MH  - Humans
+MH  - Nursing Homes
+MH  - Public Health
+MH  - SARS-CoV-2
 PMC - PMC9339968
 OTO - NOTNLM
 OT  - COVID-19
@@ -11864,8 +12141,9 @@ SO  - Front Public Health. 2022 Jul 18;10:933555. doi: 10.3389/fpubh.2022.933555
 
 PMID- 35923950
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2296-2565 (Electronic)
 IS  - 2296-2565 (Linking)
 VI  - 10
@@ -11889,6 +12167,13 @@ TA  - Front Public Health
 JT  - Frontiers in public health
 JID - 101616579
 SB  - IM
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - Mental Health
+MH  - Pandemics
+MH  - *Social Capital
+MH  - Social Support
 PMC - PMC9339967
 OTO - NOTNLM
 OT  - COVID-19
@@ -11912,7 +12197,7 @@ SO  - Front Public Health. 2022 Jul 18;10:947569. doi: 10.3389/fpubh.2022.947569
 PMID- 35923922
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1758-8340 (Print)
 IS  - 1758-8340 (Linking)
 VI  - 14
@@ -12046,7 +12331,7 @@ SO  - Ther Adv Med Oncol. 2022 Jul 27;14:17588359221108687. doi:10.1177/17588359
 PMID- 35923913
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2377-9608 (Electronic)
 IS  - 2377-9608 (Linking)
 VI  - 8
@@ -12095,7 +12380,7 @@ SO  - SAGE Open Nurs. 2022 Jul 29;8:23779608221116695. doi: 10.1177/237796082211
 PMID- 35923904
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1178-7031 (Print)
 IS  - 1178-7031 (Linking)
 VI  - 15
@@ -12157,7 +12442,7 @@ SO  - J Inflamm Res. 2022 Jul 26;15:4199-4215. doi: 10.2147/JIR.S375494. eCollec
 PMID- 35923899
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2000-2297 (Print)
 IS  - 2000-2297 (Linking)
 VI  - 14
@@ -12237,7 +12522,7 @@ SO  - J Oral Microbiol. 2022 Jul 28;14(1):2103282. doi: 10.1080/20002297.2022.21
 PMID- 35923871
 OWN - NLM
 STAT- Publisher
-LR  - 20220804
+LR  - 20220805
 IS  - 1572-9990 (Electronic)
 IS  - 0929-1261 (Linking)
 DP  - 2021 Dec 7
@@ -12280,7 +12565,7 @@ SO  - Eur J Law Econ. 2021 Dec 7:1-32. doi: 10.1007/s10657-021-09720-7.
 PMID- 35923825
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-2295 (Print)
 IS  - 1664-2295 (Linking)
 VI  - 13
@@ -12338,7 +12623,7 @@ SO  - Front Neurol. 2022 Jul 18;13:848545. doi: 10.3389/fneur.2022.848545. eColl
 PMID- 35923814
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2472-7245 (Electronic)
 IS  - 2472-7245 (Linking)
 VI  - 7
@@ -12396,8 +12681,9 @@ SO  - JB JS Open Access. 2022 Jul 21;7(3). pii: JBJSOA-D-21-00107. doi:10.2106/J
 
 PMID- 35923801
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2235-2988 (Electronic)
 IS  - 2235-2988 (Linking)
 VI  - 12
@@ -12441,6 +12727,12 @@ TA  - Front Cell Infect Microbiol
 JT  - Frontiers in cellular and infection microbiology
 JID - 101585359
 SB  - IM
+MH  - *COVID-19/complications
+MH  - *Diabetes Mellitus
+MH  - Humans
+MH  - Immunocompromised Host
+MH  - India/epidemiology
+MH  - *Mucormycosis/diagnosis/drug therapy/epidemiology
 PMC - PMC9339637
 OTO - NOTNLM
 OT  - COVID-19
@@ -12466,8 +12758,9 @@ SO  - Front Cell Infect Microbiol. 2022 Jul 18;12:937481. doi:10.3389/fcimb.2022
 
 PMID- 35923799
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2235-2988 (Electronic)
 IS  - 2235-2988 (Linking)
 VI  - 12
@@ -12527,7 +12820,30 @@ PL  - Switzerland
 TA  - Front Cell Infect Microbiol
 JT  - Frontiers in cellular and infection microbiology
 JID - 101585359
+RN  - 0 (Adjuvants, Immunologic)
+RN  - 0 (Antibodies, Neutralizing)
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Immunoglobulin G)
+RN  - 0 (Spike Glycoprotein, Coronavirus)
+RN  - 0 (Viral Vaccines)
+RN  - 0 (spike protein, SARS-CoV-2)
 SB  - IM
+MH  - Adjuvants, Immunologic/pharmacology
+MH  - Animals
+MH  - Antibodies, Neutralizing
+MH  - Antibodies, Viral
+MH  - *COVID-19/prevention & control
+MH  - COVID-19 Vaccines/genetics
+MH  - Humans
+MH  - Immunoglobulin G
+MH  - *Influenza A Virus, H5N1 Subtype
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Pandemics/prevention & control
+MH  - SARS-CoV-2/genetics
+MH  - Spike Glycoprotein, Coronavirus/genetics
+MH  - *Viral Vaccines
 PMC - PMC9339902
 OTO - NOTNLM
 OT  - Coronavirus Disease 2019 (COVID-19)
@@ -12551,7 +12867,7 @@ SO  - Front Cell Infect Microbiol. 2022 Jul 18;12:967493. doi:10.3389/fcimb.2022
 PMID- 35923794
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2052-4374 (Print)
 IS  - 2052-4374 (Linking)
 VI  - 34
@@ -12636,7 +12952,7 @@ SO  - Ann Occup Environ Med. 2022 Jun 3;34:e11. doi: 10.35371/aoem.2022.34.e11.e
 PMID- 35923787
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2296-2360 (Print)
 IS  - 2296-2360 (Linking)
 VI  - 10
@@ -12713,7 +13029,7 @@ SO  - Front Pediatr. 2022 Jul 18;10:941785. doi: 10.3389/fped.2022.941785. eColl
 PMID- 35923786
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2296-2360 (Print)
 IS  - 2296-2360 (Linking)
 VI  - 10
@@ -12795,7 +13111,7 @@ SO  - Front Pediatr. 2022 Jul 18;10:934648. doi: 10.3389/fped.2022.934648. eColl
 PMID- 35923775
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2635-0998 (Electronic)
 IS  - 2635-0998 (Linking)
 VI  - 1
@@ -12883,7 +13199,7 @@ SO  - Sens Diagn. 2022 Jun 13;1(4):719-730. doi: 10.1039/d2sd00076h. eCollection
 PMID- 35923765
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2196-5293 (Electronic)
 IS  - 2196-5293 (Linking)
 VI  - 10
@@ -12949,7 +13265,7 @@ SO  - Clin Nephrol Case Stud. 2022 Jul 21;10:54-63. doi: 10.5414/CNCS110924.eCol
 PMID- 35923762
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2688-2663 (Electronic)
 IS  - 2688-2663 (Linking)
 VI  - 3
@@ -13012,7 +13328,7 @@ SO  - MedComm (2020). 2022 Aug 1;3(3):e154. doi: 10.1002/mco2.154. eCollection 2
 PMID- 35923758
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2055-2076 (Print)
 IS  - 2055-2076 (Linking)
 VI  - 8
@@ -13069,7 +13385,7 @@ SO  - Digit Health. 2022 Jul 25;8:20552076221115024. doi: 10.1177/20552076221115
 PMID- 35923743
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-1078 (Print)
 IS  - 1664-1078 (Linking)
 VI  - 13
@@ -13125,7 +13441,7 @@ SO  - Front Psychol. 2022 Jul 18;13:876025. doi: 10.3389/fpsyg.2022.876025. eCol
 PMID- 35923734
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-1078 (Print)
 IS  - 1664-1078 (Linking)
 VI  - 13
@@ -13178,7 +13494,7 @@ SO  - Front Psychol. 2022 Jul 18;13:971780. doi: 10.3389/fpsyg.2022.971780. eCol
 PMID- 35923727
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-1078 (Print)
 IS  - 1664-1078 (Linking)
 VI  - 13
@@ -13236,7 +13552,7 @@ SO  - Front Psychol. 2022 Jul 18;13:962373. doi: 10.3389/fpsyg.2022.962373. eCol
 PMID- 35923723
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1530-8057 (Electronic)
 IS  - 1528-0837 (Linking)
 VI  - 51
@@ -13291,7 +13607,7 @@ SO  - J Ind Text. 2022 Apr;51(9):1494-1523. doi: 10.1177/15280837211051100.
 PMID- 35923698
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-8021 (Print)
 IS  - 1664-8021 (Linking)
 VI  - 13
@@ -13352,7 +13668,7 @@ SO  - Front Genet. 2022 Jul 18;13:908826. doi: 10.3389/fgene.2022.908826. eColle
 PMID- 35923692
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-8021 (Print)
 IS  - 1664-8021 (Linking)
 VI  - 13
@@ -13430,7 +13746,7 @@ SO  - Front Genet. 2022 Jul 18;13:931562. doi: 10.3389/fgene.2022.931562. eColle
 PMID- 35923684
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2190-572X (Print)
 IS  - 2190-5738 (Linking)
 VI  - 12
@@ -13491,7 +13807,7 @@ SO  - 3 Biotech. 2022 Sep;12(9):198. doi: 10.1007/s13205-022-03258-4. Epub 2022 
 PMID- 35923672
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2168-8184 (Print)
 IS  - 2168-8184 (Linking)
 VI  - 14
@@ -13538,7 +13854,7 @@ SO  - Cureus. 2022 Jun 30;14(6):e26464. doi: 10.7759/cureus.26464. eCollection 2
 PMID- 35923648
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -13589,7 +13905,7 @@ SO  - Schweiz Z Polit. 2021 Dec;27(4):809-821. doi: 10.1111/spsr.12479. Epub 202
 PMID- 35923591
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2639-8028 (Electronic)
 IS  - 2639-8028 (Linking)
 VI  - 4
@@ -13652,7 +13968,7 @@ SO  - Crit Care Explor. 2022 Jul 25;4(7):e0737. doi: 10.1097/CCE.000000000000073
 PMID- 35923589
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2639-8028 (Electronic)
 IS  - 2639-8028 (Linking)
 VI  - 4
@@ -13705,7 +14021,7 @@ SO  - Crit Care Explor. 2022 Jun 30;4(7):e0727. doi: 10.1097/CCE.000000000000072
 PMID- 35923566
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2075-8251 (Print)
 IS  - 2075-8251 (Linking)
 VI  - 14
@@ -13757,7 +14073,7 @@ SO  - Acta Naturae. 2022 Apr-Jun;14(2):16-38. doi: 10.32607/actanaturae.11652.
 PMID- 35923555
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1179-1594 (Print)
 IS  - 1179-1594 (Linking)
 VI  - 15
@@ -13805,7 +14121,7 @@ SO  - Risk Manag Healthc Policy. 2022 Jul 28;15:1459-1471. doi: 10.2147/RMHP.S37
 PMID- 35923553
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1179-1594 (Print)
 IS  - 1179-1594 (Linking)
 VI  - 15
@@ -13872,7 +14188,7 @@ SO  - Risk Manag Healthc Policy. 2022 Jul 26;15:1421-1431. doi: 10.2147/RMHP.S37
 PMID- 35923492
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2168-8184 (Print)
 IS  - 2168-8184 (Linking)
 VI  - 14
@@ -13949,7 +14265,7 @@ SO  - Cureus. 2022 Jul 1;14(7):e26480. doi: 10.7759/cureus.26480. eCollection 20
 PMID- 35923484
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2168-8184 (Print)
 IS  - 2168-8184 (Linking)
 VI  - 14
@@ -14001,7 +14317,7 @@ SO  - Cureus. 2022 Jul 1;14(7):e26500. doi: 10.7759/cureus.26500. eCollection 20
 PMID- 35923477
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2168-8184 (Print)
 IS  - 2168-8184 (Linking)
 VI  - 14
@@ -14047,7 +14363,7 @@ SO  - Cureus. 2022 Jul 1;14(7):e26501. doi: 10.7759/cureus.26501. eCollection 20
 PMID- 35923454
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-0640 (Print)
 IS  - 1664-0640 (Linking)
 VI  - 13
@@ -14101,7 +14417,7 @@ SO  - Front Psychiatry. 2022 Jul 18;13:904760. doi: 10.3389/fpsyt.2022.904760.eC
 PMID- 35923445
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-0640 (Print)
 IS  - 1664-0640 (Linking)
 VI  - 13
@@ -14173,7 +14489,7 @@ SO  - Front Psychiatry. 2022 Jul 18;13:884600. doi: 10.3389/fpsyt.2022.884600.eC
 PMID- 35923388
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2381-4683 (Electronic)
 IS  - 2381-4683 (Linking)
 VI  - 7
@@ -14245,8 +14561,9 @@ SO  - MDM Policy Pract. 2022 Jul 29;7(2):23814683221116362. doi:10.1177/23814683
 
 PMID- 35923385
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2641-5224 (Electronic)
 IS  - 2641-5216 (Linking)
 VI  - 81
@@ -14267,6 +14584,13 @@ TA  - Hawaii J Health Soc Welf
 JT  - Hawai'i journal of health & social welfare
 JID - 101750601
 SB  - IM
+MH  - Aged
+MH  - Aging
+MH  - *COVID-19
+MH  - Health Promotion
+MH  - Humans
+MH  - Pandemics/prevention & control
+MH  - Protective Factors
 PMC - PMC9344537
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
@@ -14281,7 +14605,7 @@ SO  - Hawaii J Health Soc Welf. 2022 Aug;81(8):230-231.
 PMID- 35923381
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2638-6100 (Electronic)
 IS  - 2638-6100 (Linking)
 VI  - 4
@@ -14385,7 +14709,7 @@ SO  - Radiol Artif Intell. 2022 Jun 1;4(4):e210217. doi: 10.1148/ryai.210217.eCo
 PMID- 35923370
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14472,7 +14796,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):227-228. doi: 10.1111/spsr.12468. Epub 202
 PMID- 35923368
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14529,7 +14853,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):297-310. doi: 10.1111/spsr.12461. Epub 202
 PMID- 35923367
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14586,7 +14910,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):243-256. doi: 10.1111/spsr.12458. Epub 202
 PMID- 35923366
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14644,7 +14968,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):271-282. doi: 10.1111/spsr.12465. Epub 202
 PMID- 35923365
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14702,7 +15026,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):311-324. doi: 10.1111/spsr.12446. Epub 202
 PMID- 35923364
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14751,7 +15075,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):353-368. doi: 10.1111/spsr.12466. Epub 202
 PMID- 35923363
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14801,7 +15125,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):325-338. doi: 10.1111/spsr.12457. Epub 202
 PMID- 35923362
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14845,7 +15169,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):229-242. doi: 10.1111/spsr.12467. Epub 202
 PMID- 35923361
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-6370 (Electronic)
 IS  - 1424-7755 (Linking)
 VI  - 27
@@ -14902,7 +15226,7 @@ SO  - Schweiz Z Polit. 2021 Jun;27(2):339-352. doi: 10.1111/spsr.12462. Epub 202
 PMID- 35923348
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2730-664X (Electronic)
 IS  - 2730-664X (Linking)
 VI  - 2
@@ -15761,7 +16085,7 @@ SO  - bioRxiv. 2022 Jul 27. doi: 10.1101/2022.07.26.501658.
 PMID- 35923294
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1662-5137 (Print)
 IS  - 1662-5137 (Linking)
 VI  - 16
@@ -15832,8 +16156,9 @@ SO  - Front Syst Neurosci. 2022 Jul 18;16:923576. doi: 10.3389/fnsys.2022.923576
 
 PMID- 35923277
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1564-0604 (Electronic)
 IS  - 0042-9686 (Linking)
 VI  - 100
@@ -16022,7 +16347,20 @@ PL  - Switzerland
 TA  - Bull World Health Organ
 JT  - Bulletin of the World Health Organization
 JID - 7507052
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Vaccines)
+RN  - B5S3K2V0G8 (ChAdOx1 nCoV-19)
 SB  - IM
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - COVID-19 Vaccines
+MH  - ChAdOx1 nCoV-19
+MH  - Cohort Studies
+MH  - Hospitalization
+MH  - Humans
+MH  - Iran/epidemiology
+MH  - SARS-CoV-2
+MH  - Vaccination
+MH  - *Vaccines
 PMC - PMC9306382
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
@@ -16040,8 +16378,9 @@ SO  - Bull World Health Organ. 2022 Aug 1;100(8):474-483. doi: 10.2471/BLT.22.28
 
 PMID- 35923276
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1564-0604 (Electronic)
 IS  - 0042-9686 (Linking)
 VI  - 100
@@ -16093,6 +16432,12 @@ TA  - Bull World Health Organ
 JT  - Bulletin of the World Health Organization
 JID - 7507052
 SB  - IM
+MH  - Brazil/epidemiology
+MH  - *COVID-19/epidemiology
+MH  - Health Personnel
+MH  - Humans
+MH  - Pandemics
+MH  - Workforce
 PMC - PMC9306386
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
@@ -16111,7 +16456,7 @@ SO  - Bull World Health Organ. 2022 Aug 1;100(8):520-524. doi: 10.2471/BLT.22.28
 PMID- 35923268
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2229-5070 (Print)
 IS  - 2229-5070 (Linking)
 VI  - 12
@@ -16153,7 +16498,7 @@ SO  - Trop Parasitol. 2022 Jan-Jun;12(1):65. doi: 10.4103/tp.tp_39_21. Epub 2022
 PMID- 35923233
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1664-042X (Print)
 IS  - 1664-042X (Linking)
 VI  - 13
@@ -16269,6 +16614,7 @@ FAU - Noti, John D
 AU  - Noti JD
 AD  - Health Effects Laboratory Division, National Institute for Occupational Safetyand Health, Centers for Disease Control and Prevention, Morgantown, WestVirginia, USA.
 LA  - eng
+GR  - CC999999/ImCDC/Intramural CDC HHS/United States
 PT  - Journal Article
 PL  - United States
 TA  - Aerosol Sci Technol
@@ -16276,6 +16622,7 @@ JT  - Aerosol science and technology : the journal of the American Association f
 JID - 9886760
 UOF - medRxiv. 2021 Feb 19;:. PMID: 33619500
 PMC - PMC9345405
+MID - NIHMS1778997
 OTO - NOTNLM
 OT  - Airborne transmission
 OT  - Face masks
@@ -16295,7 +16642,7 @@ SO  - Aerosol Sci Technol. 2021 Jun 14;55(10):1125-1142. doi:10.1080/02786826.20
 PMID- 35923169
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2752-4191 (Electronic)
 IS  - 2752-4191 (Linking)
 VI  - 1
@@ -16391,7 +16738,7 @@ SO  - Eur Heart J Open. 2021 Jul 29;1(1):oeab002. doi: 10.1093/ehjopen/oeab002.e
 PMID- 35923166
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1179-1578 (Print)
 IS  - 1179-1578 (Linking)
 VI  - 15
@@ -16451,7 +16798,7 @@ SO  - Psychol Res Behav Manag. 2022 Jul 28;15:1931-1942. doi: 10.2147/PRBM.S3704
 PMID- 35923154
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 1178-2390 (Print)
 IS  - 1178-2390 (Linking)
 VI  - 15
@@ -16601,8 +16948,9 @@ SO  - Ann Otol Rhinol Laryngol. 2022 Aug 3:34894221115752. doi:10.1177/000348942
 
 PMID- 35922994
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1878-8769 (Electronic)
 IS  - 1878-8750 (Linking)
 VI  - 158
@@ -16624,6 +16972,13 @@ TA  - World Neurosurg
 JT  - World neurosurgery
 JID - 101528275
 SB  - IM
+MH  - *COVID-19
+MH  - Humans
+MH  - *Neurosurgery
+MH  - Neurosurgical Procedures
+MH  - Referral and Consultation
+MH  - SARS-CoV-2
+MH  - *Telemedicine
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
 CRDT- 2022/08/04 01:03
@@ -16639,8 +16994,9 @@ SO  - World Neurosurg. 2022 Feb;158:345. doi: 10.1016/j.wneu.2021.11.120.
 
 PMID- 35922993
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1878-8769 (Electronic)
 IS  - 1878-8750 (Linking)
 VI  - 158
@@ -16662,6 +17018,12 @@ TA  - World Neurosurg
 JT  - World neurosurgery
 JID - 101528275
 SB  - IM
+MH  - *COVID-19
+MH  - Humans
+MH  - *Neurosurgery
+MH  - Referral and Consultation
+MH  - SARS-CoV-2
+MH  - *Telemedicine
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
 CRDT- 2022/08/04 01:03
@@ -16677,8 +17039,9 @@ SO  - World Neurosurg. 2022 Feb;158:344. doi: 10.1016/j.wneu.2021.11.071.
 
 PMID- 35922971
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1878-8769 (Electronic)
 IS  - 1878-8750 (Linking)
 VI  - 158
@@ -16712,6 +17075,12 @@ TA  - World Neurosurg
 JT  - World neurosurgery
 JID - 101528275
 SB  - IM
+MH  - *COVID-19
+MH  - Career Choice
+MH  - Education, Medical, Graduate
+MH  - Humans
+MH  - *Internship and Residency
+MH  - *Neurosurgery/education
 EDAT- 2022/08/05 06:00
 MHDA- 2022/08/05 06:00
 CRDT- 2022/08/04 01:03
@@ -17069,8 +17438,9 @@ SO  - Disaster Med Public Health Prep. 2022 Aug 4:1-12. doi: 10.1017/dmp.2022.20
 
 PMID- 35922866
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2050-7283 (Electronic)
 IS  - 2050-7283 (Linking)
 VI  - 10
@@ -17104,6 +17474,19 @@ TA  - BMC Psychol
 JT  - BMC psychology
 JID - 101627676
 SB  - IM
+MH  - Anxiety/psychology
+MH  - Brazil/epidemiology
+MH  - *COVID-19/epidemiology
+MH  - Cross-Sectional Studies
+MH  - Depression/psychology
+MH  - *Education, Distance
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Pandemics/prevention & control
+MH  - SARS-CoV-2
+MH  - Students/psychology
+MH  - Universities
 OTO - NOTNLM
 OT  - Anxiety
 OT  - Depression
@@ -17126,8 +17509,9 @@ SO  - BMC Psychol. 2022 Aug 3;10(1):192. doi: 10.1186/s40359-022-00897-3.
 
 PMID- 35922860
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1466-609X (Electronic)
 IS  - 1364-8535 (Linking)
 VI  - 26
@@ -17209,12 +17593,28 @@ LA  - eng
 SI  - ClinicalTrials.gov/NCT04836065
 GR  - MR/V006118/1/MRC_/Medical Research Council/United Kingdom
 PT  - Journal Article
+PT  - Multicenter Study
+PT  - Observational Study
 DEP - 20220803
 PL  - England
 TA  - Crit Care
 JT  - Critical care (London, England)
 JID - 9801902
+RN  - 0 (Adrenal Cortex Hormones)
+RN  - 0 (Anti-Bacterial Agents)
 SB  - IM
+MH  - Adrenal Cortex Hormones/therapeutic use
+MH  - Adult
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - *COVID-19/complications/epidemiology
+MH  - COVID-19 Testing
+MH  - *Coinfection/drug therapy/epidemiology
+MH  - Critical Illness
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Pandemics
+MH  - *Pneumonia, Bacterial/drug therapy
+MH  - *Pneumonia, Viral/complications/drug therapy/epidemiology
 IR  - Bezzi M
 FIR - Bezzi, Marco
 IR  - Gira A
@@ -17928,8 +18328,9 @@ SO  - Crit Care. 2022 Aug 3;26(1):236. doi: 10.1186/s13054-022-04108-8.
 
 PMID- 35922849
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1472-6963 (Electronic)
 IS  - 1472-6963 (Linking)
 VI  - 22
@@ -17966,6 +18367,12 @@ TA  - BMC Health Serv Res
 JT  - BMC health services research
 JID - 101088677
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - Hospital Costs
+MH  - Hospitalization
+MH  - Hospitals, Public
+MH  - Humans
+MH  - Patient Discharge
 OTO - NOTNLM
 OT  - COVID-19
 OT  - Economic evaluation
@@ -17987,8 +18394,9 @@ SO  - BMC Health Serv Res. 2022 Aug 4;22(1):991. doi: 10.1186/s12913-022-08365-9
 
 PMID- 35922839
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1472-6920 (Electronic)
 IS  - 1472-6920 (Linking)
 VI  - 22
@@ -18019,6 +18427,13 @@ TA  - BMC Med Educ
 JT  - BMC medical education
 JID - 101088679
 SB  - IM
+MH  - *COVID-19
+MH  - Communicable Disease Control
+MH  - Curriculum
+MH  - Humans
+MH  - Learning
+MH  - *Students, Dental
+MH  - Teaching
 OTO - NOTNLM
 OT  - Covid-19
 OT  - Dental education
@@ -18040,8 +18455,9 @@ SO  - BMC Med Educ. 2022 Aug 3;22(1):596. doi: 10.1186/s12909-022-03656-5.
 
 PMID- 35922832
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1466-609X (Electronic)
 IS  - 1364-8535 (Linking)
 VI  - 26
@@ -18079,6 +18495,14 @@ TA  - Crit Care
 JT  - Critical care (London, England)
 JID - 9801902
 SB  - IM
+MH  - *COVID-19/therapy
+MH  - *Extracorporeal Membrane Oxygenation
+MH  - Hospital Mortality
+MH  - Humans
+MH  - *Myocarditis/therapy
+MH  - Registries
+MH  - *Respiratory Insufficiency
+MH  - Retrospective Studies
 OTO - NOTNLM
 OT  - Acute respiratory distress syndrome
 OT  - Cardiac failure
@@ -18168,8 +18592,9 @@ SO  - Infect Agent Cancer. 2022 Aug 3;17(1):41. doi: 10.1186/s13027-022-00454-y.
 
 PMID- 35922817
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1472-6947 (Electronic)
 IS  - 1472-6947 (Linking)
 VI  - 22
@@ -18182,7 +18607,7 @@ AB  - BACKGROUND: The COVID-19 pandemic has prompted the decrease of in-person v
 CI  - (c) 2022. The Author(s).
 FAU - Ftouni, Racha
 AU  - Ftouni R
-AUID- ORCID: https://orcid.org/0000-0003-0979-2190
+AUID- ORCID: 0000-0003-0979-2190
 AD  - Faculty of Medicine, Beirut Arab University, Beirut, Lebanon.
 AD  - Department of Dermatology, American University of Beirut Medical Center, Beirut, Lebanon.
 FAU - AlJardali, Baraa
@@ -18194,28 +18619,35 @@ AU  - Hamdanieh M
 AD  - Faculty of Medicine, Beirut Arab University, Beirut, Lebanon.
 FAU - Ftouni, Louna
 AU  - Ftouni L
-AUID- ORCID: https://orcid.org/0000-0002-5100-0516
+AUID- ORCID: 0000-0002-5100-0516
 AD  - Faculty of Medicine, Beirut Arab University, Beirut, Lebanon.
 AD  - Division of Neurosurgery, Department of Surgery, American University of BeirutMedical Center, Beirut, Lebanon.
 FAU - Salem, Nariman
 AU  - Salem N
-AUID- ORCID: https://orcid.org/0000-0003-4366-5523
+AUID- ORCID: 0000-0003-4366-5523
 AD  - Faculty of Medicine, Beirut Arab University, Beirut, Lebanon. n.salem@bau.edu.lb.
 LA  - eng
 PT  - Journal Article
+PT  - Systematic Review
 DEP - 20220803
 PL  - England
 TA  - BMC Med Inform Decis Mak
 JT  - BMC medical informatics and decision making
 JID - 101088682
 SB  - IM
+MH  - *COVID-19
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - Pandemics/prevention & control
+MH  - Physician-Patient Relations
+MH  - *Telemedicine/methods
 OTO - NOTNLM
-OT  - COVID-19
-OT  - Challenges
-OT  - Coronavirus pandemic
-OT  - Healthcare providers
-OT  - Patients
-OT  - Telemedicine
+OT  - *COVID-19
+OT  - *Challenges
+OT  - *Coronavirus pandemic
+OT  - *Healthcare providers
+OT  - *Patients
+OT  - *Telemedicine
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 23:39
@@ -18231,8 +18663,9 @@ SO  - BMC Med Inform Decis Mak. 2022 Aug 3;22(1):207. doi: 10.1186/s12911-022-01
 
 PMID- 35922791
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1471-2474 (Electronic)
 IS  - 1471-2474 (Linking)
 VI  - 23
@@ -18269,6 +18702,13 @@ TA  - BMC Musculoskelet Disord
 JT  - BMC musculoskeletal disorders
 JID - 100968565
 SB  - IM
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - Ergonomics/methods
+MH  - Humans
+MH  - *Musculoskeletal Diseases
+MH  - *Occupational Diseases/diagnosis/epidemiology/etiology
+MH  - Pilot Projects
+MH  - SARS-CoV-2
 OTO - NOTNLM
 OT  - Ergonomic risk potential
 OT  - Ergonomics
@@ -18292,8 +18732,9 @@ SO  - BMC Musculoskelet Disord. 2022 Aug 3;23(1):745. doi: 10.1186/s12891-022-05
 
 PMID- 35922786
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2662-7671 (Electronic)
 IS  - 2662-7671 (Linking)
 VI  - 22
@@ -18355,7 +18796,23 @@ PL  - England
 TA  - BMC Complement Med Ther
 JT  - BMC complementary medicine and therapies
 JID - 101761232
+RN  - 0 (Glucosides)
+RN  - 0 (Kaempferols)
+RN  - 0 (Methyl Ethers)
+RN  - 9IKM0I5T1E (Quercetin)
+RN  - E750O06Y6O (Hesperidin)
 SB  - IM
+MH  - *COVID-19/drug therapy
+MH  - Glucosides
+MH  - *Hesperidin
+MH  - Humans
+MH  - Indonesia
+MH  - Kaempferols
+MH  - Machine Learning
+MH  - *Methyl Ethers
+MH  - Molecular Docking Simulation
+MH  - Quercetin
+MH  - SARS-CoV-2
 OTO - NOTNLM
 OT  - 3CLPro
 OT  - COVID-19
@@ -18379,8 +18836,9 @@ SO  - BMC Complement Med Ther. 2022 Aug 3;22(1):207. doi: 10.1186/s12906-022-036
 
 PMID- 35922752
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1528-3658 (Electronic)
 IS  - 1076-1551 (Linking)
 VI  - 28
@@ -18410,12 +18868,21 @@ AD  - Basic and Molecular Epidemiology of Gastrointestinal Disorders Research Ce
 LA  - eng
 GR  - 99004456/Iran National Science Foundation
 PT  - Journal Article
+PT  - Meta-Analysis
 DEP - 20220803
 PL  - England
 TA  - Mol Med
 JT  - Molecular medicine (Cambridge, Mass.)
 JID - 9501023
+RN  - 0 (Biomarkers)
 SB  - IM
+MH  - Biomarkers
+MH  - *COVID-19/diagnosis/genetics
+MH  - COVID-19 Testing
+MH  - Humans
+MH  - Pandemics
+MH  - SARS-CoV-2
+MH  - Transcriptome
 OTO - NOTNLM
 OT  - Biomarker
 OT  - COVID-19
@@ -18968,8 +19435,9 @@ SO  - Infection. 2022 Aug 3. pii: 10.1007/s15010-022-01891-y. doi:10.1007/s15010
 
 PMID- 35922695
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1573-2959 (Electronic)
 IS  - 0167-6369 (Linking)
 VI  - 194
@@ -18996,6 +19464,15 @@ TA  - Environ Monit Assess
 JT  - Environmental monitoring and assessment
 JID - 8508350
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - Cities
+MH  - Environmental Monitoring/methods
+MH  - *Geographic Information Systems
+MH  - Humans
+MH  - Pandemics
+MH  - Parks, Recreational
+MH  - Remote Sensing Technology
+MH  - Urbanization
 OTO - NOTNLM
 OT  - Battalgazi
 OT  - COVID-19 pandemic
@@ -19148,8 +19625,9 @@ SO  - NPJ Digit Med. 2022 Aug 3;5(1):108. doi: 10.1038/s41746-022-00655-0.
 
 PMID- 35922645
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2045-2322 (Electronic)
 IS  - 2045-2322 (Linking)
 VI  - 12
@@ -19170,7 +19648,21 @@ PL  - England
 TA  - Sci Rep
 JT  - Scientific reports
 JID - 101563288
+RN  - 0 (Air Pollutants)
+RN  - 0 (Particulate Matter)
+RN  - 00BH33GNGH (Cadmium)
+RN  - J64922108F (Benzene)
+RN  - S7G510RUBH (Nitrogen Dioxide)
 SB  - IM
+MH  - *Air Pollutants/adverse effects/analysis
+MH  - *Air Pollution/adverse effects/analysis
+MH  - Benzene
+MH  - *COVID-19/epidemiology
+MH  - Cadmium
+MH  - Environmental Exposure/adverse effects/analysis
+MH  - Humans
+MH  - Nitrogen Dioxide/adverse effects/analysis
+MH  - Particulate Matter/adverse effects/analysis
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 23:29
@@ -19244,8 +19736,9 @@ SO  - J Thromb Thrombolysis. 2022 Aug 3. pii: 10.1007/s11239-022-02681-x. doi:10
 
 PMID- 35922559
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Linking)
 VI  - 608
@@ -19261,6 +19754,10 @@ TA  - Nature
 JT  - Nature
 JID - 0410462
 SB  - IM
+MH  - Animals
+MH  - *COVID-19
+MH  - *Copepoda
+MH  - Hyperplasia
 OTO - NOTNLM
 OT  - Astronomical instrumentation
 OT  - Physics
@@ -19278,8 +19775,9 @@ SO  - Nature. 2022 Aug;608(7921):13. doi: 10.1038/d41586-022-02072-5.
 
 PMID- 35922556
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Linking)
 VI  - 608
@@ -19294,7 +19792,15 @@ PL  - England
 TA  - Nature
 JT  - Nature
 JID - 0410462
+RN  - 0 (Antibodies, Viral)
 SB  - IM
+MH  - Antibodies, Viral
+MH  - *COVID-19/prevention & control
+MH  - Child
+MH  - Humans
+MH  - Immunization
+MH  - SARS-CoV-2
+MH  - Vaccination
 OTO - NOTNLM
 OT  - Diseases
 OT  - Health care
@@ -19313,8 +19819,8 @@ SO  - Nature. 2022 Aug;608(7921):7-8. doi: 10.1038/d41586-022-02087-y.
 
 PMID- 35922517
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Linking)
 VI  - 608
@@ -21089,8 +21595,9 @@ SO  - Nature. 2022 Aug;608(7921):E1-E10. doi: 10.1038/s41586-022-04826-7. Epub 2
 
 PMID- 35922447
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2045-2322 (Electronic)
 IS  - 2045-2322 (Linking)
 VI  - 12
@@ -21124,7 +21631,18 @@ PL  - England
 TA  - Sci Rep
 JT  - Scientific reports
 JID - 101563288
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Viral Nonstructural Proteins)
+RN  - EC 3.1.- (Endoribonucleases)
 SB  - IM
+MH  - Antiviral Agents/chemistry/pharmacology
+MH  - *COVID-19/drug therapy
+MH  - Endoribonucleases/metabolism
+MH  - Humans
+MH  - Molecular Docking Simulation
+MH  - Molecular Dynamics Simulation
+MH  - *SARS-CoV-2
+MH  - Viral Nonstructural Proteins/genetics
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 23:18
@@ -21140,8 +21658,9 @@ SO  - Sci Rep. 2022 Aug 3;12(1):13337. doi: 10.1038/s41598-022-17573-6.
 
 PMID- 35922436
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2045-2322 (Electronic)
 IS  - 2045-2322 (Linking)
 VI  - 12
@@ -21181,12 +21700,23 @@ AU  - Morsy MAE
 AD  - Department of Anesthesia and Critical Care Medicine, Faculty of Medicine, CairoUniversity, Cairo, Egypt.
 LA  - eng
 PT  - Journal Article
+PT  - Observational Study
 DEP - 20220803
 PL  - England
 TA  - Sci Rep
 JT  - Scientific reports
 JID - 101563288
 SB  - IM
+MH  - APACHE
+MH  - Adult
+MH  - *COVID-19/therapy
+MH  - Hospital Mortality
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Prognosis
+MH  - Prospective Studies
+MH  - ROC Curve
+MH  - Retrospective Studies
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 23:18
@@ -21202,8 +21732,9 @@ SO  - Sci Rep. 2022 Aug 3;12(1):13323. doi: 10.1038/s41598-022-17466-8.
 
 PMID- 35922434
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2041-1723 (Electronic)
 IS  - 2041-1723 (Linking)
 VI  - 13
@@ -21310,7 +21841,19 @@ PL  - England
 TA  - Nat Commun
 JT  - Nature communications
 JID - 101528555
+RN  - 0 (Oligonucleotides, Antisense)
+RN  - 0 (RNA, Viral)
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - Administration, Intranasal
+MH  - Animals
+MH  - *COVID-19
+MH  - Humans
+MH  - Mice
+MH  - Oligonucleotides, Antisense/pharmacology/therapeutic use
+MH  - Pandemics/prevention & control
+MH  - RNA, Viral/genetics
+MH  - *SARS-CoV-2
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 23:17
@@ -21326,8 +21869,9 @@ SO  - Nat Commun. 2022 Aug 3;13(1):4503. doi: 10.1038/s41467-022-32216-0.
 
 PMID- 35922409
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2041-1723 (Electronic)
 IS  - 2041-1723 (Linking)
 VI  - 13
@@ -21459,7 +22003,14 @@ PL  - England
 TA  - Nat Commun
 JT  - Nature communications
 JID - 101528555
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - Base Sequence
+MH  - *COVID-19/epidemiology
+MH  - Child
+MH  - Humans
+MH  - *SARS-CoV-2
+MH  - Specimen Handling
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 23:14
@@ -21475,8 +22026,9 @@ SO  - Nat Commun. 2022 Aug 3;13(1):4500. doi: 10.1038/s41467-022-32121-6.
 
 PMID- 35922403
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2059-3635 (Electronic)
 IS  - 2059-3635 (Linking)
 VI  - 7
@@ -21545,7 +22097,20 @@ PL  - England
 TA  - Signal Transduct Target Ther
 JT  - Signal transduction and targeted therapy
 JID - 101676423
+RN  - 0 (Peptides)
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - Animals
+MH  - *COVID-19/genetics
+MH  - Cricetinae
+MH  - Humans
+MH  - *Influenza A Virus, H1N1 Subtype/genetics
+MH  - *Influenza A virus
+MH  - *Influenza, Human/prevention & control
+MH  - Mice
+MH  - *Nanoparticles
+MH  - Peptides/genetics/pharmacology
+MH  - SARS-CoV-2/genetics
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 23:13
@@ -21721,8 +22286,9 @@ SO  - Pathology. 2022 Jul 2. pii: S0031-3025(22)00187-8. doi:10.1016/j.pathol.20
 
 PMID- 35922243
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 0253-9624 (Print)
 IS  - 0253-9624 (Linking)
 VI  - 56
@@ -21743,13 +22309,21 @@ AU  - Li J
 AD  - School of Public Health, Nanjing Medical University, Nanjing 211166, ChinaDepartment of Vaccine Clinical Evaluation, Jiangsu Center for Disease Control andPrevention, Nanjing 210000, China.
 LA  - chi
 GR  - 82173584/National Natural Science Foundation of China
-PT  - English Abstract
 PT  - Journal Article
 PL  - China
 TA  - Zhonghua Yu Fang Yi Xue Za Zhi
 JT  - Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]
 JID - 7904962
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Vaccines, Synthetic)
+RN  - 0 (Viral Vaccines)
 SB  - IM
+MH  - *COVID-19/prevention & control
+MH  - COVID-19 Vaccines
+MH  - Genetic Vectors
+MH  - Humans
+MH  - Vaccines, Synthetic
+MH  - *Viral Vaccines
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 21:45
@@ -21762,8 +22336,9 @@ SO  - Zhonghua Yu Fang Yi Xue Za Zhi. 2022 Aug 6;56(8):1127-1135. doi:10.3760/cm
 
 PMID- 35922231
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 0253-9624 (Print)
 IS  - 0253-9624 (Linking)
 VI  - 56
@@ -21791,13 +22366,21 @@ GR  - 2021ZD0006/Military Logistics Research Program
 GR  - Beijing Advanced Innovation Program for Land Surface Science
 GR  - Inner Mongolia Autonomous Region Major Science and Technology Project
 GR  - OFSLRSS202106/Open Fund Project of the State Key Laboratory of Remote SensingScience
-PT  - English Abstract
 PT  - Journal Article
 PL  - China
 TA  - Zhonghua Yu Fang Yi Xue Za Zhi
 JT  - Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]
 JID - 7904962
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - Anniversaries and Special Events
+MH  - *COVID-19
+MH  - *Communicable Diseases
+MH  - Humans
+MH  - Mass Gatherings
+MH  - Models, Theoretical
+MH  - SARS-CoV-2
+MH  - United States
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 21:45
@@ -21810,8 +22393,9 @@ SO  - Zhonghua Yu Fang Yi Xue Za Zhi. 2022 Aug 6;56(8):1055-1061. doi:10.3760/cm
 
 PMID- 35922230
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 0253-9624 (Print)
 IS  - 0253-9624 (Linking)
 VI  - 56
@@ -21833,13 +22417,20 @@ AD  - The Dean's Office, Ruijin Hospital, Shanghai Jiao Tong University School o
 LA  - chi
 GR  - GWV-10.1-XK04/Shanghai Public Health System Construction Three Year Action Plan(2020-2022), Key Disciplines Grant
 GR  - 20XD1434500/Excellent Technology Leader in Shanghai
-PT  - English Abstract
 PT  - Journal Article
 PL  - China
 TA  - Zhonghua Yu Fang Yi Xue Za Zhi
 JT  - Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]
 JID - 7904962
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - *COVID-19
+MH  - Hospitals
+MH  - Humans
+MH  - Infection Control
+MH  - Pandemics/prevention & control
+MH  - Risk Assessment
+MH  - SARS-CoV-2
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 21:45
@@ -21853,7 +22444,7 @@ SO  - Zhonghua Yu Fang Yi Xue Za Zhi. 2022 Aug 6;56(8):1050-1054. doi:10.3760/cm
 PMID- 35919505
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220804
+LR  - 20220805
 IS  - 2398-502X (Print)
 IS  - 2398-502X (Linking)
 VI  - 6
@@ -21923,7 +22514,7 @@ PL  - England
 TA  - Wellcome Open Res
 JT  - Wellcome open research
 JID - 101696457
-PMC - PMC9294498.2
+PMC - PMC9294498
 OTO - NOTNLM
 OT  - ALSPAC
 OT  - COVID-19
@@ -21947,7 +22538,8 @@ SO  - Wellcome Open Res. 2022 Jul 8;6:184. doi: 10.12688/wellcomeopenres.17041.2
 
 PMID- 35919099
 OWN - NLM
-STAT- In-Process
+STAT- MEDLINE
+DCOM- 20220805
 LR  - 20220805
 IS  - 2046-1402 (Electronic)
 IS  - 2046-1402 (Linking)
@@ -21989,6 +22581,7 @@ AU  - Teran E
 AUID- ORCID: https://orcid.org/0000-0001-6979-5655
 AD  - Colegio de Ciencias de la Salud, Universidad San Francisco de Quito, Quito,Ecuador.
 LA  - eng
+PT  - Case Reports
 PT  - Journal Article
 DEP - 20220321
 PL  - England
@@ -21996,7 +22589,13 @@ TA  - F1000Res
 JT  - F1000Research
 JID - 101594320
 SB  - IM
-PMC - PMC9296994.2
+MH  - *COVID-19/epidemiology
+MH  - Humans
+MH  - Latin America
+MH  - Literacy
+MH  - Pandemics
+MH  - *Students, Medical
+PMC - PMC9296994
 OTO - NOTNLM
 OT  - COVID-19; medical students; Latin America; critical scientific literatureappraisal
 COIS- No competing interests were disclosed.
@@ -22013,7 +22612,8 @@ SO  - F1000Res. 2022 Mar 21;11:341. doi: 10.12688/f1000research.109398.2. eColle
 
 PMID- 35919098
 OWN - NLM
-STAT- In-Process
+STAT- MEDLINE
+DCOM- 20220805
 LR  - 20220805
 IS  - 2046-1402 (Electronic)
 IS  - 2046-1402 (Linking)
@@ -22046,8 +22646,17 @@ PL  - England
 TA  - F1000Res
 JT  - F1000Research
 JID - 101594320
+RN  - 0 (Biological Products)
 SB  - IM
-PMC - PMC9294495.2
+MH  - *Biological Products/therapeutic use
+MH  - *COVID-19
+MH  - Cross-Sectional Studies
+MH  - Hospitalization
+MH  - Humans
+MH  - SARS-CoV-2
+MH  - Self Report
+MH  - Severity of Illness Index
+PMC - PMC9294495
 OTO - NOTNLM
 OT  - COVID-19
 OT  - carnation
@@ -22071,8 +22680,9 @@ SO  - F1000Res. 2022 Jun 10;11:639. doi: 10.12688/f1000research.121933.2. eColle
 
 PMID- 35646330
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2046-1402 (Electronic)
 IS  - 2046-1402 (Linking)
 VI  - 10
@@ -22103,6 +22713,12 @@ TA  - F1000Res
 JT  - F1000Research
 JID - 101594320
 SB  - IM
+MH  - Bayes Theorem
+MH  - *COVID-19/epidemiology
+MH  - Cluster Analysis
+MH  - Humans
+MH  - Incidence
+MH  - Ontario/epidemiology
 PMC - PMC9130760.2
 OTO - NOTNLM
 OT  - COVID-19
@@ -22267,8 +22883,9 @@ SO  - Ann Rheum Dis. 2022 Aug 3. pii: ard-2022-222832. doi: 10.1136/ard-2022-222
 
 PMID- 35922108
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2044-6055 (Electronic)
 IS  - 2044-6055 (Linking)
 VI  - 12
@@ -22308,6 +22925,14 @@ TA  - BMJ Open
 JT  - BMJ open
 JID - 101552874
 SB  - IM
+MH  - *COVID-19
+MH  - Communicable Disease Control
+MH  - Denmark
+MH  - Health Personnel
+MH  - Hospitals
+MH  - Humans
+MH  - Pandemics
+MH  - SARS-CoV-2
 OTO - NOTNLM
 OT  - COVID-19
 OT  - human resource management
@@ -22326,8 +22951,9 @@ SO  - BMJ Open. 2022 Aug 3;12(8):e063279. doi: 10.1136/bmjopen-2022-063279.
 
 PMID- 35922104
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2044-6055 (Electronic)
 IS  - 2044-6055 (Linking)
 VI  - 12
@@ -22359,12 +22985,21 @@ AUID- ORCID: http://orcid.org/0000-0003-1601-5015
 AD  - Neuroscience Research Group (NeURos), NeuroVitae Center for Neuroscience, School of Medicine and Health Sciences, Universidad del Rosario, Bogota D.C, Colombiaclaudia.talero@urosario.edu.co.
 LA  - eng
 PT  - Journal Article
+PT  - Systematic Review
 DEP - 20220803
 PL  - England
 TA  - BMJ Open
 JT  - BMJ open
 JID - 101552874
 SB  - IM
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - Child
+MH  - Communicable Disease Control
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - Learning
+MH  - Schools
+MH  - United States
 OTO - NOTNLM
 OT  - COVID-19
 OT  - paediatric ophthalmology
@@ -22383,8 +23018,9 @@ SO  - BMJ Open. 2022 Aug 3;12(8):e062388. doi: 10.1136/bmjopen-2022-062388.
 
 PMID- 35922102
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2044-6055 (Electronic)
 IS  - 2044-6055 (Linking)
 VI  - 12
@@ -22447,12 +23083,20 @@ AD  - Department of Laboratory Medicine, Catharina Hospital, Eindhoven, TheNethe
 AD  - Faculty of Biomedical Engineering, Eindhoven University of Technology, Eindhoven,The Netherlands.
 LA  - eng
 PT  - Journal Article
+PT  - Multicenter Study
 DEP - 20220803
 PL  - England
 TA  - BMJ Open
 JT  - BMJ open
 JID - 101552874
 SB  - IM
+MH  - *COVID-19/diagnosis/epidemiology
+MH  - Case-Control Studies
+MH  - *Early Warning Score
+MH  - Emergency Service, Hospital
+MH  - Humans
+MH  - SARS-CoV-2
+MH  - Tertiary Care Centers
 OTO - NOTNLM
 OT  - COVID-19
 OT  - Clinical chemistry
@@ -22473,8 +23117,9 @@ SO  - BMJ Open. 2022 Aug 3;12(8):e059111. doi: 10.1136/bmjopen-2021-059111.
 
 PMID- 35922100
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2044-6055 (Electronic)
 IS  - 2044-6055 (Linking)
 VI  - 12
@@ -22536,7 +23181,24 @@ PL  - England
 TA  - BMJ Open
 JT  - BMJ open
 JID - 101552874
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Vaccines, Synthetic)
+RN  - 0 (mRNA Vaccine)
+RN  - 0 (mRNA Vaccines)
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - COVID-19 Vaccines
+MH  - Case-Control Studies
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - RNA, Messenger
+MH  - SARS-CoV-2/genetics
+MH  - Vaccines, Synthetic
+MH  - *Veterans
+MH  - mRNA Vaccines
 OTO - NOTNLM
 OT  - epidemiology
 OT  - immunology
@@ -22773,8 +23435,9 @@ SO  - Int J Nurs Pract. 2022 Aug 3:e13084. doi: 10.1111/ijn.13084.
 
 PMID- 35922050
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1541-8243 (Electronic)
 IS  - 0038-4348 (Linking)
 VI  - 115
@@ -22793,6 +23456,11 @@ TA  - South Med J
 JT  - Southern medical journal
 JID - 0404522
 SB  - IM
+MH  - *COVID-19
+MH  - Child
+MH  - Humans
+MH  - Inpatients
+MH  - *Psychiatry
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 20:02
@@ -23809,8 +24477,8 @@ SO  - Cell Host Microbe. 2022 Jul 7. pii: S1931-3128(22)00318-3. doi:10.1016/j.c
 
 PMID- 35921835
 OWN - NLM
-STAT- Publisher
-LR  - 20220804
+STAT- In-Process
+LR  - 20220805
 IS  - 2211-1247 (Electronic)
 VI  - 40
 IP  - 5
@@ -24486,8 +25154,9 @@ SO  - Retin Cases Brief Rep. 2022 Jul 29. pii: 01271216-990000000-00037. doi:10.
 
 PMID- 35921608
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -24540,6 +25209,13 @@ TA  - PLoS One
 JT  - PloS one
 JID - 101285081
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - Humans
+MH  - *Influenza, Human/epidemiology
+MH  - Pandemics
+MH  - Retrospective Studies
+MH  - SARS-CoV-2
+MH  - Tennessee/epidemiology
 COIS- Natasha Halasa, MD, MPH receives grant support from Sanofi Pasteur, Quidel, andspeaker compensation from an education grant supported by Genentech. SanofiPasteur also donated vaccines and influenza antibody testing for influenzavaccine trial. This does not alter our adherence to PLOS ONE policies on sharing data and materials.
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
@@ -25260,8 +25936,9 @@ SO  - ACS Nano. 2022 Aug 3. doi: 10.1021/acsnano.2c03119.
 
 PMID- 35921504
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1555-2101 (Electronic)
 IS  - 0160-6689 (Linking)
 VI  - 83
@@ -25299,6 +25976,14 @@ TA  - J Clin Psychiatry
 JT  - The Journal of clinical psychiatry
 JID - 7801243
 SB  - IM
+MH  - *COVID-19
+MH  - Humans
+MH  - *Mental Disorders
+MH  - Pandemics
+MH  - *Racism
+MH  - Suicidal Ideation
+MH  - Systemic Racism
+MH  - *Veterans
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 14:43
@@ -25369,8 +26054,9 @@ SO  - J Am Geriatr Soc. 2022 Aug 3. doi: 10.1111/jgs.17984.
 
 PMID- 35921460
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1533-4406 (Electronic)
 IS  - 0028-4793 (Linking)
 VI  - 387
@@ -25391,7 +26077,15 @@ PL  - United States
 TA  - N Engl J Med
 JT  - The New England journal of medicine
 JID - 0255562
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Viral Vaccines)
 SB  - IM
+MH  - Animals
+MH  - *COVID-19/prevention & control
+MH  - COVID-19 Vaccines
+MH  - Humans
+MH  - *Monkeypox
+MH  - *Viral Vaccines
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 14:04
@@ -25404,8 +26098,9 @@ SO  - N Engl J Med. 2022 Aug 4;387(5):e16. doi: 10.1056/NEJMe2210394.
 
 PMID- 35921436
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1091-6490 (Electronic)
 IS  - 0027-8424 (Linking)
 VI  - 119
@@ -25460,6 +26155,11 @@ TA  - Proc Natl Acad Sci U S A
 JT  - Proceedings of the National Academy of Sciences of the United States of America
 JID - 7505876
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - Forecasting
+MH  - Humans
+MH  - Pandemics
+MH  - Time Factors
 OTO - NOTNLM
 OT  - COVID-19
 OT  - forecasting
@@ -25477,8 +26177,9 @@ SO  - Proc Natl Acad Sci U S A. 2022 Aug 9;119(32):e2112656119. doi:10.1073/pnas
 
 PMID- 35921414
 OWN - NLM
-STAT- In-Process
-LR  - 20220803
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2375-2548 (Electronic)
 IS  - 2375-2548 (Linking)
 VI  - 8
@@ -25510,7 +26211,13 @@ PL  - United States
 TA  - Sci Adv
 JT  - Science advances
 JID - 101653440
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - Adaptive Immunity
+MH  - *COVID-19
+MH  - Humans
+MH  - *Middle East Respiratory Syndrome Coronavirus
+MH  - SARS-CoV-2
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 14:03
@@ -25558,8 +26265,9 @@ SO  - J Am Vet Med Assoc. 2022 Aug 3:1-8. doi: 10.2460/javma.22.05.0218.
 
 PMID- 35921371
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -25590,6 +26298,18 @@ TA  - PLoS One
 JT  - PloS one
 JID - 101285081
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - Child
+MH  - Communicable Disease Control
+MH  - Cross-Sectional Studies
+MH  - Emotions
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mothers/psychology
+MH  - Parents/psychology
+MH  - Sri Lanka/epidemiology
+MH  - Surveys and Questionnaires
 COIS- The authors of this manuscript have no conflict of interest.
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
@@ -25606,8 +26326,9 @@ SO  - PLoS One. 2022 Aug 3;17(8):e0271757. doi: 10.1371/journal.pone.0271757.eCo
 
 PMID- 35921353
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -25676,7 +26397,21 @@ PL  - United States
 TA  - PLoS One
 JT  - PloS one
 JID - 101285081
+RN  - 0 (Estrogens)
 SB  - IM
+MH  - *COVID-19
+MH  - Cohort Studies
+MH  - Estrogens
+MH  - Female
+MH  - *HIV Infections/complications/epidemiology
+MH  - Humans
+MH  - Hypothalamo-Hypophyseal System
+MH  - Inflammation/complications
+MH  - Multicenter Studies as Topic
+MH  - Observational Studies as Topic
+MH  - Pandemics
+MH  - Pituitary-Adrenal System
+MH  - Prospective Studies
 COIS- The authors have declared that no competing interests exist.
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
@@ -25727,8 +26462,9 @@ SO  - PLoS One. 2022 Aug 3;17(8):e0272762. doi: 10.1371/journal.pone.0272762.eCo
 
 PMID- 35921281
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1932-6203 (Electronic)
 IS  - 1932-6203 (Linking)
 VI  - 17
@@ -25756,12 +26492,19 @@ AUID- ORCID: https://orcid.org/0000-0003-0039-9755
 AD  - Department of Experimental Psychology, University College London, London, United Kingdom.
 LA  - eng
 PT  - Journal Article
+PT  - Randomized Controlled Trial
 DEP - 20220803
 PL  - United States
 TA  - PLoS One
 JT  - PloS one
 JID - 101285081
 SB  - IM
+MH  - *COVID-19
+MH  - Communicable Disease Control
+MH  - *Communications Media
+MH  - Gestures
+MH  - Humans
+MH  - Videoconferencing
 COIS- PDH developed Video Meeting Signals (VMS) and markets workshops and training onthis technique. This competing interest does not alter the authors' adherence to PLOS ONE policies on sharing data and materials.
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
@@ -25829,8 +26572,9 @@ SO  - ACS Nano. 2022 Aug 3. doi: 10.1021/acsnano.2c01697.
 
 PMID- 35921229
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1473-5644 (Electronic)
 IS  - 0022-2615 (Linking)
 VI  - 71
@@ -25869,11 +26613,23 @@ AD  - Institute of Microbiology, Lausanne University Hospital and University ofL
 AD  - Infectious Diseases Service, Department of Medicine, Lausanne University Hospitaland University of Lausanne, Lausanne, Switzerland.
 LA  - eng
 PT  - Journal Article
+PT  - Observational Study
 PL  - England
 TA  - J Med Microbiol
 JT  - Journal of medical microbiology
 JID - 0224131
+RN  - 0 (Antibodies, Viral)
 SB  - IM
+MH  - Antibodies, Viral
+MH  - *COVID-19/epidemiology
+MH  - Health Personnel
+MH  - Hospitals
+MH  - Humans
+MH  - *Pandemics
+MH  - Personnel, Hospital
+MH  - SARS-CoV-2
+MH  - Seroepidemiologic Studies
+MH  - Switzerland/epidemiology
 OTO - NOTNLM
 OT  - COVID-19
 OT  - SARS-CoV-2
@@ -25960,8 +26716,9 @@ SO  - Eur Heart J Qual Care Clin Outcomes. 2022 Aug 3. pii: 6654746. doi:10.1093
 
 PMID- 35921191
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1092-0684 (Electronic)
 IS  - 1092-0684 (Linking)
 VI  - 52
@@ -26024,6 +26781,18 @@ TA  - Neurosurg Focus
 JT  - Neurosurgical focus
 JID - 100896471
 SB  - IM
+MH  - Aged
+MH  - Burnout, Psychological
+MH  - *COVID-19
+MH  - Caregivers
+MH  - *Health Literacy
+MH  - Humans
+MH  - Inpatients
+MH  - Pandemics
+MH  - Pilot Projects
+MH  - Self Efficacy
+MH  - *Shared Medical Appointments
+MH  - *Stroke/therapy
 OTO - NOTNLM
 OT  - health literacy
 OT  - patient-provider relationship
@@ -26045,8 +26814,9 @@ SO  - Neurosurg Focus. 2022 Jun;52(6):E12. doi: 10.3171/2022.4.FOCUS21764.
 
 PMID- 35921188
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1092-0684 (Electronic)
 IS  - 1092-0684 (Linking)
 VI  - 52
@@ -26087,6 +26857,12 @@ TA  - Neurosurg Focus
 JT  - Neurosurgical focus
 JID - 100896471
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - Developing Countries
+MH  - Humans
+MH  - Pandemics
+MH  - Patient Satisfaction
+MH  - *Remote Consultation
 OTO - NOTNLM
 OT  - COVID-19 pandemic
 OT  - WhatsApp
@@ -26112,8 +26888,9 @@ SO  - Neurosurg Focus. 2022 Jun;52(6):E5. doi: 10.3171/2022.3.FOCUS2247.
 
 PMID- 35921187
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1092-0684 (Electronic)
 IS  - 1092-0684 (Linking)
 VI  - 52
@@ -26186,6 +26963,12 @@ TA  - Neurosurg Focus
 JT  - Neurosurgical focus
 JID - 100896471
 SB  - IM
+MH  - *Brain Neoplasms/surgery
+MH  - *COVID-19
+MH  - Humans
+MH  - Outpatients
+MH  - Pilot Projects
+MH  - *Telemedicine
 OTO - NOTNLM
 OT  - ambulatory neurosurgery
 OT  - day surgery
@@ -26209,8 +26992,9 @@ SO  - Neurosurg Focus. 2022 Jun;52(6):E8. doi: 10.3171/2022.3.FOCUS2242.
 
 PMID- 35921181
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1092-0684 (Electronic)
 IS  - 1092-0684 (Linking)
 VI  - 52
@@ -26257,6 +27041,12 @@ TA  - Neurosurg Focus
 JT  - Neurosurgical focus
 JID - 100896471
 SB  - IM
+MH  - Ambulatory Care
+MH  - *COVID-19/epidemiology
+MH  - Humans
+MH  - Pandemics
+MH  - Patient Satisfaction
+MH  - *Telemedicine/methods
 OTO - NOTNLM
 OT  - COVID-19
 OT  - surgical consultation
@@ -26334,8 +27124,9 @@ SO  - Acad Med. 2022 Aug 2. pii: 00001888-990000000-00139. doi:10.1097/ACM.00000
 
 PMID- 35921146
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1438-8871 (Electronic)
 IS  - 1438-8871 (Linking)
 VI  - 24
@@ -26407,6 +27198,16 @@ TA  - J Med Internet Res
 JT  - Journal of medical Internet research
 JID - 100959882
 SB  - IM
+MH  - Aftercare
+MH  - *COVID-19
+MH  - *Dermatology/methods
+MH  - Humans
+MH  - Inpatients
+MH  - Outpatients
+MH  - Patient Discharge
+MH  - Patient Transfer
+MH  - Retrospective Studies
+MH  - *Telemedicine/methods
 OTO - NOTNLM
 OT  - care coordination
 OT  - care transitions
@@ -26654,8 +27455,9 @@ SO  - J Drug Target. 2022 Aug 3:1-30. doi: 10.1080/1061186X.2022.2110252.
 
 PMID- 35921113
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2574-3805 (Electronic)
 IS  - 2574-3805 (Linking)
 VI  - 5
@@ -26688,7 +27490,14 @@ PL  - United States
 TA  - JAMA Netw Open
 JT  - JAMA network open
 JID - 101729235
+RN  - 0 (Antibodies, Viral)
 SB  - IM
+MH  - Antibodies, Viral
+MH  - *COVID-19/epidemiology
+MH  - Humans
+MH  - Iceland/epidemiology
+MH  - *Reinfection/epidemiology
+MH  - SARS-CoV-2
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:34
@@ -26702,8 +27511,9 @@ SO  - JAMA Netw Open. 2022 Aug 1;5(8):e2225320. doi:10.1001/jamanetworkopen.2022
 
 PMID- 35921111
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2574-3805 (Electronic)
 IS  - 2574-3805 (Linking)
 VI  - 5
@@ -26746,6 +27556,11 @@ TA  - JAMA Netw Open
 JT  - JAMA network open
 JID - 101729235
 SB  - IM
+MH  - *COVID-19
+MH  - COVID-19 Testing
+MH  - Humans
+MH  - Nasopharynx
+MH  - *SARS-CoV-2
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:34
@@ -26759,8 +27574,9 @@ SO  - JAMA Netw Open. 2022 Aug 1;5(8):e2225331. doi:10.1001/jamanetworkopen.2022
 
 PMID- 35921109
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2574-3805 (Electronic)
 IS  - 2574-3805 (Linking)
 VI  - 5
@@ -26808,7 +27624,24 @@ PL  - United States
 TA  - JAMA Netw Open
 JT  - JAMA network open
 JID - 101729235
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Vaccines)
+RN  - N38TVC63NU (BNT162 Vaccine)
+RN  - SARS-CoV-2 variants
 SB  - IM
+MH  - Adolescent
+MH  - Ambulatory Care
+MH  - BNT162 Vaccine
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - COVID-19 Vaccines
+MH  - Case-Control Studies
+MH  - Child
+MH  - Emergency Service, Hospital
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - SARS-CoV-2
+MH  - *Vaccines
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:34
@@ -26822,8 +27655,9 @@ SO  - JAMA Netw Open. 2022 Aug 1;5(8):e2225162. doi:10.1001/jamanetworkopen.2022
 
 PMID- 35921107
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 2574-3805 (Electronic)
 IS  - 2574-3805 (Linking)
 VI  - 5
@@ -26866,7 +27700,20 @@ PL  - United States
 TA  - JAMA Netw Open
 JT  - JAMA network open
 JID - 101729235
+RN  - 0 (COVID-19 Vaccines)
 SB  - IM
+MH  - Adult
+MH  - *COVID-19/epidemiology/prevention & control
+MH  - *COVID-19 Vaccines/therapeutic use
+MH  - Child
+MH  - Cross-Sectional Studies
+MH  - Humans
+MH  - Intention
+MH  - Male
+MH  - Parents
+MH  - United States/epidemiology
+MH  - Vaccination
+MH  - Young Adult
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:34
@@ -26911,8 +27758,9 @@ SO  - JAMA. 2022 Aug 3. pii: 2795139. doi: 10.1001/jama.2022.14089.
 
 PMID- 35921075
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1523-2859 (Electronic)
 IS  - 0025-732X (Linking)
 VI  - 64
@@ -26926,14 +27774,33 @@ PL  - United States
 TA  - Med Lett Drugs Ther
 JT  - The Medical letter on drugs and therapeutics
 JID - 2985240R
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Drug Combinations)
+RN  - 0 (Lactams)
+RN  - 0 (Nitriles)
+RN  - 0 (nirmatrelvir and ritonavir drug combination)
+RN  - 9DLQ4CIU6V (Proline)
+RN  - GMW67QNF9C (Leucine)
+RN  - O3J8G9O825 (Ritonavir)
 SB  - IM
+MH  - Antiviral Agents
+MH  - *COVID-19
+MH  - Drug Combinations
+MH  - Humans
+MH  - Lactams
+MH  - Leucine
+MH  - Nitriles
+MH  - Pharmacists
+MH  - Prescriptions
+MH  - Proline
+MH  - Ritonavir
 OTO - NOTNLM
-OT  - COVID-19
-OT  - Paxlovid
-OT  - drug interactions
-OT  - nirmatrelvir
-OT  - ritonavir
-OT  - safety
+OT  - *COVID-19
+OT  - *Paxlovid
+OT  - *drug interactions
+OT  - *nirmatrelvir
+OT  - *ritonavir
+OT  - *safety
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:25
@@ -26945,8 +27812,9 @@ SO  - Med Lett Drugs Ther. 2022 Aug 8;64(1656):e124.
 
 PMID- 35921074
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1523-2859 (Electronic)
 IS  - 0025-732X (Linking)
 VI  - 64
@@ -26960,14 +27828,21 @@ PL  - United States
 TA  - Med Lett Drugs Ther
 JT  - The Medical letter on drugs and therapeutics
 JID - 2985240R
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (tixagevimab)
+RN  - 1KUR4BN70F (cilgavimab)
 SB  - IM
+MH  - Antibodies, Monoclonal
+MH  - *COVID-19/drug therapy
+MH  - Humans
+MH  - SARS-CoV-2
 OTO - NOTNLM
-OT  - COVID-19
-OT  - Evusheld
-OT  - cilgavimab
-OT  - dosage
-OT  - efficacy
-OT  - tixagevimab
+OT  - *COVID-19
+OT  - *Evusheld
+OT  - *cilgavimab
+OT  - *dosage
+OT  - *efficacy
+OT  - *tixagevimab
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:25
@@ -26979,8 +27854,9 @@ SO  - Med Lett Drugs Ther. 2022 Aug 8;64(1656):e122-e123.
 
 PMID- 35921073
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1523-2859 (Electronic)
 IS  - 0025-732X (Linking)
 VI  - 64
@@ -26994,19 +27870,23 @@ PL  - United States
 TA  - Med Lett Drugs Ther
 JT  - The Medical letter on drugs and therapeutics
 JID - 2985240R
+RN  - 0 (COVID-19 Vaccines)
 SB  - IM
+MH  - *COVID-19/prevention & control
+MH  - *COVID-19 Vaccines
+MH  - Humans
 OTO - NOTNLM
-OT  - COVID-19
-OT  - Comirnaty
-OT  - Novavax
-OT  - Spikevax
-OT  - adverse effects
-OT  - dosage
-OT  - efficacy
-OT  - lactation
-OT  - pregnancy
-OT  - safety
-OT  - vaccines
+OT  - *COVID-19
+OT  - *Comirnaty
+OT  - *Novavax
+OT  - *Spikevax
+OT  - *adverse effects
+OT  - *dosage
+OT  - *efficacy
+OT  - *lactation
+OT  - *pregnancy
+OT  - *safety
+OT  - *vaccines
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:25
@@ -27600,8 +28480,9 @@ SO  - Biometals. 2022 Aug 3. pii: 10.1007/s10534-022-00427-z. doi:10.1007/s10534
 
 PMID- 35920943
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1661-4917 (Electronic)
 IS  - 0004-069X (Linking)
 VI  - 70
@@ -27672,7 +28553,16 @@ PL  - Switzerland
 TA  - Arch Immunol Ther Exp (Warsz)
 JT  - Archivum immunologiae et therapiae experimentalis
 JID - 0114365
+RN  - EC 3.4.24.17 (Matrix Metalloproteinase 3)
+RN  - EC 3.4.24.24 (Matrix Metalloproteinase 2)
+RN  - EC 3.4.24.35 (Matrix Metalloproteinase 9)
 SB  - IM
+MH  - *COVID-19
+MH  - Humans
+MH  - *Matrix Metalloproteinase 2
+MH  - Matrix Metalloproteinase 3
+MH  - Matrix Metalloproteinase 9
+MH  - Severity of Illness Index
 OTO - NOTNLM
 OT  - CD147
 OT  - COVID-19
@@ -27694,8 +28584,9 @@ SO  - Arch Immunol Ther Exp (Warsz). 2022 Aug 3;70(1):18. doi:10.1007/s00005-022
 
 PMID- 35920939
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1862-3514 (Electronic)
 VI  - 17
 IP  - 1
@@ -27751,7 +28642,16 @@ PL  - England
 TA  - Arch Osteoporos
 JT  - Archives of osteoporosis
 JID - 101318988
+RN  - 0 (Diphosphonates)
 SB  - IM
+MH  - Alberta/epidemiology
+MH  - *COVID-19/epidemiology/therapy
+MH  - Communicable Disease Control
+MH  - Cross-Sectional Studies
+MH  - Diphosphonates/therapeutic use
+MH  - Humans
+MH  - *Osteoporosis/epidemiology/therapy
+MH  - Pandemics
 OTO - NOTNLM
 OT  - COVID-19
 OT  - Care patterns
@@ -27773,8 +28673,9 @@ SO  - Arch Osteoporos. 2022 Aug 3;17(1):110. doi: 10.1007/s11657-022-01132-7.
 
 PMID- 35920903
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1862-3514 (Electronic)
 VI  - 17
 IP  - 1
@@ -27830,6 +28731,16 @@ TA  - Arch Osteoporos
 JT  - Archives of osteoporosis
 JID - 101318988
 SB  - IM
+MH  - Aged
+MH  - Alberta/epidemiology
+MH  - *COVID-19/epidemiology
+MH  - Cross-Sectional Studies
+MH  - *Hip Fractures/epidemiology
+MH  - Hospitals
+MH  - Humans
+MH  - *Osteoporotic Fractures/epidemiology/surgery
+MH  - Pandemics
+MH  - Retrospective Studies
 OTO - NOTNLM
 OT  - COVID-19
 OT  - Fractures
@@ -27919,8 +28830,9 @@ SO  - Graefes Arch Clin Exp Ophthalmol. 2022 Aug 3. pii: 10.1007/s00417-022-0577
 
 PMID- 35920885
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1757-9996 (Electronic)
 IS  - 1602-1622 (Linking)
 VI  - 20
@@ -27939,6 +28851,12 @@ TA  - Oral Health Prev Dent
 JT  - Oral health & preventive dentistry
 JID - 101167768
 SB  - IM
+MH  - *COVID-19
+MH  - *Curriculum
+MH  - Dentistry
+MH  - Humans
+MH  - Pandemics
+MH  - Problem-Based Learning/methods
 OTO - NOTNLM
 OT  - Covid-19
 OT  - flipped classroom
@@ -27957,8 +28875,9 @@ SO  - Oral Health Prev Dent. 2022 Jun 28;20(1):331-338. doi: 10.3290/j.ohpd.b327
 
 PMID- 35920877
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1121-7138 (Print)
 IS  - 1121-7138 (Linking)
 VI  - 45
@@ -27973,7 +28892,18 @@ PL  - Italy
 TA  - New Microbiol
 JT  - The new microbiologica
 JID - 9516291
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (Immunoglobulin G)
 SB  - IM
+MH  - Antibodies, Viral
+MH  - *COVID-19
+MH  - Female
+MH  - Humans
+MH  - Immunoglobulin G
+MH  - *Pandemics
+MH  - Pregnancy
+MH  - Retrospective Studies
+MH  - SARS-CoV-2
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:14
@@ -27987,8 +28917,9 @@ SO  - New Microbiol. 2022 Jul;45(3):213-218.
 
 PMID- 35920872
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1121-7138 (Print)
 IS  - 1121-7138 (Linking)
 VI  - 45
@@ -28003,7 +28934,23 @@ PL  - Italy
 TA  - New Microbiol
 JT  - The new microbiologica
 JID - 9516291
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (Immunoglobulin A)
+RN  - 0 (Immunoglobulin G)
 SB  - IM
+MH  - Antibodies, Viral
+MH  - Antibody Formation
+MH  - *COVID-19
+MH  - Female
+MH  - Humans
+MH  - Immunoglobulin A
+MH  - Immunoglobulin G
+MH  - Infant, Newborn
+MH  - *Pneumonia
+MH  - Pregnancy
+MH  - *Pregnancy Complications, Infectious
+MH  - Prospective Studies
+MH  - SARS-CoV-2
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:14
@@ -28017,8 +28964,9 @@ SO  - New Microbiol. 2022 Jul;45(3):181-189.
 
 PMID- 35920871
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1121-7138 (Print)
 IS  - 1121-7138 (Linking)
 VI  - 45
@@ -28033,7 +28981,20 @@ PL  - Italy
 TA  - New Microbiol
 JT  - The new microbiologica
 JID - 9516291
+RN  - 0 (RNA, Guide)
+RN  - 0 (Spike Glycoprotein, Coronavirus)
+RN  - 0 (spike protein, SARS-CoV-2)
 SB  - IM
+MH  - *COVID-19/diagnosis
+MH  - COVID-19 Testing
+MH  - Humans
+MH  - Indonesia/epidemiology
+MH  - Molecular Docking Simulation
+MH  - Proteomics
+MH  - RNA, Guide
+MH  - *SARS-CoV-2/genetics
+MH  - Sensitivity and Specificity
+MH  - Spike Glycoprotein, Coronavirus
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 11:14
@@ -28981,8 +29942,9 @@ SO  - Am Surg. 2022 Aug 3:31348221117044. doi: 10.1177/00031348221117044.
 
 PMID- 35920693
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1469-493X (Electronic)
 IS  - 1361-6137 (Linking)
 VI  - 8
@@ -29021,7 +29983,17 @@ PL  - England
 TA  - Cochrane Database Syst Rev
 JT  - The Cochrane database of systematic reviews
 JID - 100909747
+RN  - 0 (COVID-19 Vaccines)
 SB  - IM
+MH  - Adolescent
+MH  - *COVID-19/prevention & control
+MH  - COVID-19 Vaccines
+MH  - Child
+MH  - Health Personnel/education
+MH  - Humans
+MH  - Randomized Controlled Trials as Topic
+MH  - *SARS-CoV-2
+MH  - Vaccination
 EDAT- 2022/08/04 06:00
 MHDA- 2022/08/04 06:00
 CRDT- 2022/08/03 09:32
@@ -29088,8 +30060,9 @@ SO  - Psychol Health Med. 2022 Aug 3:1-20. doi: 10.1080/13548506.2022.2108088.
 
 PMID- 35920631
 OWN - NLM
-STAT- In-Process
-LR  - 20220804
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220805
 IS  - 1757-9597 (Electronic)
 IS  - 1757-9597 (Linking)
 VI  - 13
@@ -29164,6 +30137,12 @@ TA  - Longit Life Course Stud
 JT  - Longitudinal and life course studies : international journal
 JID - 101513496
 SB  - IM
+MH  - *COVID-19/epidemiology
+MH  - *Earthquakes
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Pandemics
+MH  - Reproducibility of Results
 OTO - NOTNLM
 OT  - earthquake
 OT  - longitudinal
@@ -29184,7 +30163,7 @@ PMID- 35920612
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220804
-LR  - 20220804
+LR  - 20220805
 IS  - 2641-0397 (Electronic)
 IS  - 2641-0397 (Linking)
 VI  - 30
@@ -31588,7 +32567,7 @@ PMID- 35920028
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220804
-LR  - 20220804
+LR  - 20220805
 IS  - 1744-957X (Electronic)
 IS  - 1744-9561 (Linking)
 VI  - 18
@@ -31625,6 +32604,7 @@ MH  - Perception
 MH  - *Public Health
 MH  - Surveys and Questionnaires
 MH  - *Zoonoses
+PMC - PMC9346372
 OTO - NOTNLM
 OT  - SARS-CoV-2
 OT  - attitudes
@@ -31718,7 +32698,7 @@ PMID- 35920010
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220804
-LR  - 20220804
+LR  - 20220805
 IS  - 1661-8157 (Print)
 IS  - 1661-8157 (Linking)
 VI  - 111
@@ -32001,7 +32981,7 @@ SO  - Vox Sang. 2022 Aug 2. doi: 10.1111/vox.13340.
 PMID- 35919914
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2645-5390 (Electronic)
 IS  - 2645-5390 (Linking)
 VI  - 13
@@ -32037,7 +33017,7 @@ SO  - J Adv Periodontol Implant Dent. 2021 Jun 9;13(1):1. doi: 10.34172/japid.20
 PMID- 35919910
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 2405-6502 (Electronic)
 IS  - 2405-6502 (Linking)
 DP  - 2022 Jul 29
@@ -32086,7 +33066,7 @@ SO  - eNeurologicalSci. 2022 Jul 29:100418. doi: 10.1016/j.ensci.2022.100418.
 PMID- 35919901
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1719-8429 (Print)
 IS  - 1719-8429 (Linking)
 VI  - 31
@@ -32129,7 +33109,7 @@ SO  - J Can Acad Child Adolesc Psychiatry. 2022 Aug;31(3):144-151. Epub 2022 Aug
 PMID- 35919892
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 0040-1625 (Print)
 IS  - 0040-1625 (Linking)
 VI  - 183
@@ -32176,7 +33156,7 @@ SO  - Technol Forecast Soc Change. 2022 Oct;183:121909. doi:10.1016/j.techfore.2
 PMID- 35919872
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2057-1577 (Print)
 IS  - 2057-1577 (Linking)
 VI  - 8
@@ -32241,7 +33221,7 @@ SO  - Virus Evol. 2022 Jul 13;8(2):veac062. doi: 10.1093/ve/veac062. eCollection
 PMID- 35919871
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2057-1577 (Print)
 IS  - 2057-1577 (Linking)
 VI  - 8
@@ -32303,7 +33283,7 @@ SO  - Virus Evol. 2022 Jul 27;8(2):veac063. doi: 10.1093/ve/veac063. eCollection
 PMID- 35919870
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 2156-8650 (Electronic)
 IS  - 2156-8650 (Linking)
 DP  - 2022 Jul 29
@@ -32345,7 +33325,7 @@ SO  - Med Sci Educ. 2022 Jul 29:1-6. doi: 10.1007/s40670-022-01596-9.
 PMID- 35919864
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 0885-2006 (Print)
 IS  - 0885-2006 (Linking)
 DP  - 2022 Jul 29
@@ -32393,7 +33373,7 @@ SO  - Early Child Res Q. 2022 Jul 29. pii: S0885-2006(22)00066-7. doi:10.1016/j.
 PMID- 35919863
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 1863-9690 (Print)
 IS  - 1863-9690 (Linking)
 DP  - 2022 Jul 28
@@ -32452,7 +33432,7 @@ SO  - ZDM. 2022 Jul 28:1-13. doi: 10.1007/s11858-022-01394-y.
 PMID- 35919861
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2312-0541 (Print)
 IS  - 2312-0541 (Linking)
 VI  - 8
@@ -32591,7 +33571,7 @@ PMID- 35919814
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220804
-LR  - 20220804
+LR  - 20220805
 IS  - 1449-1907 (Electronic)
 IS  - 1449-1907 (Linking)
 VI  - 19
@@ -32666,7 +33646,7 @@ SO  - Int J Med Sci. 2022 Jun 27;19(7):1122-1130. doi: 10.7150/ijms.71286. eColl
 PMID- 35919808
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1885-642X (Print)
 IS  - 1885-642X (Linking)
 VI  - 20
@@ -32727,7 +33707,7 @@ SO  - Pharm Pract (Granada). 2022 Apr-Jun;20(2):2670. doi:10.18549/PharmPract.20
 PMID- 35919806
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1885-642X (Print)
 IS  - 1885-642X (Linking)
 VI  - 20
@@ -32791,7 +33771,7 @@ SO  - Pharm Pract (Granada). 2022 Apr-Jun;20(2):2634. doi:10.18549/PharmPract.20
 PMID- 35919804
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1885-642X (Print)
 IS  - 1885-642X (Linking)
 VI  - 20
@@ -32846,7 +33826,7 @@ SO  - Pharm Pract (Granada). 2022 Apr-Jun;20(2):2665. doi:10.18549/PharmPract.20
 PMID- 35919802
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1885-642X (Print)
 IS  - 1885-642X (Linking)
 VI  - 20
@@ -32909,7 +33889,7 @@ SO  - Pharm Pract (Granada). 2022 Apr-Jun;20(2):2677. doi:10.18549/PharmPract.20
 PMID- 35919796
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1885-642X (Print)
 IS  - 1885-642X (Linking)
 VI  - 20
@@ -32977,7 +33957,7 @@ SO  - Pharm Pract (Granada). 2022 Apr-Jun;20(2):2652. doi:10.18549/PharmPract.20
 PMID- 35919795
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1885-642X (Print)
 IS  - 1885-642X (Linking)
 VI  - 20
@@ -33028,7 +34008,7 @@ SO  - Pharm Pract (Granada). 2022 Apr-Jun;20(2):2678. doi:10.18549/PharmPract.20
 PMID- 35919794
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1885-642X (Print)
 IS  - 1885-642X (Linking)
 VI  - 20
@@ -33090,7 +34070,7 @@ SO  - Pharm Pract (Granada). 2022 Apr-Jun;20(2):2656. doi:10.18549/PharmPract.20
 PMID- 35919790
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1885-642X (Print)
 IS  - 1885-642X (Linking)
 VI  - 20
@@ -33151,7 +34131,7 @@ SO  - Pharm Pract (Granada). 2022 Apr-Jun;20(2):2659. doi:10.18549/PharmPract.20
 PMID- 35919788
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 2352-1546 (Print)
 IS  - 2352-1546 (Linking)
 DP  - 2022 Jul 29
@@ -33210,7 +34190,7 @@ PMID- 35919781
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220804
-LR  - 20220804
+LR  - 20220805
 IS  - 2616-163X (Electronic)
 IS  - 0016-9560 (Linking)
 VI  - 56
@@ -33285,7 +34265,7 @@ SO  - Ghana Med J. 2022 Mar;56(1):15-22. doi: 10.4314/gmj.v56i1.3.
 PMID- 35919758
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 1557-2013 (Print)
 IS  - 1557-2013 (Linking)
 DP  - 2022 Jul 29
@@ -33328,7 +34308,7 @@ SO  - Teach Learn Nurs. 2022 Jul 29. pii: S1557-3087(22)00067-1. doi:10.1016/j.t
 PMID- 35919757
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 1046-1310 (Print)
 IS  - 1046-1310 (Linking)
 DP  - 2022 Jul 29
@@ -33397,7 +34377,7 @@ SO  - Curr Psychol. 2022 Jul 29:1-19. doi: 10.1007/s12144-022-03446-8.
 PMID- 35919746
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 0925-4005 (Print)
 IS  - 0925-4005 (Linking)
 DP  - 2022 Jul 29
@@ -33452,7 +34432,7 @@ SO  - Sens Actuators B Chem. 2022 Jul 29:132445. doi: 10.1016/j.snb.2022.132445.
 PMID- 35919735
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2732-4303 (Electronic)
 IS  - 2732-4303 (Linking)
 VI  - 1
@@ -33506,7 +34486,7 @@ SO  - Immunother Adv. 2021 Jun 17;1(1):ltab007. doi: 10.1093/immadv/ltab007.eCol
 PMID- 35919732
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 0377-1237 (Print)
 IS  - 0377-1237 (Linking)
 DP  - 2022 Jul 19
@@ -33564,7 +34544,7 @@ SO  - Med J Armed Forces India. 2022 Jul 19. pii: S0377-1237(22)00078-8. doi:10.
 PMID- 35919705
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 0965-9978 (Print)
 IS  - 0965-9978 (Linking)
 DP  - 2022 Jul 29
@@ -33610,7 +34590,7 @@ SO  - Adv Eng Softw. 2022 Jul 29:103214. doi: 10.1016/j.advengsoft.2022.103214.
 PMID- 35919685
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 1615-5270 (Electronic)
 IS  - 1615-5262 (Linking)
 DP  - 2022 Jul 29
@@ -33660,7 +34640,7 @@ SO  - Int J Inf Secur. 2022 Jul 29:1-22. doi: 10.1007/s10207-022-00598-3.
 PMID- 35919675
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2590-1702 (Electronic)
 IS  - 2590-1702 (Linking)
 VI  - 16
@@ -33722,7 +34702,7 @@ SO  - Clin Infect Pract. 2022 Nov;16:100158. doi: 10.1016/j.clinpr.2022.100158. 
 PMID- 35919633
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 0889-1583 (Print)
 IS  - 0889-1583 (Linking)
 VI  - 65
@@ -33768,7 +34748,7 @@ SO  - J Jpn Int Econ. 2022 Sep;65:101218. doi: 10.1016/j.jjie.2022.101218. Epub 
 PMID- 35919629
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 0045-7825 (Print)
 IS  - 0045-7825 (Linking)
 DP  - 2022 Jul 28
@@ -33824,7 +34804,7 @@ SO  - Comput Methods Appl Mech Eng. 2022 Jul 28:115372. doi: 10.1016/j.cma.2022.
 PMID- 35919576
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2287-1098 (Print)
 IS  - 2287-1098 (Linking)
 VI  - 27
@@ -33881,7 +34861,7 @@ SO  - Prev Nutr Food Sci. 2022 Jun 30;27(2):137-149. doi: 10.3746/pnf.2022.27.2.
 PMID- 35919543
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 0167-9473 (Print)
 IS  - 0167-9473 (Linking)
 DP  - 2022 Jul 29
@@ -33932,7 +34912,7 @@ SO  - Comput Stat Data Anal. 2022 Jul 29:107581. doi: 10.1016/j.csda.2022.107581
 PMID- 35919542
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 0968-7599 (Print)
 IS  - 0968-7599 (Linking)
 VI  - 36
@@ -33953,12 +34933,14 @@ FAU - Smith, Roger O
 AU  - Smith RO
 AD  - Department of Occupational Science and Technology, University ofWisconsin-Milwaukee, Milwaukee, USA.
 LA  - eng
+GR  - 90DPGE0016/ACL/ACL HHS/United States
 PT  - Journal Article
 PL  - England
 TA  - Disabil Soc
 JT  - Disability & society
 JID - 9888363
 PMC - PMC9340793
+MID - NIHMS1814353
 OTO - NOTNLM
 OT  - community health planning
 OT  - disabled persons
@@ -33978,7 +34960,7 @@ SO  - Disabil Soc. 2021 Aug;36. doi: 10.1080/09687599.2021.1960276.
 PMID- 35919516
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1869-5450 (Print)
 VI  - 12
 IP  - 1
@@ -34037,7 +35019,7 @@ SO  - Soc Netw Anal Min. 2022;12(1):94. doi: 10.1007/s13278-022-00921-9. Epub 20
 PMID- 35919515
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2688-1152 (Electronic)
 IS  - 2688-1152 (Linking)
 VI  - 3
@@ -34102,7 +35084,7 @@ SO  - J Am Coll Emerg Physicians Open. 2022 Jul 29;3(4):e12793. doi:10.1002/emp2
 PMID- 35919510
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2688-1152 (Electronic)
 IS  - 2688-1152 (Linking)
 VI  - 3
@@ -34171,7 +35153,7 @@ SO  - J Am Coll Emerg Physicians Open. 2022 Jul 30;3(4):e12783. doi:10.1002/emp2
 PMID- 35919477
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2096-7071 (Electronic)
 IS  - 2096-7071 (Linking)
 VI  - 4
@@ -34235,7 +35217,7 @@ PMID- 35919471
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220804
-LR  - 20220804
+LR  - 20220805
 IS  - 0008-5286 (Print)
 IS  - 0008-5286 (Linking)
 VI  - 63
@@ -34277,7 +35259,7 @@ SO  - Can Vet J. 2022 Aug;63(8):785-786.
 PMID- 35919454
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2096-7071 (Electronic)
 IS  - 2096-7071 (Linking)
 VI  - 4
@@ -34363,7 +35345,7 @@ SO  - China CDC Wkly. 2022 Jul 1;4(26):565-569. doi: 10.46234/ccdcw2022.123.
 PMID- 35919414
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 1741-1122 (Print)
 IS  - 1741-1122 (Linking)
 VI  - na
@@ -34388,12 +35370,14 @@ AU  - Xu Y
 AUID- ORCID: 0000-0002-2966-7576
 AD  - Department of Health Sciences Education, University of Illinois College ofMedicine at Rockford, Rockford, Illinois, USA.
 LA  - eng
+GR  - 90IFST0004/ACL/ACL HHS/United States
 PT  - Journal Article
 PL  - United States
 TA  - J Policy Pract Intellect Disabil
 JT  - Journal of policy and practice in intellectual disabilities
 JID - 101201084
 PMC - PMC9340799
+MID - NIHMS1819923
 OTO - NOTNLM
 OT  - COVID-19
 OT  - autism
@@ -34414,7 +35398,7 @@ SO  - J Policy Pract Intellect Disabil. 2022;na:1-13.
 PMID- 35919398
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 1573-174X (Electronic)
 IS  - 0018-1560 (Linking)
 DP  - 2022 Jul 28
@@ -34465,7 +35449,7 @@ SO  - High Educ (Dordr). 2022 Jul 28:1-16. doi: 10.1007/s10734-022-00886-w.
 PMID- 35919388
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220805
 IS  - 1068-1620 (Print)
 IS  - 1068-1620 (Linking)
 DP  - 2022 Jul 28
@@ -34521,7 +35505,7 @@ SO  - Russ J Bioorg Chem. 2022 Jul 28:1-13. doi: 10.1134/S1068162022050132.
 PMID- 35919382
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2689-2820 (Electronic)
 IS  - 2689-2820 (Linking)
 VI  - 3
@@ -34580,7 +35564,7 @@ SO  - Palliat Med Rep. 2022 Jun 21;3(1):107-115. doi: 10.1089/pmr.2021.0084.eCol
 PMID- 35919381
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2689-2820 (Electronic)
 IS  - 2689-2820 (Linking)
 VI  - 3
@@ -34644,7 +35628,7 @@ SO  - Palliat Med Rep. 2022 Jun 7;3(1):98-104. doi: 10.1089/pmr.2021.0050. eColl
 PMID- 35919373
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2046-2069 (Electronic)
 IS  - 2046-2069 (Linking)
 VI  - 12
@@ -34690,7 +35674,7 @@ SO  - RSC Adv. 2022 Jul 8;12(30):19579-19589. doi: 10.1039/d2ra03179e. eCollecti
 PMID- 35919372
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2046-2069 (Electronic)
 IS  - 2046-2069 (Linking)
 VI  - 12
@@ -34771,7 +35755,7 @@ SO  - RSC Adv. 2022 Jul 4;12(30):19327-19339. doi: 10.1039/d2ra02653h. eCollecti
 PMID- 35919370
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2168-8184 (Print)
 IS  - 2168-8184 (Linking)
 VI  - 14
@@ -34865,7 +35849,7 @@ SO  - Ann Oper Res. 2022 Jul 28:1-26. doi: 10.1007/s10479-022-04837-7.
 PMID- 35919343
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20220803
+LR  - 20220805
 IS  - 2752-4191 (Electronic)
 IS  - 2752-4191 (Linking)
 VI  - 2
